@@ -24,8 +24,8 @@ for(var i in lng){ //
      if (lng[i] in text){
         count_all++;
         if (text[lng[i]].search(/[А-яЁё]/) > 0 ){
-            globArr[i] = i + "=" + i + "!!!"; // miCaptions
-            // globArr[i] = i + "=" + text[lng[i]]; // RU ***
+            // globArr[i] = i + "=" + i + "!!!"; // miCaptions
+            globArr[i] = i + "=" + text[lng[i]]; // RU ***
             count_ru++;
         }
         else {
