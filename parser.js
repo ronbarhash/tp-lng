@@ -15,7 +15,7 @@ for(var i in en_arr){
     var tmp_arr = en_arr[i].split(";");
     text[tmp_arr[0]]=tmp_arr[1];
 }
-// console.log(text);
+//console.log(text);
 
 var contents = fs.readFileSync('src/lng/tpChannel_ru.lng', 'utf8');
 var arr = contents.split("\r\n");
@@ -29,21 +29,28 @@ for(var i in arr){
         // globArr[tmp[0]]=text[tmp[1]];
         if (text[tmp[1]].search(/[А-яЁё]/) > 0 ){
             globArr[tmp[0]] = tmp[0] + "=" + text[tmp[1]];
-            console.log(globArr[tmp[0]]);
+            //console.log(globArr[tmp[0]]);
             count_ru++;
         }
         else {
             text[tmp[1]] = text[tmp[1]].replace("***","")
+
             globArr[tmp[0]] = tmp[0] + "=" + text[tmp[1]];
             //console.log(text[tmp[1]]);
         }
 
     }else globArr[tmp[0]] = tmp[0];
-
+    if(j === globArr[j])
+        globArr[j]="";
 
 }
+
 for (var j in globArr){
-    fs.appendFile('dist/tpChannel_en.lng', globArr[j] + '\r\n' , function (err) {
-});
+    if( globArr[j].indexOf("[") >0 )
+        fs.appendFileSync('dist/tpChannel_en.lng', 'r\n' + globArr[j] + '\r\n','ascii' );
+    else
+        fs.appendFileSync('dist/tpChannel_en.lng', globArr[j] + '\r\n' );
+
+    console.log(j+globArr[j]);
 }
 console.log("RU =" + count_ru + " and ALL = " + count_all);
