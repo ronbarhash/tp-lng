@@ -21,7 +21,8 @@ for(var i in arr){
         count_all++;
 
         if (text[tmp[1]].search(/[А-яЁё]/) > 0 ){
-            globArr[tmp[0]] = tmp[0] + "=" + text[tmp[1]];
+            globArr[tmp[0]] = tmp[0] + "=" + tmp[0];
+            // globArr[tmp[0]] = tmp[0] + "=" + text[tmp[1]]; // AAAA
 
             count_ru++;
         }
@@ -35,13 +36,13 @@ for(var i in arr){
         globArr[j]="";
 
 }
-
+console.log(globArr);
 for (var j in globArr){
     if( globArr[j].indexOf("[") >0 )
-        fs.appendFileSync('dist/tpChannel_en.lng', 'r\n' + globArr[j] + '\r\n','ascii' );
+        fs.appendFileSync('dist/tpChannel_en.lng', "\n" + globArr[j] + '\r\n','ascii' );
     else
         fs.appendFileSync('dist/tpChannel_en.lng', globArr[j] + '\r\n' );
 
-    console.log(j+globArr[j]);
+    //console.log(j+globArr[j]);
 }
 console.log("RU =" + count_ru + " and ALL = " + count_all);
