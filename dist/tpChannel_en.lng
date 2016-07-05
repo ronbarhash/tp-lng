@@ -13642,3 +13642,4419 @@ miCompare.Hint=***Сопоставить
 miCompare.Caption=***Сопоставить
 miClearFrom.Hint
 miClearFrom.Caption
+[Language]
+
+Name=English
+Project=tpChannel
+Flags=1
+
+[Application]
+FileDescription=Module of the channel employees
+Title=Teleport Channel
+[formatsettings]
+ShortMonthNames1=Jan
+ShortMonthNames2=Feb
+ShortMonthNames3=mar
+ShortMonthNames4=Apr
+ShortMonthNames5
+ShortMonthNames6=Jun
+ShortMonthNames7=Jul
+ShortMonthNames8=aug
+ShortMonthNames9=Sep
+ShortMonthNames10=Oct
+ShortMonthNames11=Nov
+ShortMonthNames12=Dec
+LongMonthNames1=January
+LongMonthNames2=February
+LongMonthNames3=March
+LongMonthNames4=April
+LongMonthNames5=May
+LongMonthNames6=June
+LongMonthNames7=July
+LongMonthNames8=August
+LongMonthNames9=September
+LongMonthNames10=October
+LongMonthNames11=November
+LongMonthNames12=December
+ShortDayNames1=Sun
+ShortDayNames2=Mon
+ShortDayNames3=Tue
+ShortDayNames4=Wed
+ShortDayNames5=Thu
+ShortDayNames6=Fri
+ShortDayNames7=Sat
+LongDayNames1=Sunday
+LongDayNames2=Monday
+LongDayNames3=Tuesday
+LongDayNames4=Wednesday
+LongDayNames5=Thursday
+LongDayNames6=Friday
+LongDayNames7=Saturday
+[messages]
+month_aux_1=of January
+month_aux_2=of February
+month_aux_3=of March
+month_aux_4=of April
+month_aux_5=of May
+month_aux_6=of June
+month_aux_7=of July
+month_aux_8=of August
+month_aux_9=of September
+month_aux_10=of October
+month_aux_11=of November
+month_aux_12=of December
+msg_aktivirovat=Activate
+msg_bolshoe_smeshchenie_vo=The shift in time is too long. Would you like to find a more suitable spot?
+msg_budet_dobavlena_nov=A new discount/extra charge will be added
+msg_budet_otmechena_kak=do you want it to be marked as received?
+msg_budet_peremeshchen_v_d=will be moved to another block. Do you want to continue?
+msg_budet_udalena
+msg_budet_udaleno=will be deleted!
+msg_budet_udaljen_1=will be deleted!
+msg_budet_udaljen_iz_spi=will be deleted from the list of clips from the reel!
+msg_budet_udaljen_prodo=will be deleted! Are you sure you want to continue?
+msg_byudzhet_net=Budget, NET $
+msg_celevaya_auditoriya
+msg_chas=hour
+msg_data=date
+msg_data_1=Date
+msg_ddmmmmyyyy_v_hhm=dd.mmmm.yyyy in HH.mm.ss
+msg_deaktivirovat=Deactivate
+msg_dlya=for
+msg_dlya_klienta=for the client
+msg_dlya_perioda_s=For the period from
+msg_dobavit_rolik_dlya=Add clip to the cassette №
+msg_dobavit_vyhod=Add a showing
+msg_dobavlen=added
+msg_dobavlen_novyj_prod=New product added
+msg_dobavlen_zapros_na=Request added for the registry of the new product
+msg_eta_zapis_uzhe_sopo=This record has already been matched
+msg_eto_razmeshchenie_iz_d=This placement is from another order! Are you sure you want to delete it?
+msg_gotov=Ready
+msg_informaciya_dobavlen=Information has been added, but is unseen due to the filter settings
+msg_izmenit_sostoyanie=Switch the order mode to
+msg_izmenit_usloviya_fi=Would you like to change the filter settings?
+msg_k_klipu=to the clip
+msg_kasseta=Reel №
+msg_kassety_na_kanale=The reel is at the channel
+msg_kassety_u_prodavca=The reel is at the seller
+msg_klip_1=Clip
+msg_klip_ne_najden=Clip was not found
+msg_kompaniya=Company
+msg_korrektirovaka=Correcting
+msg_linii=lines
+msg_menedzher=Manager
+msg_menedzher_klienta=Client’s manager
+msg_mpeg__video_fajly
+msg_na=on
+msg_na_etom_liste_net_n=No required data on this sheet
+msg_na_kanale=at the channel
+msg_ne_najden=not found
+msg_ne_zaregistrirovano=No products have been registered
+msg_net_dannyh=No data found
+msg_net_dannyh_dlya_otchje=No data for the account
+msg_net_smysla_iskat_p=There’s no point looking for a blank line!
+msg_net_vydelennogo_rol=Selected clip not found
+msg_nichego_ne_najdeno=Nothing found!
+msg_obem_wgrps
+msg_obnovit_gfknazvan=Refresh gfk-name...
+msg_odobrenie_formirova=Approval of creation
+msg_odobrenie_korrektir=Approval of editing
+msg_odobrenie_predmonta=Approval of preinstallation preparations
+msg_ok=Ok
+msg_ot=, from:
+msg_otkrytoe_reklamnoe=Opened commercial time
+msg_otobrazhat=display->
+msg_otpravit_kasetu=Send reel № %d to the channel
+msg_perenesti_vse_izmen=Would you like to transfer all the changes to the server?
+msg_pereveden_v_sostoyan=changed into planning mode!
+msg_planirovanie=Planning
+msg_po_klientu=by client
+msg_po_prodavcu=by seller
+msg_po_zakazu=by order
+msg_podtverzhden=Confirmed
+msg_pravilo_razmeshcheniya=Placement rule
+msg_predmontazhnaya_podgo=Preinstallation preparations
+msg_produkt=Product
+msg_proizvoditel=Producer
+msg_pustaya=empty
+msg_rabotnik=Employee
+msg_rasschet=Accounting
+msg_razmeshchenie=Placement
+msg_razmeshchenie_s=Placement %s
+msg_razmeshcheniya=Placements
+msg_razmeshcheniya_po_zakazu=Placements on demand
+msg_redaktirovat=Edit...
+msg_rejtingi=Ratings
+msg_reklamodatel=Advertiser
+msg_rezultat_razmeshcheni=The result of the order placement
+msg_rolik=Clip
+msg_rolik_1=***ролик
+msg_rolik_s_id
+msg_roliki_zakaza=Clips from the order
+msg_s_pomoshchyu_etogo_mas=With this wizard you can add a new client’s manager
+msg_s_pomoshchyu_etogo_mas_1=With this wizard you can add a new manager
+msg_s_pomoshchyu_etogo_mas_2=With this wizard you can register the employees from the user list
+msg_sdelat_nevidimym_d=Make invisible to the clients
+msg_sdelat_vidimym_dlya=Make visible to the clients
+msg_sdelat_vidimym_i_d=Make visible and accessible to the clients for arrangements
+msg_skidka
+msg_sozdan=created
+msg_sozdan_rolik_s_nome=clip created with #
+msg_sozdan_zakaz_s_nome=created order #
+msg_sozdana_kasseta_s_n=Created reel #
+msg_sozdat_direktoriyu=Create a directory
+msg_stoimost__net
+msg_stoimost_grp_n
+msg_stoimost_reklamnog=The cost of commercial airtime TDG
+msg_stoimost_reklamnog_1=The cost of commercial airtime TGG
+msg_stolbcy=columns
+msg_sushchestvuet_prodolzh=exists. Do you want to continue?
+msg_takaya_direktoriya=Such directory
+msg_takoj_fajl_uzhe_sushche=The same file already exists. Do you want to overwrite it!?
+msg_udalen=Deleted
+msg_udalit_kasetu=Delete cassette №
+msg_udalit_vydelennye=Do you want to delete the selected placements!?
+msg_udalit_vyhod=Do you want to delete the broadcast!?
+msg_ustanovit_put=Create path
+msg_ustanovlena_papka=folder installed
+msg_v_bloke_uzhe_est_d=already exists in the block! Would you like to add another one?
+msg_vid=view->
+msg_vremya=time
+msg_vse_vybranye_kasset=All the selected reels are already sent
+msg_vstavka
+msg_vstavka_1
+msg_zakaz=Order №
+msg_zakaz_nahoditsya_v_s
+msg_zakaza=order
+msg_zakryt=Closed
+msg_zamenit=Replace
+msg_zapis_v_xlsfajle=The data in the Xls-file is hidden.
+msg_zapolnenie_grafik=Filling (diagram)
+msg_zapolneno=filled (%)
+msg_zapolneno_vremya_blo=The block time is filled
+msg_zapros_na_registrac=Request for the product registration
+msg_zaregistrirovat_ka=Register a reel
+msg_dlya_podklyucheniya_sis=It is necessary to describe at least one server to connect to the system. Do you want to do this now?
+msg_kompressiya=Compression:
+msg_net_podklyucheniya=No connection
+msg_novaya_versiya_progra=The update version of the program is ready for installation. It is recommended to install it. Click on the icon to start the installation.
+msg_novaya_versiya_progra_1=The update version of the program
+msg_obnaruzhena_novaya_ve
+msg_obnaruzhena_novaya_ve_1=Update version of the program was found -
+msg_podklyuchen_k_serveru=Connected to the server
+msg_podklyuchenie_k_ser
+msg_polzovatel_budet=The user will be deleted from the list. Do you want to continue?
+msg_prervat_process=. Do you want to interrupt the process?
+msg_privelegii=Privileges
+msg_proishodit_skachivan=Update version of the program is being exported from the Web-server -
+msg_shchelknite_po_ikonk
+msg_shifrovanie_peredava=Encrypting of the transmitted information is off
+msg_soedinenie_uspeshno=The connection is established successfully
+msg_sohranit_nepodtver=Would you like to save the unconfirmed changes?
+msg_szhatie_peredavaemoj=The compression of the transmitting information is off
+msg_u_vas_ustanovlena_s=You have the most fresh version of the program installed. There are no updates at the moment
+msg_versii=releases
+msg_vklyucheno_shifrovanie=The encrypting of the transmitting information is activated
+msg_vklyucheno_szhatie_per=Compression of the transmitting information is activated
+msg_vse_nastrojki_siste=All the system settings will be asigned by default. Do you want to continue?
+msg_vy_lishili_polzovat=You have divested the user of all his rights, he will be deleted from the list. Are you sure you want to continue?
+msg_zagruzhena_i_gotov=, exported and ready to install. Would you like to install it?
+msg_zagruzit_ee=. Do you want to download it?
+msg_a_takzhe_polozhenie_p=also the position of the program will be changed
+msg_blok_d_dobavlen_v=Block %d is added to the on-air playlist%d
+msg_blok_s_dlits
+msg_budet_ochishchena_prod=will be deleted Do you want to continue?
+msg_budet_udaljen=will be deleted!
+msg_byli_proizvedeny_iz=Changes were made in the genre grid. Do you want to save the changes on the server?
+msg_byudzhet=budget
+msg_chmmss=hh:mm:ss
+msg_dannye_byli_izmenen=The data has been changed by the user
+msg_dannye_ne_zagruzheny=The data hasn’t been exported
+msg_den=Day
+msg_detalnaya_setka=Detail grid
+msg_dlitelnost_efirno
+msg_dlya_rolika=for the commercial
+msg_dlya_vocstanovleniya=To restore the changes address to the developers. (code-
+msg_do=before
+msg_dobavit_fajl=Add file
+msg_dobavlen_fragment_v=fragment added to the block %d from %d
+msg_dobavlen_plejlist
+msg_fajly_excel_xls=Excel files (*.xls)|*.xls
+msg_fajly_html_html=HTML files (*.html)|*.html
+msg_fajly_xls_xml=XLS files (*.xml)|*.xml
+msg_fakt_proizvodstva=production fact
+msg_fiksirovat=Fixation
+msg_formirovanie=***Формирование
+msg_formiruem_dannye=forming data
+msg_formiruem_zagolovki=forming headings
+msg_inventar=inventory
+msg_iz_fajla=from the file
+msg_izmenenie=Change
+msg_izmeneniya_zhanrovoj=Changes in the genre grid were not saved to the server
+msg_izmenit_na_sost
+msg_kanal=channal
+msg_kanal_1=Channel
+msg_klip=Clip
+msg_klip_sopostavlen=the clip is collated
+msg_kolonka=column
+msg_kopirovat_zhanrovuyu=Copy the genre grid
+msg_m=М
+msg_menshe_predydushchego=less than the previous
+msg_mmss=mm:ss
+msg_na_datu=dated
+msg_na_kanal=at the channel
+msg_najdeno_klipov__bol
+msg_najdeno_klipov__bol_1
+msg_ne=not
+msg_ne_1
+msg_ne_identificirovano=None of the targeted audience is identified in the xls-file
+msg_ne_najden_klip=the clip was not found
+msg_ne_ukazan_ni_odin_d=None of the days of the week was indicated!
+msg_ne_ustanovleno_soed
+msg_ne_verno_zadano_zna=The time value was assigned incorrectly
+msg_ne_zakryt=not closed.
+msg_neizvestno=unknown
+msg_net_odobrenij=no approvals
+msg_net_razryvov_v_pere=No breaks between programs in the period of
+msg_neverno_zadano_znach=The rating value was specified incorrectly
+msg_ochishchena=Clear
+msg_ochistit__rejtingi
+msg_odobrenie=approval
+msg_oshibka_na_servere=( Error on the server
+msg_oshibka_soedineniya=( Connection error server
+msg_osushchestvit_vyravni=adjust breaks
+msg_otbivochnyj=separating
+msg_otkrytie_detalnoj=The opening of the detail grid
+msg_otsutstvuet_informa=The output information is absent!
+msg_otvet_servera_ne_na=No response from the server was found. Refresh the data.
+msg_parametry_otobrazhen=Display settings
+msg_pered=before
+msg_peredacha=Program
+msg_perevesti_den_v_so=Shift the day into mode
+msg_planovyj_sor=planned SOR
+msg_po=***по
+msg_posle=after
+msg_pravka=edit
+msg_pri_etom_budet_izme=in this case the position of the other breaks or TV programs will be changed
+msg_pri_proverke_obnaru=Notifications were detected during the check. Do you want to continue?
+msg_prodavec=seller
+msg_prodavec_1=***Продавец
+msg_prodolzhit=. Do you want to continue!?
+msg_prodolzhit_1=Do you want to continue?
+msg_programm=program
+msg_programmnaya_setka=Program grid
+msg_prosmotr_perevesti=view (shift the grid to formation mode)
+msg_proverka_zakonchena=Check completed.
+msg_proverte_dannye=Check the data
+msg_pustoe_znachenie=Blank value!
+msg_razblokirovat=Unblock
+msg_razmeshchenie_na_kanale=Placement on the channel
+msg_razryvy_budut_zapol=Empty spaces will be filled with breaks
+msg_rejtingi_blokov=Blocks’ ratings
+msg_rejtingi_peredach=TV programs’ ratings
+msg_s=With
+msg_s_korrekciej_znach=, With the editing of the start time value
+msg_s_korrekciej_znach_1=, With the editing of the duration value
+msg_sbor_odobrenij=the collection of approvals
+msg_sejchas_drugoj_polz=Another user is trying to edit the data right now
+msg_setka_v_sostoyanii_f=The grid is in formation mode
+msg_sohranit_izmeneniya=Do you want to save the changes!?
+msg_sohranit_izmenenny=Do you want to save the changed data!?
+msg_sostoyanie
+msg_sozdana_svyaz=the connection has been established
+msg_sozdanie=Creation
+msg_sozdanie_peredachi=Creation of a tv program
+msg_sozdanie_vstavki=Creation of commercial breaks
+msg_status_dnya=Status of the day
+msg_stroka=line
+msg_svyaz_mezhdu_klipom=Connections between the video-server’s clip %d and the teleport’s clip %d
+msg_tak_kak_obnaruzhen_z=because a fixed object or an end of airtime was detected
+msg_telekanala=***телеканала
+msg_teleprogrammy_s_vo=TV programs %s possibly
+msg_tolko_dlya_chteniya=reading only
+msg_tolko_regionalnye=Regional blocks only
+msg_tzhs_zanyata_polzova=The TGG is occupied by another user
+msg_udalenie_vydelennyh=removal of the selected breaks
+msg_udalenie_vydelennyh_1=Removal of the selected programs
+msg_udalit_svobodnoe_m=Remove the white space between the TV programs?
+msg_ukazhite_kanal_s_ko=Indicate the channel with which the contract is concluded
+msg_ukazhite_prodavca_s=Indicate the seller with which the contract is concluded
+msg_utverdit_tzhs=Do you want to approve the TGG?
+msg_utverzhdena=approved
+msg_uzhe_sushchestvuet_mont=The edit decision list already exists for such date
+msg_vashe_odobrenie_prin=Your approval is accepted.
+msg_vklyuchit_rezhim_form=activate the formation mode
+msg_vnimanie=Attention!
+msg_vnutri=inside
+msg_vozmozhno_ne_otkryt=It is possible the year is not opened.
+msg_vse=all
+msg_vse_programmy_v_eto=All programs of this day will be deleted. Do you want to continue!?
+msg_vse_roliki
+msg_vse_teleprogrammy_b=All TV programs from this day will be deleted! Are you sure you want to continue?
+msg_vse_vnesennye_so_vr=All changes since the last saving will be lost!
+msg_vse_vydelennye_tele=All selected TV programs will be deleted! Are you sure you want to continue?
+msg_vse_vydelennye_tele_1=All selected TV programs/breaks will be deleted! Are you sure you want to continue?
+msg_vse_vydelennye_vsta=All selected breaks will be deleted! Are you sure you want to continue?
+msg_vsego=Altogether:
+msg_vstavki_budut_uzhaty=Breaks will be compressed. Are you sure you want to continue?
+msg_vstavki_s_vozmozhno=breaks %s possibly
+msg_vstavok=breaks
+msg_vy_dejstvitelno_ho=Are you sure you want to delete the contract?
+msg_vy_dejstvitelno_ho_1=Do you really want to delete
+msg_vy_dropnuli_fajl=you dropped the file
+msg_vy_hotite_zakryt_p=Do you want to close the application?
+msg_vydelennaya_teleprog=The selected TV program will be deleted! Are you sure you want to continue?
+msg_vydelennaya_vstavka=The selected breaks will be deleted! Are you sure you want to continue?
+msg_vyvodim_dannye=displaying data
+msg_za=beyond
+msg_zagruzit_setku=Do you want to export the grid?
+msg_zapolnit_rejtingi=Fill the ratings
+msg_zhanrovaya_setka
+msg_zhanrovaya_setka_naho
+msg_zhanrovye_setki=Genre grids|
+msg_znachenie_vremeni=Time value
+mcg_dlitelnost=, duration-
+mcg_kategoriya=category
+mcg_konechnaya_granica_ve=the end bound of the broadcast cannot be placed into
+mcg_konflikty=Conflicts:
+mcg_nachalnaya_granica_v=the start bound of the broadcast cannot be installed into
+mcg_ne_korrektnaya_dlite=incorrect duration
+mcg_ne_poluchaetsya_dobav=There are troubles adding the program
+mcg_ne_pravilnoe_rasp=The arrangement of breaks is incorrect before
+mcg_ne_pravilnoe_rasp_1=The arrangement of breaks is incorrect after
+mcg_ne_vozmozhno_uzhat_v=It is impossible to compress the break.
+mcg_nelzya_peremestit=One cannot transmit the break, because some will appear to be beyond the limits of the transmission
+mcg_nelzya_udalit_pere=One cannot delete the program intended for reading only
+mcg_nelzya_udalit_vsta=One cannot delete a read-only break
+mcg_nepravilnye_param=incorrect settings
+mcg_oshibka_v_raschetah_n=Error in calculations cannot be moved %d (%d)
+mcg_peresechenie__vnutre
+mcg_peresechenie_programm=Intersection of programs
+mcg_prevyshenie_v_d_chas
+mcg_programma=program -
+mcg_takoj_den_v_period=Such day in the period already exists
+mcg_v=in
+mcg_vremya_vyhodit_za_ra=time exceeds the broadcast limits of the channel
+mcg_vstavka=break -
+mcg_vstavka_vyhodit_za=The break exceeds the program limits
+mcg_impossible_create_brk=It is impossible to create a break
+mdm_dlya_kopirovaniya_vst=To copy breaks it is necessary to select the program
+mdm_izmenenij_ne_bylo=no changes made
+mdm_ne_izvestnyj_tip_se=type unknown
+mdm_ne_opredelen__shabl
+mdm_ne_opredelen_den=the day is not specified
+mdm_ne_opredelen_kanal=the channel is not specified
+mdm_ne_opredelen_tip_se=the type of the grid is not specified. Procedure LoadFromServer
+mdm_nedostatochno_mesta=Not enough space
+mdm_otvet_servera_ne_na=The reply from the server was not found
+mdm_tzhs_ispolzuetsya_po=The grid is blocked by the user
+mdm_zagruzhena_detalnaya=the detail grid has been exported
+mdm_zagruzhena_zhanrovaya=the genre grid has been exported
+mdm_outdate_data=outdated data. Needs update
+msg_iz_spiska_produkto=from the client’s list?
+msg_udalit=Delete
+msg_razmeshcheniya_draft=The order placements have been removed
+msg_izmenenie_gfknazva=change of the GFK- name
+xls_code=Code
+xls_time=Broadcast time
+xls_program=Program
+xls_trace=Trace
+xls_na=on
+xls_duration=Duration
+xls_name=Name
+report_xlrMountGridUT=..\Shared\Templates\mountgrid_ut.xls
+report_gridbyday_2=..\shared\Templates\gridbyday2.xls
+msg_ch_change_day_state
+report_clientsrealization=ClientsRealization.xls
+msg_incorrect_pwd=Incorrect password
+msg_incorrect_repeat_pwd=The new password is entered incorrectly
+report_gridbyday_1=..\shared\Templates\flTVGenreGrid.xls
+report_gridSpaces=..\shared\Templates\flTVGridProgBreaks.xls
+report_gridweek=..\shared\Templates\flTVGridWeekPreview.xls
+msg_order_in_state_place
+report_gridword=..\shared\Templates\flTVGridWord
+xls_robocha_programa=Production program for
+report_xlrsaleplanrealizatiion=..\shared\Templates\SalePlanRealization.xls
+report_xlrsot=..\Shared\Templates\SOT.xls
+report_xlrplacementcost=..\Shared\Templates\orderPlacementCost.xls
+report_xlrmountgrid1=..\Shared\Templates\MountGridOld.xls
+msg_placement_impossible=Placement is impossible
+msg_clip_not_selected=The selected file was not found
+mcg_falseBeginUpdate=possibly the grid is occupied by another user
+err_lostobject=Object lost. Possibly destroyed/changed by another user
+msg_cannot_link_category=the category is not linked
+mcg_impossible_add_edge_brk=it is impossible to add the separating break
+msg_pl_deny_seller=Close for placement
+msg_linked_category=linked category
+brkcost_tgg=TGG
+brkcost_product_tgg=the product is in the TGG
+msg_vs_user_not_found=User %s isn’t registered on the video-server
+brkcost_client_tdg=the client is in the TDG
+report_breakcost=..\shared\Templates\breakcost.xls
+msg_pl_access_seller=Open for placement
+brkcost_tdg=TDG
+brkcost_product_tdg=the product is in the TDG
+brkcost_client_tgg=the client is in the TGG
+msg_off=Turn off
+report_xlrcostbyclients=..\Shared\Templates\costbyClients.xls
+msg_not_sended=not sent
+msg_on=Turn on
+report_mountgrid=..\shared\Templates\mountgrid.xls
+report_xlrcostbyclientsorders=..\Shared\Templates\costbyClientsOrders.xls
+report_gfkdatato1c=..\shared\Templates\gfkDataTo1C.xls
+report_xlrchannelsplacements=..\Shared\Templates\channelsPlacements.xls
+report_reportcostorder=..\shared\Templates\reportCostOrder.xls
+msg_delete_sponsor_announcement=Delete the sponsor’s announcement
+msg_delete_range=Delete the range of addresses’
+msg_end_times=the end of time
+msg_error_groups_is_not_corresponding=The groups are not corresponding. Do you want to continue?
+const_no=not
+msg_izmenenie_gfk_nazva=change of the GFK- name
+cap_view_reel_data=Review of data by reel...
+msg_production=will be received from production
+msg_buffer_is_not_empty=The placements are in the buffer. Do you want to continue?
+msg_begin_times=the beginning of time
+msg_sponsor_clip_is_exists=Sponsor’s clip is already present in the sponsor’s preview. Do you want to add it again?
+const_integrated=integrated.
+msg_error_sponsor_duration=The duration of the commercial should be more than 5 seconds
+msg_po_sa=by SA
+msg_hour_second=Hour(sec)
+msg_day_percent=Day(%)
+msg_settings_will_take_effect_after_restart=The settings will take effect only after the restart of the application.
+msg_breaks=breaks
+msg_day_second=Day(sec)
+msg_do_you_want_to_confirm_npp_placement=Would you like to confirm the NPP-placement in this day
+report_mountgridmtv=..\shared\Templates\mountgrid_MTV.xls
+msg_hour_percent=Hour(%)
+report_xlrMountGrid3=..\Shared\Templates\mountgrid_3.xls
+msg_delete_area=Delete region
+msg_havent_rule
+msg_do_you_want_to_cancel_npp_order=Do you want to cancel the NPP order agreement?
+msg_do_you_want_to_confirm_npp_order=Do you want to confirm the NPP order?
+msg_clips=clips
+msg_do_you_want_to_delete_product_category
+msg_do_you_want_to_cancel_npp_placement=Do you want to cancel the NPP-placement agreement in this day
+msg_check_periods=The periods are indicted incorrectly.
+msg_block=block №
+msg_total=total
+report_mountgrid4=..\shared\Templates\mountgrid_4.xls
+report_mountgridAtv=..\shared\Templates\mountGridATV.xls
+msg_npp=NPP
+msg_cannot_change_duration=Cannot change the duration
+msg_break_is_empty=no placements in the block
+report_gfkdatatoonair=..\shared\Templates\gfkDataToOnAir.xls
+msg_missing_media_code=the media code missing
+msg_duration_of_video=The duration of the video material
+msg_your_choose_is=You chose  - you selected
+msg_not_all_fields_are_filled=Not all fields are filled. It is possible you missed the code or type.
+msg_not_found_breaks=Breaks for the adaption were not found.
+msg_do_you_want_to_save_changes=Do you want to save the changes?
+msg_check_data=Check the accuracy of the input data
+msg_break_must_growed=it is necessary to increase the duration of the break
+msg_channel=Channel
+msg_mediacode_already_exists=Such mediacode already exists.
+report_list_video_events=..\shared\Templates\reportListVideoEvents.xls
+msg_do_you_want_to_delete=Do you want to delete?
+msg_do_you_want_to_delete_record=Do you want to delete the selected record?
+msg_gfkext_channel=Channel
+msg_gfkext_producer=Producer
+msg_gfkext_spot_type=Spot Type
+msg_gfkext_wgrp=Wgrp
+msg_gfkext_description=AD Description
+report_finalcalculation=..\shared\Templates\finalCalculation.xls
+msg_gfkext_grp=GRP
+msg_gfkext_program_before=Program Before
+msg_gfkext_category=Category
+msg_gfkext_real_length
+msg_gfkext_group=Group
+msg_gfkext_end_time=end Time
+msg_gfkext_start_time=Start Time
+msg_gfkext_type_spot=Type Spot
+msg_gfkext_fringe=Fringe
+msg_gfkext_program=program
+msg_gfkext_block_position=Block position
+msg_gfkext_programs=Programs
+msg_unchecked_currency=Check the accuracy of the currency rate
+msg_gfkext_program_after=Program After
+msg_gfkext_length=Length
+msg_gfkext_sub_category=Sub-Category
+msg_gfkext_spot_position=Spot Position
+msg_gfkext_product=Product
+msg_gfkext_date
+msg_gfkext_fixation=Fixation
+msg_gfkext_brand=Brand
+report_mountgrid_georgia=..\shared\Templates\mountgrid_georgia.xls
+db_the_day_is_not_yet_opened_for_viewing=The day is not opened for viewing yet
+db_no_access_for_viewing_channel=There is no access to view the channel
+db_channel_is_not defined=The channel is not indicated
+db_client_is_not_defined=The client is not indicated
+db_of_product
+db_user=user
+db_сlip_is_already_placed=The clip is already placed
+db_Start_date_of_discount_must_be_less_than_end_date=The start date of the discount must be less than the end date
+db_before=before
+db_is_already_used=is already in use
+db_no_access_to_parameters_of_the_client=There is no access to the customer’s profile
+db_after=after
+db_inner=inside
+db_no_permissions_to_create_order=You have no rights to create an order
+db_No_permissions_to_edit_catalog=You have no permission to edit the catalog
+db_no_permission_to_place_into_break=You have no permission to place into the break
+db_reel_and_clip_was_sended_to_channel=The reel and clip were sent to the channel
+db_only_staff_of_seller_can_send_to_buffer=Only the staff of the seller can send to the buffer
+db_of_producer=of the producer
+db_in_this_interval_there_are=In the given interval there already are
+db_no_permission_to_access_orders_of_the_client=There’s no access to work with the client’s orders
+db_Day_is_not_available_for_viewing=The day is not available for viewing
+db_is_not_employee_of_seller=is not the employee of the seller
+db_parameter_is_not_correct=The selection parameter is incorrect
+db_no_access_for_viewing_video_products=There’s no access to view the video-products
+db_no_access_for_viewing_placements_of_the_channel=There’s no access to view the channel’s placements
+db_placements=placements
+db_state_of_the_day_does_not_allow_for_placement=The condition of the day does not allow any placement
+db_is_not_seller=Is not a seller
+db_Announcement=announcement
+db_the_order_is_not defined=the order is not defined
+db_no_permissions_to_access_the_clips=There’s no access to work with the clips
+report_time_slot_analyst=..\shared\Templates\slotTimeAnalyst.xls
+report_MountGrid1Business=..\shared\Templates\mountGrid7.xls
+report_time_slot=..\shared\Templates\slotTime.xls
+report_spot_sales=..\shared\Templates\spotSales.xls
+report_block_duration_info=..\shared\Templates\BlockDurationInfo.xls
+report_xlrCostByClientsAndAdvertisers=reportCostByClientsAndAdvertisers.xls
+report_channel_work_journal=..\shared\Templates\reportWorkJournal.xls
+report_reportCostOrder_v2=..\shared\Templates\reportCostOrder_v2.xls
+report_clientMediaPlan=ClientMediaPlan.xls
+Report_Cost_by_Programm=..\Shared\Templates\CostByProgramm.xls
+report_xlrCostByChannels=reportCostByChannels.xls
+report_channel_placement_list=..\shared\Templates\reportChPlacements.xls
+report_planner_view=..\shared\Templates\plannerView.xls
+report_xlrCostByBudget=reportCostByBudget.xls
+Report_Summary_On_The_AirTime=Summary_On_The_AirTime.xls
+sys_reason=The reason description
+sys_new_session_has_started_from_address=A new session has started from the following address %s
+sys_disconnect_from_server=The disconnection with the server has occurred because of the following reason%s
+gfk_col_name_date=Date
+gfk_col_name_to=TO
+gfk_col_name_time=Start Time
+gfk_col_name_no=NO
+gfk_col_name_duration=Real Length
+gfk_col_name_desc=Audio Desc
+cap_accessible_discounts=Accessible discounts
+cap_new_discount=New discount
+cap_premium=premium
+cap_after_premium=after-premium
+cap_discount=discount
+cap_after_discount=after-discount
+cap_new_premium=new premium
+cap_accessible_premiums=Accessible premiums
+msg_gfk_channel_separator=->
+msg_by_order=by order
+msg_choose_channel=Choose a channel, please
+msg_disconnect=Disconnect
+msg_exists_clip=Such clip already exists
+msg_do_you_want_to_place_into_roup_block
+msg_ClipInBlock=In the block
+msg_sync_channel_is_not_chose=The import channel is not chosen
+msg_NoOrders=No orders found
+msg_summary_time_name=summary
+msg_secondary=secondary event
+msg_no_possibility_for_placing=There’s no possibility of placement
+msg_cancel=Do you want to cancel?
+msg_connect=Connect
+msg_days_for_sync_is_not_chose=The days for the data import were not chosen
+msg_edge=Separating clip
+msg_incorrect_input_data=The input date is incorrect
+msg_to_continue=Do you want to continue?
+msg_clip_place_error=Clip placement error:
+msg_by_timeslot=by timeslot
+msg_you_have_to choose_clip=You have to select a clip!
+msg_exists_adv_product=Such product already exists
+msg_file_is_not_correct=It is impossible to export the file.
+msg_choose_dates=Choose dates!
+msg_by_client=by client
+msg_format_slot_errors
+msg_match_categories=the categories do not match
+msg_clients_have_access=Clients have access to this day.
+msg_gfk_rates=GFK ratings
+msg_Data_are_outside_the_range=The data goes out of the range. Do you want to continue?
+msg_break=Break
+msg_file_not_found=File %s was not found
+msg_day_must_be_ready=The day %s must be ready!
+msg_fix_is_not_confirmed=Conventional fixes are not confirmed.
+msg_cannot_rename_file=It is impossible to rename file %s into %s
+msg_no_connection_for_import=There’s no connection with the server for import
+msg_npp_is_not_confirmed=The NPP are not confirmed.
+msg_break_add=Break added.
+msg_not_has_free_space=There’s not enough free space in the block
+msg_quantity_of_placing=Quantity of placements %d.
+msg_ftp_not_defined=The FTP sever isn’t defined.
+msg_programs=programs
+msg_delete=Do you want to delete?
+msg_clip=Clip:
+msg_secondaries=secondaries
+msg_expect_programs_name=Enter the name of the program!
+msg_delete_all_fact=Delete the whole fact?
+msg_clip_placed= Clip%d %s placed  in block %s
+msg_date=Date:
+msg_do_you_agree_start_sync
+msg_by_period=by period
+msg_days_left=Days %d left.
+msg_since=***с
+msg_timeslot_has_a_placements=By given %s there are placements. Do you want to delete?
+msg_add_in_bufer=Do you want to send the placement to the buffer?
+msg_ClipInQueue=In queue
+msg_directory_is_not_found=Directory %s is not found
+msg_order=order
+msg_expect_link=Enter the link to the program!
+msg_incorrect_price_mode=Given calculation type %s is not supported
+msg_expect_category=Enter the category!
+msg_cannot_delete_file=It is impossible to delete file %s in %s
+msg_common_total=Common total:
+report_mountGridKz1=..\Shared\Templates\mountGridKz1.xls
+report_mountGridKz2=..\Shared\Templates\mountGridKz2.xls
+msg_edges_are_already_maked=jingles are in use
+msg_clear=Clear
+msg_net_dostupnih_kanalov=No channels available
+msg_have_been_found_some_events_witout_media=Events without the media material were found. They will be skipped. Continue?
+msg_net_dostupnih_klientov=No clients available
+msg_data_is_not_defined=Data is not defined
+msg_Channel_placement=***Размещения канала
+lg_part_of_program=***Часть программы
+lg_order_status_planed
+lg_set_manual_order_cost=***указана фиксированная стоимость для заказа
+lg_order_status_placed
+lg_data_is_changed=Data has been changed
+lg_econom_order=***эконом заказ
+lg_event_with_video=***Событие с видеоматериалом
+lg_duration_is_zero=Zero duration of the event
+lg_order_status_calculated
+lg_event_without_video=***Событие без видеоматериала
+lg_media_is_not_found=Media file is is missing or doesn't exist
+lg_edges=jingles
+lg_order_status_closed
+err_not_found=% is not set
+report_breakrating=..\shared\Templates\breakrating.xls
+gfk_wgrp_suffix=.wgrp
+msg_vy_dejstvitelno_ho_4=Do you really want to leave the placement form
+msg_bregionalnyjb
+msg_cannot_load_file
+msg_vy_dejstvitelno_ho_3=Do you really want to exclude the user
+msg_s_osnovnym_kanalom
+msg_cpp=CPP
+msg_budet_udaljen_iz_zak=will be deleted from the order
+msg_ne_ispolzuetsya=not in use
+msg_udalenie_klienta_1=***Удаление клиента - необратимая операция. Продолжить удаление?
+msg_udalenie_kanala__n=***Удаление канала - необратимая операция. Вся связанная с каналом информация будет утерянна. Продолжить удаление?
+msg_dopustimye_adresa=Valid addresses
+msg_zapretit_tochku_dos=Deny access point
+msg_discount=discount
+msg_tselevuyu_auditoriyu=***целевую аудиторию
+msg_times=Times
+msg_informaciya_o_polzo=Inforamtion on the user of the server
+msg_budget=Budget
+msg_izmenenie_diapazona=change of the range
+msg_replace_data
+msg_genre_grid=Genre grid
+msg_iz_tochki_dostupa
+msg_kanalbr_a_href
+msg_option=Additionally
+msg_otmena_opreacii_bud=You will not be able to cancel this operation!!
+msg_float=***% плаванья
+msg_type_media=***тип медиа-носителя
+msg_udalenie_klienta=***Удаление клиента - необратимая операция. Вся связанная с клиента информация будет утерянна. Продолжить удаление?
+msg_date_is_incorrect_fmt=***Дата %s меньше за втягиваемую %s
+msg_bosnovnojb
+msg_vsya_sistema=All system
+msg_polzovateli=***Пользователи
+msg_rolik_uzhe_ispolzue=***Ролик уже используется в размещении.
+msg_registraciya_novogo=***Регистрация нового пользователя сервера
+msg_sozdanie_novogo_dia=***Создание нового диапазона
+msg_iz_sistemy
+msg_registriruetsya_novy=***Регистрируется новый
+msg_lpp=***% нпр
+msg_vy_dejstvitelno_ho_2
+msg_razreshit_tochku_dos=***Разрешить точку доступа
+msg_udalenie_prodavca=***Удаление продавца - необратимая операция. Вся связанная с продавцом информация будет удалена из системы. Продолжить удаление?
+msg_bus_is_not_match
+lg_placement=***Размещения
+msg_none= -
+msg_check_discounts=***Проверьте правильность введенных скидок
+msg_check_time_spot=***Проверьте правильность введенных расценок по времени
+msg_nedostupnie_dni=There are days not available for placement in this period. Continue?
+err_it_si_not_json=***Єто не json файл
+report_forward_info=..\Shared\Templates\ForwardInfo.xls
+report_xlrOrdersReference=..\Shared\Templates\reportOrdersReference.xls
+report_mountgrid_ims=..\shared\Templates\mountgrid_ims.xls
+report_clientMediaPlan2=ClientMediaPlan2.xls
+report_xlrCostByClientsAndAdvertisersExt=reportCostByClientsAndAdvertisersExt.xls
+report_mountGrid11=..\shared\Templates\mountGrid11.xlsm
+num_harris_row_start=5
+num_harris_col_name=1
+num_harris_col_duration=5
+num_harris_col_time=3
+num_harris_col_ext=2
+fln_lpp_is_confirmed_for_order_day=LPO confirmed
+fln_visible_for_seller=available for a seller
+fln_accessible_for_seller=available to seller for placement
+fln_visible_for_client=available for customers
+fln_float_are_fixed=float placements confirmed
+fln_accessible_for_client=available to customers for placement
+fln_float_is_confirmed_for_order_day=float placements confirmed
+fln_lpp_are_fixed=LPO placements confirmed
+fln_fixrules_are_fixed=***условных фиксаций подтверждены
+msg_errors_were_found=***При проверке обнаружены ошибки, продолжить?
+msg_otsutstvuet_vstavka=No block
+msg_banner_warning=ATTENTION! BANNER!
+r
+msg_break_is_deleted%timestr%breakid=Spot in %s[%d] deleted
+msg_info_sync_category%categoryName=Category %s
+msg_do_you_want_to_update_category_for_adv_product=Do you want to update categories for all advertising products of this product?
+msg_hide=***скрыть
+msg_float_category=float
+msg_user_count_fmt=Number of the users %d
+msg_please_fill_name=***Пожалуйста, заполните название.
+msg_detail=detailed
+msg_info_sync_break%prgId%categoryId
+msg_filter_xls_files=***Excel files |*.xls*|Все файлы |*.*
+msg_info_sync_clip%clipName=***Ролик с названием %s
+msg_float_is_not_confirmed=Float not confirmed.
+msg_regional
+msg_cancel_fill_up_breaks=***Удалить ролики *дозаполнения*?
+msg_info_sync_break_del=spot has been deleted
+msg_records_have_been_updated=%d updated records
+msg_plan_wgrp=***Плановый WGRP
+msg_filter_harris_files=***Harris files |*.log|Play list файлы|*.ply|Все файлы |*.*
+msg_target_float_distribution=***Распределение целевых Float объемов
+msg_this_day_contains_unconfirmed_placements=Day contains unconfirmed placements that can not be put on the playlist! Continue?
+msg_info_sync_program_del=***программа удалена
+msg_choose_harris_file=Select harris-file for video event import
+msg_del_video
+msg_choose_xls_file=Select xis-file for video event import
+msg_info_sync_placement%clipId%BreakId%orderId=***Размещен ролик %s во вставку %s. Заказ %s
+msg_fill_up_breaks=***Дозаполнить блоки роликами?
+msg_break_was_created=Spot has been added
+msg_info_sync_program%prgName%categoryId
+msg_sync_day%date=Import of the day %s
+msg_created_adv_products=***Создано рекламных продуктов:
+lg_order_flags_float=order with a Float sign
+lg_order_flags_npr
+lg_result_warning=***Для данного событие есть предупреждение в результате
+lg_overflow=***Переполнение во вставке
+[TdUI]
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[5].Description=***?>4B25@645=  
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[3].Description=***@0AG5B
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[1].Description=***@07<5I5=85
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[4].Description=closed
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[0].Description=***?;0=8@>20=85
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[2].Description=***?>4B25@645=
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[0].Description=***A D8:A0F859
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=***D8:A
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[2].Description=***?>4B25@645==>5 @07<5I5=85 =?@
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[2].ShortDescription=***?=?@
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[4].Description=auction placement
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[4].ShortDescription=auction
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[3].Description=main
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[3].ShortDescription=main
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[1].Description
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=***=?@
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[7].Description=August
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[5].Description=June
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[3].Description=April
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[10].Description=November
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[1].Description=February
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[9].Description=October
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[4].Description=May
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[6].Description=July
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[0].Description=January
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[2].Description=March
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[11].Description=December
+r
+erpMonth.Properties.Items.TcxImageComboBoxItem[8].Description=September
+r
+erTimeFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=commercial
+r
+erTimeFlags.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=commercial
+r
+erTimeFlags.Properties.Items.TcxCheckComboBoxItem[1].Description=The range includes all the intervals that are not included to other commercial ranges.
+r
+erTimeFlags.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=available
+r
+erpAudienceFlag.Properties.Items.TcxCheckComboBoxItem[0].Description=***A8AB5<=0O
+r
+erpAudienceFlag.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=***A8AB5<=0O
+r
+erpAudienceFlag.Properties.Items.TcxCheckComboBoxItem[1].Description=main
+r
+erpAudienceFlag.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=main
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[0].Description=orders are available for editing by customers
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=***:;=B
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[2].Description=
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[4].Description=Limitation by the time quote for the client
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[4].ShortDescription=time
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[6].Description=***?>4B25@645==K5 @07<5I5=8O
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[6].ShortDescription=*** 
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[3].Description=limitation by budget
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[3].ShortDescription=Budget
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[1].Description=edit by confirmed/approved time
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[7].Description=***M:>=>< 70:07
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[7].ShortDescription=***M:>=.
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[5].Description=LPO order (low priority orders )
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[5].ShortDescription=NPP
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[0].Caption=Employee access to the channel
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[1].Caption=***?@>A<>B@ D8=0=A>2 4;O :;85=B0
+r
+erpEventType.Properties.Items.TcxImageComboBoxItem[1].Description=***2AB
+r
+erpEventType.Properties.Items.TcxImageComboBoxItem[0].Description=***?@3
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=***A8AB5<=0O
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=***A8AB5<=0O
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[10].Description=channel places
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[10].ShortDescription=***:0=.@07<.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[2].Description=
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[2].ShortDescription=***:;.284.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[12].Description=integrated
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[12].ShortDescription=integrated.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[4].Description=commercial
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[4].ShortDescription=commercial
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[14].Description=secondary event
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[14].ShortDescription=secondary event
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[6].Description=client places
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[6].ShortDescription=***:;.@07<.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[16].Description=import of clips
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[16].ShortDescription=imp.clips
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[8].Description=***?@>4025F @07<5I05B
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[8].ShortDescription=***?@.@07<.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[3].Description=***?> C<>;G0=8N
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[3].ShortDescription=***?> C<>;G0=8N
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[13].Description=announcement
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[1].Description
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[11].Description=***A?>=A>@A:0O
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[11].ShortDescription=***A?>=A.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[7].Description=***?@>4025F 2848B
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[7].ShortDescription=***?@.284.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[5].Description=videoclip
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[5].ShortDescription=***@>;8:
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[15].Description=imported category
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[15].ShortDescription=imp.cat
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[9].Description=Channel view
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[9].ShortDescription=***:0=.284.
+r
+erpClipStatus.Properties.Items.TcxImageComboBoxItem[5].Description=not defined
+r
+erpClipStatus.Properties.Items.TcxImageComboBoxItem[3].Description=at the channel
+r
+erpClipStatus.Properties.Items.TcxImageComboBoxItem[1].Description=***C ?@>402F0
+r
+erpClipStatus.Properties.Items.TcxImageComboBoxItem[4].Description=producing
+r
+erpClipStatus.Properties.Items.TcxImageComboBoxItem[0].Description=no/ not available
+r
+erpClipStatus.Properties.Items.TcxImageComboBoxItem[2].Description=sent
+r
+erpPriceMode.Properties.Items.TcxImageComboBoxItem[1].Description=Spot (by program)
+r
+erpPriceMode.Properties.Items.TcxImageComboBoxItem[2].Description=Spot (by time)
+r
+erVideoMediaFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=***?> C<>;G0=8N
+r
+erVideoMediaFlags.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=***?> C<>;G.
+r
+erCreateTvProductType.Properties.Items.TcxImageComboBoxItem[1].Description=***A5@80;
+r
+erCreateTvProductType.Properties.Items.TcxImageComboBoxItem[0].Description=***D8;L<
+r
+erCreateTvProductType.Properties.Items.TcxImageComboBoxItem[2].Description
+r
+erpEventFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=hard binding
+r
+erTvProductType.Properties.Items.TcxImageComboBoxItem[3].Description=internal
+r
+erTvProductType.Properties.Items.TcxImageComboBoxItem[1].Description=***A5@80;
+r
+erTvProductType.Properties.Items.TcxImageComboBoxItem[0].Description=***D8;L<
+r
+erTvProductType.Properties.Items.TcxImageComboBoxItem[2].Description
+erpRuleFlags.Properties.EmptySelectionText=not indicated
+r
+erpRuleFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=LPO order
+r
+erpBreakLinkType.Properties.Items.TcxImageComboBoxItem[1].Description=inside
+r
+erpBreakLinkType.Properties.Items.TcxImageComboBoxItem[0].Description=before
+r
+erpBreakLinkType.Properties.Items.TcxImageComboBoxItem[2].Description=after
+r
+erVideoProductFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=Airtime
+r
+erVideoProductFlags.Properties.Items.TcxCheckComboBoxItem[1].Description=***A;C651=K9
+r
+erVideoProductFlags.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=***A;C6.
+r
+erpPlacementStatus.Properties.Items.TcxImageComboBoxItem[1].Description=in the queue
+r
+erpPlacementStatus.Properties.Items.TcxImageComboBoxItem[0].Description=in block
+r
+erpPlacementStatus.Properties.Items.TcxImageComboBoxItem[2].Description=auction  history
+erSalerOptionFlags.Properties.EmptySelectionText=***ничего не делать
+r
+erSalerOptionFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=***?@54C?@5645=85
+r
+erSalerOptionFlags.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=***?@54C?@5645=85
+r
+erSalerOptionFlags.Properties.Items.TcxCheckComboBoxItem[1].Description=***A>>1I5=85 >1 >H81:5
+r
+erSalerOptionFlags.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=cancel placement
+r
+erpCalcMode.Properties.Items.TcxImageComboBoxItem[3].Description=Method 4 (Method 2 with the discount)
+r
+erpCalcMode.Properties.Items.TcxImageComboBoxItem[1].Description=Method 2
+r
+erpCalcMode.Properties.Items.TcxImageComboBoxItem[0].Description=Method 1 (standard)
+r
+erpCalcMode.Properties.Items.TcxImageComboBoxItem[2].Description=Method 3 (for Moldova)
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[6].Caption=***?>4B25@645==K5 @07<5I5=8O
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[4].Caption=Limitation by the time quote for the client
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[2].Caption=
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[0].Caption=orders are available for editing by customers
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[5].Caption=LPO order (low priority orders )
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[7].Caption
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[1].Caption=edit by confirmed/approved time
+r
+erpOrderFlags.Properties.Items.TcxCheckGroupItem[3].Caption=limitation by budget
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[4].Caption=do not use the forecast in fact of SPOT
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[2].Caption=do not display information about the seller
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[3].Caption=do not use the forecast in fact of GRP
+r
+erpEventType.Properties.Items.TcxImageComboBoxItem[3].Description=***@07<.
+r
+erpEventType.Properties.Items.TcxImageComboBoxItem[2].Description=***=5>?@
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[17].Description=Type of broadcasting
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[17].ShortDescription=Broadcasting
+r
+erpPlaceMode.Properties.Items.TcxImageComboBoxItem[1].Description=Float order
+r
+erpPlaceMode.Properties.Items.TcxImageComboBoxItem[0].Description=Regular order
+r
+erpPlaceMode.Properties.Items.TcxImageComboBoxItem[2].Description=LPO order
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[0].Description=Add to the order when creating
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=automat
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[2].Description=***">;L:> 4;O   70:07>2
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[2].ShortDescription=NPP
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[3].Description=***">;L:> 4;O float 70:07>2
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[1].Description=including markups for premium items
+r
+erpOrderDiscountCheckCombo.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=total
+r
+erpOrderFlagsFloat.Properties.Items.TcxCheckGroupItem[2].Caption=***@>;8: =5A:>;L:> @07 2 >4=>< 1;>:5
+r
+erpOrderFlagsFloat.Properties.Items.TcxCheckGroupItem[0].Caption=in blocks along with fix placements
+r
+erpOrderFlagsFloat.Properties.Items.TcxCheckGroupItem[1].Caption=in programs with fix placements
+r
+erpOrderFlagsFloat.Properties.Items.TcxCheckGroupItem[3].Caption=***@>;8:8 ?> >4=><C ?@>4C:BC =5A:>;L:> @07 2 >4=>< 1;>:5
+r
+erpOrderStatus.Properties.Items.TcxImageComboBoxItem[6].Description=***?;0=8@>20=85
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[6].Description=***?>4B25@645==>5 ?;020NI55 @07<5I5=85
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[6].ShortDescription=***?.?;02.
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[5].Description=***?;020NI55 @07<5I5=85
+r
+erPlacementType.Properties.Items.TcxCheckComboBoxItem[5].ShortDescription=***?;02.
+r
+erpCalcModeGroup.Properties.Items.TcxCheckGroupItem[2].Caption=***?@8 @0AG5B5 ?@5<8C< =04102:8 =5 CG8BK205BAO 4;8B5;L=>ABL @>;8:0
+r
+erpCalcModeGroup.Properties.Items.TcxCheckGroupItem[0].Caption
+r
+erpCalcModeGroup.Properties.Items.TcxCheckGroupItem[1].Caption=the minimum duration of a premium position is not used In the main part.
+r
+erpCalcModeGroup.Properties.Items.TcxCheckGroupItem[3].Caption=Use the actual time of airtime during the calculation
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[8].Description=cloned order
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[8].ShortDescription=***:;>=.
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[15].Description=***"5:AB>2K9 70:07
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[15].ShortDescription
+r
+erpOrderFlags1.Properties.Items.TcxCheckComboBoxItem[9].Description=Float order
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[6].Caption=Use discounts from placement conditions
+r
+erpSellerFlags.Properties.Items.TcxCheckGroupItem[5].Caption=ignore additional items while import of gfk 
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[18].Description=C
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[18].ShortDescription=***4>70?.
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[19].Description=*** >;8: ?>43>=:8 1;>:0
+r
+erpCategoryFlags.Properties.Items.TcxCheckComboBoxItem[19].ShortDescription=***?>43>=.
+[TflTemplate]
+btnApplyFilter.Hint=***Сохранить последние внесенные изменения и закрыть окно
+btnApplyFilter.Caption=Select
+btnCancelFilter.Hint=Cancel recent changes and close the window
+btnCancelFilter.Caption=cancellation
+[TCS1BaseFormGridMDI]
+miExportToHTML.Hint=Export table data to HTML file
+miExportToHTML.Caption=to HTML
+miCreate.Caption=***Создать...
+miDelete.Caption=Delete
+miEdit.Caption=Edit...
+miExportToXML.Hint=Export table data to XML file
+miExportToXML.Caption=to XML
+miList.Caption=***Список
+miExportToExcel.Hint=Export table data to MS Excel file
+miExportToExcel.Caption=to MS Excel
+miExport.Caption=***Экспорт
+miRefresh.Hint=update
+miRefresh.Caption=update
+[TfpTemplate]
+btnCancel.Hint=Cancel recent changes and close the window
+btnCancel.Caption=cancellation
+btnApply.Hint=***Сохранить последние внесенные изменения
+btnApply.Caption=***Сохранить
+btnOk.Hint=***Сохранить последние внесенные изменения и закрыть окно
+[TfpAliasManager]
+vcCompressionMode.Caption=***Сжатие
+r
+vcCompressionMode.Properties.Items.TcxImageComboBoxItem[0].Description=Without compression
+vcEncodingMode.Caption=***Шифрование
+r
+vcEncodingMode.Properties.Items.TcxImageComboBoxItem[1].Description=Regular
+r
+vcEncodingMode.Properties.Items.TcxImageComboBoxItem[0].Description=No
+btnClone.Hint=***Создать копию с выбранной строки
+r
+btnClone.Properties.Buttons.TcxEditButton[0].Caption=Duplicate
+vcLanguageMode.Caption=***Язык
+vcAliasName.Caption
+TfpAliasManager.Caption=Connection Manager
+r
+btnAdd.Properties.Buttons.TcxEditButton[0].Caption=Add
+vcPort.Caption
+r
+btnTest.Properties.Buttons.TcxEditButton[0].Caption=***@>25@8BL
+r
+btnDelete.Properties.Buttons.TcxEditButton[0].Caption=Delete
+vcUserName.Caption
+r
+vAliases.Bands.TcxGridBand[0].Caption=***>4:;NG5=85
+r
+vAliases.Bands.TcxGridBand[2].Caption=***>;L7>20B5;L
+r
+vAliases.Bands.TcxGridBand[3].Caption
+r
+vAliases.Bands.TcxGridBand[1].Caption=***!5@25@
+vcServerAddress.Caption=address
+[TfpChangePassword]
+pnlCapt.Caption=***режим сериализации?
+lilc1Item3.CaptionOptions.Text=Limitation of time available for booking (%)
+lilc1Item3.Caption=Limitation of time available for booking (%)
+lilc1Item1.CaptionOptions.Text=***Текущий пароль
+lilc1Item1.Caption=***Текущий пароль
+TfpChangePassword.Caption=***Смена пароля пользователя
+lilc1Item2.CaptionOptions.Text=placement delay (min.)
+lilc1Item2.Caption=placement delay (min.)
+[TfpChatMessage]
+btnOk.Caption=Report
+TfpChatMessage.Caption=***Сообщение
+[TfsLogin]
+liPassword.CaptionOptions.Text
+liPassword.Caption
+cbAutologin.Hint=***если установить этот флажок, система запомнит последний успешно принятые параметры подключения###и в следующий раз осуществит автоматический вход с использованием этих параметров
+liConnection.CaptionOptions.Text
+liConnection.Caption
+btnConnect.Hint=***Попытаться подключиться с указанными параметрами
+btnConnect.Caption=***Подключиться
+TfsLogin.Caption=***Подключение к серверу
+liUser.CaptionOptions.Text
+liUser.Caption
+liSavePass.CaptionOptions.Text=save passaword
+liSavePass.Caption=save passaword
+cbStorePassword.Hint=***если установить этот флажок, система запомнит последний ###введенный пароль и не будет необходимости вводить его при следующем запуске
+liAutologin.CaptionOptions.Text=autologin
+liAutologin.Caption=autologin
+[TflGridTemplate]
+[TCS1BaseFormDBGridMDI]
+[TflDBGridTemplate]
+[TfwTemplate]
+kwpWelcome.Header.Title.Text
+kwpWelcome.Header.Subtitle.Text=***С помощью этого мастера Вы сможете создать регион, область или город
+lbFinish.Caption=***по
+kwpFinish.Header.Title.Text=***Поздравляю
+kwpFinish.Header.Subtitle.Text=***Information has been successfully added to the database.###Press |Ок| to close the wizard.
+kw.ButtonBack.Caption=< &Back
+kw.ButtonStart.Caption=to the end
+kw.ButtonCancel.Caption=cancellation
+kw.ButtonLast.Caption=to the beginning
+kw.ButtonHelp.Caption=&Help
+kw.ButtonNext.Caption=&Next >
+cbDontShowWelcome.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+cbDontShowWelcome.Caption=do not show this page again
+kwpCheck.Header.Title.Text=Attention!
+kwpCheck.Header.Subtitle.Text=***Проверьте правильность введенной информации и нажмите Далее для выполнения операции
+TfwTemplate.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwTemplate.ActiveControl.Caption=do not show this page again
+[TfpTemplateReport]
+gbPreviewReport.Caption=report sample 
+gbReports.Caption=Reports
+[TflPlacementsDay]
+miExcel2.Hint=to Excel by template
+miExcel2.Caption=to Excel by template
+vcBREAK_FREE.Caption=***свободно
+r
+vRoot.Bands.TcxGridBand[0].Caption=Clients
+r
+vRoot.Bands.TcxGridBand[2].Caption=Info
+r
+vRoot.Bands.TcxGridBand[1].Caption=***5@8>4
+vcCLIP_NAME.Caption=***ролик
+vcStatus.Caption=***статус
+miNextDay.Hint=***Сюда
+miPrevDay.Hint=***Туда
+miCreate.Hint=***Создать заказ
+vcBREAK_CATEGORY_NAME.Caption=category
+vcProduct_name.Caption
+vcBREAK_TIME.Caption=time
+vcPROGRAMM_TIME.Caption=time
+vcFlags.Caption
+vcBREAK_FLAGS.Caption=***Флаги блока
+TflPlacementsDay.Caption=***Размещения
+chbShowSecondary.Hint=secondary events
+chbShowSecondary.Caption=secondary events
+miSendToBuffer.Hint=Send to a buffer
+miSendToBuffer.Caption=Send to a buffer
+vcBREAK_DURATION.Caption=duration
+vcProduct_Category.Caption=ID prod. Cat.
+vcPLACEMENT_TYPE.Caption=***тип
+vcFIXRULE_ID.Caption=***правило фиксации
+vcBREAK_LINK.Caption=***положение
+vcBREAK_COMPLETION.Caption=occupied
+vcProducer_id.Caption=ID of producer
+vcProducer_Name.Caption
+eDateOf.Hint=Date
+eDateOf.Caption=Date
+miShowSecondary.Hint=secondary events
+miShowSecondary.Caption=secondary events
+vcProduct_Category_Name.Caption=product category
+vcCLIP_POSITION.Caption=***фикс.
+vcCLIP_DURATION.Caption
+vcPROGRAMM_NAME.Caption
+vcCLIP_ID.Caption=***роликID
+vcPLACEMENT_ID.Caption=GUID placements
+vcBREAK_CATEGORY.Caption=***GUID кат
+vcNeighnour.Caption=***соседи
+vcPROGRAMM_ID.Caption=GUID of program
+vcORDER_UID.Caption=***№ заказа
+vcORDER_ID.Caption=Order number
+vcBREAK_ID.Caption=***ид
+vcClip_UID.Caption=***ролик UID
+vcTime_Color.Caption
+vcPLACEMENT_ID.HeaderHint=Internal identifier of the placement
+vcPLACEMENT_ID.AlternateCaption=GUID placements
+vcBREAK_FREE.HeaderHint=The volume of the block area free from placements, sec
+vcBREAK_FREE.AlternateCaption=Available space in the block
+r
+vRoot.Bands.TcxGridBand[0].AlternateCaption=Information on programs
+r
+vRoot.Bands.TcxGridBand[2].AlternateCaption=Inforamtion on placements
+r
+vRoot.Bands.TcxGridBand[1].AlternateCaption=Informtion on blocks
+vcCLIP_NAME.HeaderHint=Name of the clip
+vcCLIP_NAME.AlternateCaption=Name of the clip
+vcStatus.HeaderHint=***Состояние размещения
+vcStatus.AlternateCaption=***Состояние размещения
+vcBREAK_CATEGORY.HeaderHint=Internal identifier of the spot category
+vcBREAK_CATEGORY.AlternateCaption=GUID of spot catogory
+vcNeighnour.AlternateCaption=***соседи
+vcBREAK_CATEGORY_NAME.HeaderHint=Block category
+vcBREAK_CATEGORY_NAME.AlternateCaption=Block category
+vcProduct_name.HeaderHint=***Рекламируемый продукт
+vcProduct_name.AlternateCaption=***Рекламируемый продукт
+vcBREAK_TIME.HeaderHint=AirTime of the block
+vcBREAK_TIME.AlternateCaption=AirTime of the block
+vcPROGRAMM_TIME.HeaderHint=AirTime of the program
+vcPROGRAMM_TIME.AlternateCaption=AirTime of the program
+vcFlags.HeaderHint=Internal flags of the placement
+vcFlags.AlternateCaption=***Флаги размещения
+vcCLIP_RT_PLACE_POSITION.HeaderHint=the clip order number in the block
+vcCLIP_RT_PLACE_POSITION.AlternateCaption=***Позиция ролика в блоке
+vcCLIP_RT_PLACE_POSITION.Caption=***поз
+vcPROGRAMM_ID.HeaderHint=Internal identifier of the program
+vcPROGRAMM_ID.AlternateCaption=GUID of program
+vcORDER_UID.HeaderHint=Id (number) of the order
+vcORDER_UID.AlternateCaption=ID order
+vcBREAK_FLAGS.HeaderHint=Internal flags of the block
+vcBREAK_FLAGS.AlternateCaption=***Флаги блока
+vcORDER_ID.HeaderHint=Internal identifier of the order
+vcORDER_ID.AlternateCaption=GUID of order
+vcBREAK_DURATION.HeaderHint=duration of block, sec
+vcBREAK_DURATION.AlternateCaption=Duration of block
+vcBREAK_ID.HeaderHint=Internal identifier of the block
+vcBREAK_ID.AlternateCaption=GUID of block
+vcProduct_Category.HeaderHint=***ID категории рекламируемого продукта
+vcProduct_Category.AlternateCaption=ID of product category
+vcPREMIUM_ID.HeaderHint=Internal identifier of the premium items
+vcPREMIUM_ID.AlternateCaption=GUID premium items
+vcPREMIUM_ID.Caption=***ID фикс.
+vcPLACEMENT_TYPE.HeaderHint=***Тип размещения
+vcPLACEMENT_TYPE.AlternateCaption=***Тип размещения
+vcClip_UID.HeaderHint=ID (number) of the clip
+vcClip_UID.AlternateCaption=ID of the clip 
+vcPREMIUM_NAME.HeaderHint=***Премиум позиция
+vcPREMIUM_NAME.AlternateCaption=***Премиум позиция
+vcPREMIUM_NAME.Caption=***фикс
+vcFIXRULE_ID.HeaderHint=Internal identifier of the premium placement conditions
+vcFIXRULE_ID.AlternateCaption=GUDI premium conditions
+vcBREAK_LINK.HeaderHint=***Расположение блока относительно передачи
+vcBREAK_LINK.AlternateCaption=***Расположение блока
+vcBREAK_COMPLETION.HeaderHint=The volume of the block part occupied by placements, sec
+vcBREAK_COMPLETION.AlternateCaption=Filling of the block
+vcProducer_id.HeaderHint
+vcProducer_id.AlternateCaption
+vcProducer_Name.HeaderHint=***Производитель рекламируемого продукта
+vcProducer_Name.AlternateCaption=***Производитель продукта
+vcBREAK_NO.HeaderHint=The block number within the program
+vcBREAK_NO.AlternateCaption=block number
+vcBREAK_NO.Caption
+vcTime_Color.HeaderHint=***Цвет части дня
+vcTime_Color.AlternateCaption=***Цвет части дня
+vcProduct_Category_Name.HeaderHint=advertised product category
+vcProduct_Category_Name.AlternateCaption
+vcCLIP_DURATION.HeaderHint=Duration of the clip, sec
+vcCLIP_DURATION.AlternateCaption=Duration of the clip
+vcPROGRAMM_NAME.HeaderHint=name of the program
+vcPROGRAMM_NAME.AlternateCaption=name of the program
+vcCLIP_ID.HeaderHint=Internal identifier of the clip
+vcCLIP_ID.AlternateCaption=GUID of clip
+vcBREAK_FREE_OVERALL.Caption=***свободно с учетом неподтвержденных размещений
+miShowQueue.Hint=Queue of LPO
+miShowQueue.Caption=Queue of LPO
+miIdAsGuid.Hint
+miIdAsGuid.Caption
+miAudience.Hint=***Целевая аудитория
+miAudience.Caption=***Целевая аудитория...
+vcBREAK_RATING.Caption=***рейтинг
+[TflPlacementDayClips]
+vcCategoryName.Caption=Name of the category
+vcFix.Caption=***фикс
+vcDuration.Caption=duration
+TflPlacementDayClips.Caption=***Размещения
+vcClipName.Caption=***ролик
+miDeleteClip.Hint=***Удалить клип
+miDeleteClip.Caption=***Удалить клип
+miAddClip.Hint=Add clip
+miAddClip.Caption=Add clip...
+r
+vClips.Bands.TcxGridBand[0].Caption=Clip
+vcClipUid.Caption=Number
+[TflPlacementDayBuffer]
+vcbANNOUNCEMENT_ID.Caption=***СА
+vcbFlags.Caption=***тип
+r
+vcbFlags.Properties.Items.TcxCheckComboBoxItem[0].Description=***A1@>H5=> :0=0;><
+r
+vcbFlags.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=channal
+miDelFromBuffer.Hint=***Удалить из буфера
+miDelFromBuffer.Caption=***Удалить из буфера
+vcbPROGRAM_NAME.Caption=***программа
+vcbTIME_OF.Caption=Time
+vcbCLIENT_SID.Caption=SID of client
+vcbLINK_TYPE.Caption=***тип
+vcbDATE_OF.Caption=Date
+vcbCLIP_DURATION.Caption=duration
+vcbPLACE_POSITION.Caption=***фикс
+vcbCLIP_NAME.Caption=***ролик
+vcbCHANNEL_NAME.Caption=channal
+TflPlacementDayBuffer.Caption=***Размещения
+vcbORDER_ID.Caption=ID of order
+vcbCLIENT_NAME.Caption
+vcbCONTAINER_ID.Caption=container
+vcbBUFFER_CATEGORY.Caption=category
+vcbCLIP_ID.Caption=Clip
+r
+vBuffer.Bands.TcxGridBand[0].Caption
+miMove.Hint=***Переместить
+miMove.Caption=***Переместить
+miCopy.Hint=Copy
+miCopy.Caption=Copy
+vcbORDER_UID.Caption=uID of order
+vcbClip_Uid.Caption=uID of clip 
+vcbPREMIUM_NAME.Caption=***фикс
+vcbPREMIUM_ID.Caption=***ID фикс
+[TfpTemplateBreakReport]
+r
+rgrTimeFormat.Properties.Items.TcxRadioGroupItem[1].Caption=msec
+r
+rgrTimeFormat.Properties.Items.TcxRadioGroupItem[0].Caption=***GG:<<:AA
+r
+rgrTimeFormat.Properties.Items.TcxRadioGroupItem[2].Caption=***A5:
+grpOptClip.CaptionOptions.Text=***Ролики
+grpOptClip.Caption=***Ролики
+itOptionsClip.CaptionOptions.Text=***Ролики
+itOptionsClip.Caption=***Ролики
+r
+rgrDay.Properties.Items.TcxRadioGroupItem[1].Caption=Astronomical day
+r
+rgrDay.Properties.Items.TcxRadioGroupItem[0].Caption=broadcast day
+rgIntegrateOptions.Caption=***Тип интеграции ролика
+r
+rgIntegrateOptions.Properties.Items.TcxRadioGroupItem[1].Caption=***B>;L:> 8=B53@0F8O
+r
+rgIntegrateOptions.Properties.Items.TcxRadioGroupItem[0].Caption
+r
+rgIntegrateOptions.Properties.Items.TcxRadioGroupItem[2].Caption=***B>;L:> 157 8=B53@0F88
+chbUsingFrames.Caption=display stills
+[TfrmPermission]
+tlcName.Caption.Text=Name
+r
+AccessorTree.Bands.TcxTreeListBand[0].Caption.Text=***@828;5388
+btnAddAccessor.Caption=Add
+N2.Caption=***Удалить пользователя/группу
+N1.Caption=Add user/group
+gbNewUser.Caption=Add user
+[TflTVGenreGrid]
+miApprove.Hint=Approval
+miApprove.Caption=Approval
+oDlg.Filter=***Файлы телевизионной сетки|*.gtv
+oDlg.Title
+miState.Hint=***Состояние
+miState.Caption=***Состояние
+miObjectEdit.Hint=Change the parameter of selected item/object
+miObjectEdit.Caption=Edit...
+CrGrid.AllHeaders.Component.DayName2=Tuesday
+CrGrid.AllHeaders.Component.DayName5=***Пятница
+CrGrid.AllHeaders.Component.DayName6=***Суббота
+CrGrid.AllHeaders.Component.DayName1=***Понедельник
+CrGrid.AllHeaders.Component.DayName7=Sunday
+CrGrid.AllHeaders.Component.DayName3=***Среда
+CrGrid.AllHeaders.Component.DayName4=***Четверг
+miClearDay.Hint=Clear the day
+miClearDay.Caption=Clear the day
+miVisibleProgram.Hint
+miVisibleProgram.Caption
+miObjectDelete.Hint=***Удалить выбранные объекты
+miObjectDelete.Caption=Delete
+miPasteToDay.Hint=Insert objects
+miPasteToDay.Caption=Insert objects
+miView.Caption
+miStartTime.Hint=***Время, с которого начинается отображение сетки
+miStartTime.Caption=***с
+miReports.Caption=Reports...
+miClose.Hint=Close an order
+miClose.Caption=Close
+miCopyDay.Hint=Copy a day
+miCopyDay.Caption=Copy a day
+miProgrammCreate.Hint=***Создать передачу
+miProgrammCreate.Caption=***Создать передачу...
+pZoom.Caption=The scale of the timeline, sec
+miDeleteEmptySpace.Hint=***Удалить пустые места между телепередачами
+miDeleteEmptySpace.Caption=***Удалить разрывы
+miPrBrSep.Hint=***Передачи и вставки
+miPrBrSep.Caption=***Передачи и вставки
+miReplaceSpace.Hint=Replace breaks with spots
+miReplaceSpace.Caption=Replace breaks with spots
+miPreview.Hint=Export list to MS Excel file
+miPreview.Caption=Reports on the grid
+miChangeState.Caption=***Состояние
+miBreakCreate.Hint=***Создать вставку
+miBreakCreate.Caption=***Создать вставку...
+miEditDay.Hint=edit day/ change
+miEditDay.Caption=Edit day…
+miFile.Caption=***Сетка
+miObjOptions.Hint=Settings
+miObjOptions.Caption=Grid settings...
+miAlertEmptySpace.Hint=Highlights intervals on the scale between empty partitions.
+miAlertEmptySpace.Caption=Display breaks
+miPaste.Hint=Insert to the current position
+miPaste.Caption=Insert to the current position
+miSaveChanges.Hint=***Сохранить внесенные изменения
+miSaveChanges.Caption=***Сохранить
+TflTVGenreGrid.Caption=Genre grid
+miLock.Hint=***Привязка выбранной передачи либо вставки ко времени выхода
+miLock.Caption=***Фиксировать (разблокировать)
+sDlg.Filter=***Файлы эфирной сетки|*.gtv
+sDlg.Title
+miFixProgramInDay.Hint=***Установить привязку ВСЕХ передач в выбранном дне ко времени выхода
+miFixProgramInDay.Caption=Fixate a program in a day
+miUnfixProgramInDay.Hint=***Убрать привязку ВСЕХ передач ко времени выхода в выбранном дне
+miUnfixProgramInDay.Caption=***Разблокировать программы в дне
+miShowBreaks.Hint=Display spots
+miShowBreaks.Caption=breaks
+miReady.Hint=***Режим сбора одобрений сетки
+miReady.Caption=Ready
+miLoadFromServer.Hint=Download data from the server
+miLoadFromServer.Caption=update
+miAlert.Hint=Highlights intervals on the scale that are overfilled with advertising
+miAlert.Caption=Display advertising overflow
+miVisibleBreaks.Hint=breaks
+miVisibleBreaks.Caption=breaks
+miEqualize.Hint=***Установить одинаковое время выхода для выбранных объектов
+miEqualize.Caption=Align selected
+miBreakDuration.Hint=duration of the spots per hour intervals
+miBreakDuration.Caption=duration of the spots...
+miPasteDay.Hint=Insert to the current day
+miPasteDay.Caption=Insert to the current day
+miCrtBreakBefore.Hint=***перед
+miCrtBreakBefore.Caption=***перед
+miComplete.Hint=***Сетка утверждена
+miComplete.Caption=Ready
+miShowProgramms.Hint=Display programs
+miShowProgramms.Caption
+miProgramSep.Hint=Program
+miProgramSep.Caption=Program
+miCrtBreakAfter.Hint=after
+miCrtBreakAfter.Caption=after
+miCrtBreakInside.Hint=***Создать вставку внутри выбранной передачи
+miCrtBreakInside.Caption=inside
+miSign.Hint=***Режим сбора одобрений сетки
+miSign.Caption=***Сбор одобрений
+miendTime.Hint=***Время, с которого заканчивается отображение сетки
+miendTime.Caption=***по
+miDaySep.Hint=Day
+miDaySep.Caption=Day
+[TflProgrammTemplate]
+TflProgrammTemplate.Caption=Genre grids
+eYearOf.Prefix=year
+eYearOf.Hint=***Период за который будут отображаться квоты
+eYearOf.Caption=quotas on
+miCostTemplate.Hint=***Расценки
+miCostTemplate.Caption=***Расценки...
+miExcelExport.Hint=Export to Excel
+miExcelExport.Caption=Export to Excel
+vRootNAME.Caption
+vRootPROGRAMM_COUNT.Caption=number of programs
+vRootBREAK_COUNT.Caption=amount/ number of spots
+miCopyFar.Caption
+vRootDATE_end.Caption=***по
+vRootSTATE.Caption
+vRootCREATED_BY.Caption=***создана
+miFormatTemplate.Hint=***Режим формирования сетки
+miFormatTemplate.Caption=***Формирование
+vRootTEMPLATE_ID.Caption=ID of layout
+vRootDATE_START.Caption=valid from
+miStates.Caption=Change condition
+[TfpBreak]
+liInfoI_timeStart.CaptionOptions.Text=***вход
+liInfoI_timeStart.Caption=***вход
+vcAudienceName.Caption=***Целевая аудитория
+tsDefault.Caption=General
+eNextDay.Caption=***следующие сутки
+liGeneralI_memo.CaptionOptions.Text
+liGeneralI_memo.Caption
+tsInfo.Caption=Additional information
+vcRatingIsManual.Caption
+e_TimeOf_p.Hint=on air start time of the spot, hh:mm:ss
+liInfoI_timeend.CaptionOptions.Text
+liInfoI_timeend.Caption
+liGeneralI_category.CaptionOptions.Text=***тип
+liGeneralI_category.Caption=***тип
+btnForming.Hint=***Перевести сетку в режим формирования
+btnForming.Caption=***Формирование
+lcGeneralG_durr.CaptionOptions.Text=***хронометраж
+lcGeneralG_durr.Caption=***хронометраж
+eTimeOfRelated.Hint=on air start time of the spot, hh:mm:ss
+lcInfoG_params.CaptionOptions.Text
+lcInfoG_params.Caption
+e_Duartion_p.Hint=duration of the spot, sec
+lcInfoI_trace.CaptionOptions.Text
+lcInfoI_trace.Caption
+lcInfoI_extId.CaptionOptions.Text
+lcInfoI_extId.Caption
+liGeneralI_notes.CaptionOptions.Text=***примечания
+liGeneralI_notes.Caption=***примечания
+e_Trace_p.Hint=Trace
+lcgInfo_media.CaptionOptions.Text=Carrier
+lcgInfo_media.Caption=Carrier
+liGeneralI_link.CaptionOptions.Text=***привязка
+liGeneralI_link.Caption=***привязка
+tsRatings.Caption=Ratings
+TfpBreak.Caption=***Параметры вставки
+e_isRegional_p.Hint=regional broadcasting may differ from primary broadcasting.
+e_isRegional_p.Caption=***региональная
+gStartTime.CaptionOptions.Text=on air start time
+gStartTime.Caption=on air start time
+liGeneralI_24h.CaptionOptions.Text=24 h
+liGeneralI_24h.Caption=24 h
+liGeneralI_duration.CaptionOptions.Text=duration
+liGeneralI_duration.Caption=duration
+e_Cassette_p.Hint=on air start time of the program on the media carrier, hh:mm:ss
+e_isLocal_p.Hint=the connection between the main and regional channels for this broadcast is not supported.
+e_isLocal_p.Caption=local
+e_Time_Start_p.Hint=on air start time of the program on the media carrier, hh:mm:ss
+vcRatingFact.Caption=***Факт
+lgAdd.CaptionOptions.Text=Additional parameters
+lgAdd.Caption=Additional parameters
+e_Time_end_p.Hint=on air start time of the program on the media carrier, hh:mm:ss
+vcRatingForecast.Caption=***План
+[TfwProgrammTemplate]
+lResult.Text.Text=***тип региона: %etypeArea###название: %e_name_p###предок: %root_area###
+TfwProgrammTemplate.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwProgrammTemplate.ActiveControl.Caption=do not show this page again
+TfwProgrammTemplate.Caption=***Создание ТЖС
+kwpPeriod.Header.Title.Text=***Период
+kwpPeriod.Header.Subtitle.Text=***Период действия
+kwpName.Header.Title.Text=Name
+kwpName.Header.Subtitle.Text=Enter the title
+lFrom.Caption=valid from
+lTo.Caption=***по
+[TfpDailyProgramm]
+vcBreakRegional.Caption=***региональная
+miProgrammDelete.Hint=***Удалить передачу
+miProgrammDelete.Caption=***Удалить передачу
+vcProgrammName.Caption
+vcProgrammDuration.Caption
+miBreakDelete.Hint=***Удалить вставку
+miBreakDelete.Caption=***Удалить вставку
+vcBreakGenre.Caption=***тип
+vcProgrammGenre.Caption=***тип
+TfpDailyProgramm.Caption=***Сетка
+vcProgrammTimeOf.Caption
+vcBreakTimeOf.Caption
+miProgrammEdit.Hint=***Править передачу
+miProgrammEdit.Caption=***Править передачу...
+vcBreakDuration.Caption
+vcProgrammRegional.Caption=***региональная
+vcBreakType.Caption=***положение
+miBreakEdit.Hint=***Править вставку
+miBreakEdit.Caption=***Править вставку...
+r
+vProgramms.Bands.TcxGridBand[0].Caption=Program
+r
+vProgramms.Bands.TcxGridBand[1].Caption=Break
+vcBreakId.Caption=Id spot
+vcProgrammId.Caption
+[TfpProgrammTemplate]
+lciSigned.CaptionOptions.Text=Approved
+lciSigned.Caption=Approved
+lciFrom.CaptionOptions.Text=***с
+lciFrom.Caption=***с
+lciState.CaptionOptions.Text=***Состояние
+lciState.Caption=***Состояние
+lciName.CaptionOptions.Text=Name
+lciName.Caption=Name
+lcgSigned.CaptionOptions.Text=Approved
+lcgSigned.Caption=Approved
+tsAdd.Caption=Additionally
+lcgPeriod.CaptionOptions.Text=***Период действия
+lcgPeriod.Caption=***Период действия
+lciTo.CaptionOptions.Text=***по
+lciTo.Caption=***по
+viewSIGNED_AT.Caption=when
+lcgState.CaptionOptions.Text=***Состояние
+lcgState.Caption=***Состояние
+lciAuthor.CaptionOptions.Text=Author
+lciAuthor.Caption=Author
+viewSIGNED_FULL_NAME.Caption=who
+TfpProgrammTemplate.Caption=***Параметры жанровой сетки
+lCreatedBy.Caption=Author
+[TflTVDetailGrid]
+miBreakEdges.Hint=jingle settings
+miBreakEdges.Caption=jingle settings...
+miVideoEvents.Hint=Video events
+miVideoEvents.Caption=Video events…
+miBreakBuffering.Hint=Send placemects to a buffer
+miBreakBuffering.Caption=Send placemects to a buffer
+miProgram.Caption=Program
+miCreateGrid.Hint=***Создать детальную сетку на основе жанровой
+miCreateGrid.Caption=***Создать сетку...
+acNewSecondary.Caption=***Создать вторичное событие
+siRoupBreak.Caption= auction 
+miApproveReady.Hint=approval for editing
+miApproveReady.Caption=approval for editing
+miMontage.Hint=***предмонтажная подготовка
+miMontage.Caption=***предмонтажная подготовка
+cg.AllHeaders.Component.DayName2=Tue 02.08.2005
+cg.AllHeaders.Component.DayName5=***Пт 05.08.2005
+cg.AllHeaders.Component.DayName6=***Сб 06.08.2005
+cg.AllHeaders.Component.DayName1=***Пн 01.08.2005
+cg.AllHeaders.Component.DayName7=Sun 07.08.2005
+cg.AllHeaders.Component.DayName3=***Ср 03.08.2005
+cg.AllHeaders.Component.DayName4=***Чт 04.08.2005
+miSubApproveReady.Caption=edit/ changes have been approved
+acNewPorgram.Caption=***Создать передачу...
+miShowRegional.Hint=***только региональные
+miShowRegional.Caption=***только региональные
+mnExportExcel.Hint=Reports on the grid
+mnExportExcel.Caption=Report on the grid...
+miBreakCreateGroup.Caption=***Создать вставку
+miDeleteObj.Hint=Delete
+miDeleteObj.Caption=Delete
+miBreaksAdd.Caption=***Создать вставку
+miSetBreaksCloseToEachOther.Hint=Group spots inside
+miSetBreaksCloseToEachOther.Caption=Group spots inside
+miWeekStatus.Hint=Change the condition of all days of the week
+miWeekStatus.Caption
+miReport.Hint=Report
+miReport.Caption=Report...
+miBreaksJustify.Caption=Align with/by spots
+miBreakRoup.Hint=auction spot
+miBreakRoup.Caption=auction spot
+miBreaks.Caption=Break
+miBreakRoupDelta.Hint=***Шаг
+miBreakRoupDelta.Caption=***Шаг
+misTimeScale.Hint=***Шкала времени
+misTimeScale.Caption=***Шкала времени
+miSendApprove.Hint
+miSendApprove.Caption
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName2=Tue 02.08.2005
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName5=***Пт 05.08.2005
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName6=***Сб 06.08.2005
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName1=***Пн 01.08.2005
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName7=Sun 07.08.2005
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName3=***Ср 03.08.2005
+TflTVDetailGrid.ActiveControl.AllHeaders.Component.DayName4=***Чт 04.08.2005
+TflTVDetailGrid.Caption=Detailed (airtime) broadcasting grid
+miSubApprove.Caption=***фомирование одобрили
+miEditObj.Hint=***Редактировать
+miEditObj.Caption=Edit...
+miMakeEdge.Hint=jingle with spots
+miMakeEdge.Caption=Jingle with spots..
+chkGridMode.Hint=secondaries
+chkGridMode.Caption=secondaries
+miVisibleProgramms.Hint
+miVisibleProgramms.Caption
+acNewBreakInside.Caption
+miFormat.Hint
+miFormat.Caption
+miApproveMontage.Hint=approval of the playlist
+miApproveMontage.Caption=approval of the playlist
+miOptions.Caption=***Список
+miCreateSecondary.Caption=***Создать вторичное событие
+miDeleteEmptySpaceDay.Hint=***Удалить разрывы
+miDeleteEmptySpaceDay.Caption=***Удалить разрывы
+miRefresh.Description=update
+miNarrowBreaks.Hint=***Ужать вставки
+miNarrowBreaks.Caption=***Ужать вставки
+miCorrection.Hint=Edit
+miCorrection.Caption=Edit
+miSubApproveMontage.Caption=Playlist has been approved
+miGridPeriod.Hint=Date
+miGridPeriod.Caption=Date
+miCloseDay.Hint=closed
+miCloseDay.Caption=closed
+[TfpPeriod]
+TfpPeriod.Caption=***Период
+dxlcDateFrom.CaptionOptions.Text=***с
+dxlcDateFrom.Caption=***с
+dxlcDateTo.CaptionOptions.Text=***по
+dxlcDateTo.Caption=***по
+eDateFrom.Hint=***начало периода
+eDateTo.Hint=***начало периода
+[TfpGridObjectOptions]
+lLocalColor.Caption=local marker
+lRegClr.Caption=marker of fixation
+chbCode.Caption=code of the program
+tsOther.Caption=***Прочее
+lBookMark.Caption=Bookmarks
+lSample.Caption=Sample
+lDefSec.Caption=The duration of the secondary event
+lLineColor.Caption=***Цвет рамки
+lLckClr.Caption=***регионального маркера
+chbVideoMediaUndefined.Caption=***выделять программы без медианосителя
+chbDurationUnmatched.Caption=***выделять несоответствие длительности
+tcx.Caption=***Поиск
+chbVideoDefined.Caption
+TfpGridObjectOptions.Caption=***Формат вывода
+gColor.Caption
+btnClear.Hint=Clear
+r
+btnClear.Properties.Buttons.TcxEditButton[0].Caption
+eItalic.Caption=italics
+eProgramDuration.Hint=Duration of the program, hh:min:sec
+lDefPrg.Caption=Duration of the program
+lDefBrk.Caption=duration of the spot
+gbShow.Caption=***Показывать
+LMDDockLabel1.Caption=***Разрывы
+eUnderline.Caption=***подчеркнутый
+gFont.Caption
+lBckClr.Caption=***фона
+lAlert.Caption=***Переполнение
+eStrikeout.Caption=strikeout
+lMaxDistBetweenBreaks.Caption=Duration between spots
+lColorMedia.Caption=No media carriers
+lBckgColor.Caption=***Цвет фона
+eBold.Caption=***выделенный
+[TfpTVGridToExcel]
+gDays.Caption=Days
+r
+gDays.Properties.Items.TcxCheckGroupItem[6].Caption
+r
+gDays.Properties.Items.TcxCheckGroupItem[4].Caption
+r
+gDays.Properties.Items.TcxCheckGroupItem[2].Caption
+r
+gDays.Properties.Items.TcxCheckGroupItem[0].Caption
+r
+gDays.Properties.Items.TcxCheckGroupItem[5].Caption
+r
+gDays.Properties.Items.TcxCheckGroupItem[1].Caption
+r
+gDays.Properties.Items.TcxCheckGroupItem[3].Caption
+gObjects.Caption=Additionally
+r
+gObjects.Properties.Items.TcxCheckGroupItem[0].Caption=breaks
+r
+gObjects.Properties.Items.TcxCheckGroupItem[1].Caption
+TfpTVGridToExcel.Caption=Export list to  Excel
+eExportType.Caption=display options
+r
+eExportType.Properties.Items.TcxRadioGroupItem[1].Caption=each day on a separate sheet
+r
+eExportType.Properties.Items.TcxRadioGroupItem[0].Caption=Week on the single page
+r
+eExportType.Properties.Items.TcxRadioGroupItem[2].Caption=*** 07@K2K <564C ?5@540G0<8
+[TfpCalendar]
+miApproveLayoutSheet.Hint
+miApproveLayoutSheet.Caption
+erEdit.Properties.Caption=Correcting
+TfpCalendar.Caption=Calendar of day condition
+erCompileConfirm.Properties.Caption=***Утверждение монтажного листа
+erConfirm.Properties.Caption=***Утверждение
+erEditConfirm.Properties.Caption=***Утверждение корректировок
+miApproveCorrecting.Hint=Approve TGG
+miApproveCorrecting.Caption=Approval of editing
+miCorrecting.Hint=***Сетка утверждена
+miCorrecting.Caption=Correcting
+erClosed.Properties.Caption=Closed
+vcBROADCAST_DURATION.Caption
+erFormat.Properties.Caption=***Формирование
+csCalendar.HintNextYear=***Следующий год
+csCalendar.HintPrevMonth=***Предыдущий месяц
+csCalendar.NameOfMonths.November=Nov
+csCalendar.NameOfMonths.January=Jan
+csCalendar.NameOfMonths.March=mar
+csCalendar.NameOfMonths.February=Feb
+csCalendar.NameOfMonths.September=Sep
+csCalendar.NameOfMonths.April=Apr
+csCalendar.NameOfMonths.August=aug
+csCalendar.NameOfMonths.June=Jun
+csCalendar.NameOfMonths.May
+csCalendar.NameOfMonths.October=Oct
+csCalendar.NameOfMonths.December=Dec
+csCalendar.NameOfMonths.July=Jul
+csCalendar.HintPrevYear=***Предыдущий год
+csCalendar.NameOfDays.Wednesday=Wed
+csCalendar.NameOfDays.Thursday=Thu
+csCalendar.NameOfDays.Monday=Mon
+csCalendar.NameOfDays.Tuesday=Tue
+csCalendar.NameOfDays.Sunday=Sun
+csCalendar.NameOfDays.Saturday=Sat
+csCalendar.NameOfDays.Friday=Fri
+csCalendar.HintNextMonth=***Следующий месяц
+erReady.Properties.Caption=Ready
+vcDATE_OF.Caption=date
+r
+vDurations.Bands.TcxGridBand[0].Caption=The duration of the broadcast day
+erCompile.Properties.Caption=Preinstallation preparations
+miClosed.Hint=Closed
+miClosed.Caption=Closed
+miPreparationMontage.Hint=Preinstallation preparations
+miPreparationMontage.Caption=Preinstallation preparations
+crLegend.Properties.Caption
+[TfpBreakDuration]
+clTime.Caption=Time
+rgDurationType.Caption=duration
+r
+rgDurationType.Properties.Items.TcxRadioGroupItem[1].Caption=mm/ss
+r
+rgDurationType.Properties.Items.TcxRadioGroupItem[0].Caption=***AA
+r
+rgDurationType.Properties.Items.TcxRadioGroupItem[2].Caption=***GG/<</AA
+TfpBreakDuration.Caption=Information n duration of spots by hours
+miExport.Hint=***Экспорт в XLS
+[TflChannelClips]
+TflChannelClips.Caption=***Ролики
+vcDURATION.Caption=duration
+vcNAME.Caption=Name
+miShowArchived.Hint
+miShowArchived.Caption=Archival
+vcOWNER_NAME.Caption=Client
+vcNAME_GFK.Caption=Name of GFK
+vcCREATED_AT.Caption=***Создан
+vcVIDEO_ID.Caption=ID of video
+vcCATEGORY_NAME.Caption=category
+vcVIDEO_UID.Caption=uID of video
+vcCLIP_UID.Caption=uID of clip 
+vcEXT_ID.Caption=External ID
+vcKIND.Caption
+[TfwChannelClip]
+kwpDuration.Header.Title.Text=Duration of the clip
+kwpDuration.Header.Subtitle.Text=***Укажите длительность ролика в секундах
+TfwChannelClip.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwChannelClip.ActiveControl.Caption=do not show this page again
+TfwChannelClip.Caption=Clip
+kwpCategory.Header.Title.Text=Category
+kwpCategory.Header.Subtitle.Text=***Укажите категорию ролика
+lb1.Caption=no registered customers!
+kwpError.Header.Title.Text=Attention!
+[TfpChannelClip]
+lTimeCode.Caption=***Старт (time code)
+dl1.Caption=Name of the clip
+dl2.Caption=Name of the clip GFK
+eStartTimeCode.Hint=on air start time of the spot, hh:mm:ss
+ts.Caption=Additionally
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[0].Caption
+eDurationTimeCode.Hint=on air start time of the spot, hh:mm:ss
+dl5.Caption=***Duration of the clip (сек.)
+lbCategory.Caption=Category
+TfpChannelClip.Caption=Clip
+dl4.Caption
+lDuration.Caption=duration (time code)
+lbFile.Caption=***Файл на сервере
+lciNameGfk.CaptionOptions.Text=Name of the clip GFK
+lciNameGfk.Caption=Name of the clip GFK
+lciCategory.CaptionOptions.Text=Category
+lciCategory.Caption=Category
+lciDuration.CaptionOptions.Text=duration
+lciDuration.Caption=duration
+lciNotes.CaptionOptions.Text=Description, notes
+lciNotes.Caption=Description, notes
+lciExtId.CaptionOptions.Text=External number
+lciExtId.Caption=External number
+lciKind.CaptionOptions.Text
+lciKind.Caption
+[TflContracts]
+vcDATE_START.Caption=***с
+TflContracts.Caption=Contract
+vcSALER_NAME.Caption=***Продавец
+vcDATE_end.Caption=***по
+vcCHANNEL_NAME.Caption=Name of the channel
+[TfwContract]
+TfwContract.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwContract.ActiveControl.Caption=do not show this page again
+TfwContract.Caption=Contract
+[TfpChQuotas]
+r
+tlQuotas.Bands.TcxTreeListBand[0].Caption.Text=***@>4025F
+tcPeriod.Caption.Text=***Период
+TfpChQuotas.Caption=quotas
+[TfpForecastRatings]
+r
+tl1.Bands.TcxTreeListBand[1].Caption.Text=Ratings
+r
+tl1.Bands.TcxTreeListBand[0].Caption.Text=***!>1KB85
+clCategory.Caption.Text=Category
+ldCategoryPrg.Caption=program category
+clTime.Caption.Text=Time
+TfpForecastRatings.Caption=Ratings
+miLoadFromXLs.Hint=Upload spot ratings from the file
+miLoadFromXLs.Caption=Upload spot ratings from the file...
+miClearPrograms.Hint=***Очистить рейтинги программ
+miClearPrograms.Caption=***Очистить рейтинги программ
+ldCategoryBreaks.Caption=Spot category
+miLoadPrgFromXls.Hint=Upload program ratings from the file
+miLoadPrgFromXls.Caption=Upload program ratings from the file...
+miClearBreaks.Hint
+miClearBreaks.Caption
+clPosition.Caption.Text=***Позиция
+clName.Caption.Text=Name
+[TflCustomPlanner]
+miDays.Hint=Days
+miDays.Caption=Days
+miPlannerOptions.Hint=Settings
+miPlannerOptions.Caption=Settings
+[TfmPlanner]
+vcSTATUS.Caption
+vcSelClipName.Caption=***ролик
+miDelete.Hint=Delete
+TfmPlanner.Caption=***Планировщик
+vcPlacementType.Caption=***тип
+vcFLAGS.Caption
+vcFixation.Caption=***фикс
+vcNPP.Caption=NPP
+r
+vClipsInBlock.Bands.TcxGridBand[0].Caption=*** >;8:8 2 1;>:5
+vcOrder.Caption=Order
+vcClipCategory.Caption=category
+vcSelClipDuration.Caption=duration
+vcOrderUid.Caption=Order
+vccClipUid.Caption
+vcPremiumName.Caption=Name
+vcPremiumId.Caption=***ID фикс.
+[TfpChannelReports]
+rgDay.Caption=***Сутки
+r
+rgDay.Properties.Items.TcxRadioGroupItem[1].Caption=Astronomical
+r
+rgDay.Properties.Items.TcxRadioGroupItem[0].Caption=Broadcast
+lbDateFrom.Caption=Date
+lbDateTo.Caption=***по
+cgReport.Caption=Reports
+r
+cgReport.Properties.Items.TcxCheckGroupItem[0].Caption=open time/filling
+r
+cgReport.Properties.Items.TcxCheckGroupItem[1].Caption
+TfpChannelReports.Caption=Reports
+lbChannel.Caption=Channel
+r
+rgPeriod.Properties.Items.TcxRadioGroupItem[1].Caption=***5@8>4
+r
+rgPeriod.Properties.Items.TcxRadioGroupItem[0].Caption=Date
+[TfmPlannerChannel]
+miPlacementList.Hint=***Размещения
+miPlacementList.Caption=***Размещения
+TfmPlannerChannel.Caption=***Размещение на неделю
+[TflPlacementDayChannel]
+TflPlacementDayChannel.Caption=***Служебные размещения
+[TflReel]
+vcCHANNEL_SID.Caption=channel number
+vcWHEN_PRODUCTION.Caption=produced
+miRegister.Hint=Register
+miRegister.Caption=Register...
+vcNAME_NAT.Caption=***рабочее название
+vcWHEN_SENT.Caption=sent
+miSend.Hint=send/submit
+miSend.Caption=Send...
+vcWHEN_REGISTERED.Caption=Registered
+miExcelList.Hint=***Экспорт выделеных в Excel
+miExcelList.Caption=***Экспорт выделеных в Excel
+vcWHEN_RECEIVED.Caption=***получена
+miEditReel.Hint=Change the information on the cassette
+miEditReel.Caption=Change the information on the cassette…
+vcREEL_ID.Caption=cassette number
+miShowAll.Hint=Display all
+miShowAll.Caption=Display all
+vcEXTERNAL_CODE.Caption
+miReceivePrepared.Hint=***Получить из производства
+miReceivePrepared.Caption=***Получить из производства...
+vcCLIPS.Caption=***Роликов на кассете
+miReceive.Hint=***Получить
+miReceive.Caption=***Получить...
+TflReel.Caption=Cassettes
+vcREEL_UID.Caption=UID of cassette
+[TfpContract]
+lcItemYear.CaptionOptions.Text
+lcItemYear.Caption
+TfpContract.Caption=Contract
+lcItemSeller.CaptionOptions.Text=***Продавец
+lcItemSeller.Caption=***Продавец
+lcItemChannel.CaptionOptions.Text=channal
+lcItemChannel.Caption=channal
+[TflPlacementsDayAll]
+TflPlacementsDayAll.Caption=Playlist
+dxBarButton1.Hint=Update the media carrier..
+dxBarButton1.Caption=Update the media carrier..
+miFtpImport.Caption=Ftp import...
+miMount.Hint=Playlist
+miMount.Caption=Playlist
+miRegional.Hint=Regional blocks only
+miRegional.Caption=Regional blocks only
+vcVIDEOEVENT_ID.Caption=ID of video event
+vcCLIP_STATUS.Caption=***Состояние
+miModes.Caption=Placements
+misSHow.Caption=display
+brDefault.Caption=General
+vcBREAK_REGIONAL.Caption=***регион.вставка
+vcBREAK_CATEGORY_FLAGS.Caption=***флаги категории вставки
+vcROOT_PLACEMENT_ID.Caption=main placement
+[TflChartTemplate]
+miGraphBars.Hint=***Столбцы
+miGraphBars.Caption=***Столбцы
+miGraphLines.Hint=Lines
+miGraphLines.Caption=Lines
+brView.Caption=Type
+TflChartTemplate.Caption=Report on the use of commercial time
+miGraphView.Caption=type:
+miShow.Hint=Diagram:
+miShow.Caption=Diagram:
+[TflTemplateFillRate]
+eChnl.Hint=channal
+eChnl.Caption=channal
+miChartShowTime.Hint=time
+miChartShowTime.Caption=time
+TflTemplateFillRate.Caption=Report on the use of commercial time
+miChartData.Caption=Display:
+eBreakCategory.Hint=Category
+eBreakCategory.Caption=Category
+miMSec.Hint=milliseconds
+miMSec.Caption=milliseconds
+eDate_From.Hint=***с
+eDate_From.Caption=***с
+miSec.Hint=***Секунды
+miSec.Caption=***Секунды
+miTimeCode.Hint=***Таймкод
+miTimeCode.Caption=***Таймкод
+eDate_To.Hint=***по
+eDate_To.Caption=***по
+eCategoryOptions.Hint
+eCategoryOptions.Caption
+r
+eCategoryOptions.Properties.Items.TcxCheckComboBoxItem[0].Description=integrated
+r
+eCategoryOptions.Properties.Items.TcxCheckComboBoxItem[1].Description=not integrated
+brDiagram.Caption=Diagram
+[TflRepFillRate]
+vcMAX_COMMERCIAL_DURATION.Caption=max
+bsOpenRate.Title=Open (%)
+TflRepFillRate.Caption=Report on the use of commercial time
+lsOpenRate.Title=Open (%)
+vcCOMMERCIAL_COMPLETION_REGION.Caption=***регион. заполн.
+bsCompletedReg.Title=Occupied with regional (sec)
+lsMaxCommercial.Title=Maximum by legislation (sec.)
+vcCOMMERCIAL_DURATION.Caption=open
+lsFillRate.Title=occupied (%)
+vcFILL_RATE.Caption=occupied/available
+bsOpened.Title=Open (sec)
+bsCompleted.Title=occupied (sec)
+vcOPEN_RATE.Caption=open/max.
+lsCompletedReg.Title=Occupied with regional (sec)
+lsCompleted.Title=occupied (sec)
+lsOpened.Title=Open (sec)
+bsMaxCommercial.Title=Maximum by legislation (sec.)
+bsFillRate.Title=occupied (%)
+vcCOMMERCIAL_COMPLETION.Caption=occupied
+[TflRepFillRateHour]
+miOpened.Hint
+miOpened.Caption
+miChartFillRate.Hint=filled (%)
+miChartFillRate.Caption=filled (%)
+miCompleted.Hint
+miCompleted.Caption
+vcTIME_TO.Caption=***по
+vcTIME_FROM.Caption=***с
+miCompletedReg.Hint=***Filling with regional advertiment
+miCompletedReg.Caption=***региональной (сек)
+miChartOpenRate.Hint
+miChartOpenRate.Caption
+TflRepFillRateHour.Caption=Report on the use of commercial time by hours
+miInterval.Hint=interval
+miInterval.Caption=interval
+r
+miInterval.Properties.Items.TcxImageComboBoxItem[1].Description=30 min
+r
+miInterval.Properties.Items.TcxImageComboBoxItem[0].Description=1 h
+[TfpVideoServerLink]
+e_Link_Id.Hint=duration of the spot, sec
+dxlcLinkId.CaptionOptions.Text=clip nubmer on VS2000
+dxlcLinkId.Caption=clip nubmer on VS2000
+TfpVideoServerLink.Caption=***Создание связи
+[TfpReportGrid]
+TfpReportGrid.Caption=Reports
+chbTotalRow.Caption=General line with the amount
+ibReports.Items.Text
+miRoundTime.Caption=***Время выхода передачи кратное 5
+rgTime.Caption=Time
+r
+rgTime.Properties.Items.TcxRadioGroupItem[1].Caption=min:sec
+r
+rgTime.Properties.Items.TcxRadioGroupItem[0].Caption=***GG : <8= : A5:
+r
+rgTime.Properties.Items.TcxRadioGroupItem[2].Caption=***A5:
+[TfpReportMountGrid]
+cbShowSecondary.Caption
+TfpReportMountGrid.Caption=Playlist
+rgTypeClipId.Caption=Clip number
+r
+rgTypeClipId.Properties.Items.TcxRadioGroupItem[1].Caption=External
+r
+rgTypeClipId.Properties.Items.TcxRadioGroupItem[0].Caption=internal
+rgBlockNumeration.Caption=The numbering of the blocks
+r
+rgBlockNumeration.Properties.Items.TcxRadioGroupItem[1].Caption=***A:2>7=0O
+r
+rgBlockNumeration.Properties.Items.TcxRadioGroupItem[0].Caption=***?> ?@>3@0<<0<
+lcgSecondary.CaptionOptions.Text=secondary events
+lcgSecondary.Caption=secondary events
+lciShowSecondary.CaptionOptions.Text
+lciShowSecondary.Caption
+rgTypeNum.Caption=numbering
+r
+rgTypeNum.Properties.Items.TcxRadioGroupItem[1].Caption=External
+r
+rgTypeNum.Properties.Items.TcxRadioGroupItem[0].Caption=Internal 
+lciOnlyRegional.CaptionOptions.Text=***Только региональные данные
+lciOnlyRegional.Caption=***Только региональные данные
+chbShowEmptyProgram.Hint=***Экспортировать передачи без блоков
+chbShowEmptyProgram.Caption=***Экспортировать передачи без блоков
+miOnlyRegional.Caption=***только региональные
+[TflVideoProducts]
+miAll.Hint=all
+miAll.Caption=all
+vcSERIES.Caption=nemoer of episodes
+TflVideoProducts.Caption=Video products
+vcVIDEOPRODUCT_ID.Caption=ID of video-product
+vcNAME_ORIGINAL.Caption=original name
+vcPRODUCT_TYPE.Caption=***тип продукта
+vcPRODUCER_ID.Caption
+vcPRODUCER_NAME.Caption=Producer
+vcVIDEOPRODUCT_UID.Caption=UID of video product
+[TfwVideoProduct]
+lcgDuration.CaptionOptions.Text=duration
+lcgDuration.Caption=duration
+btFindProducer.Caption=Search
+lcgNameOriginal.CaptionOptions.Text
+lcgNameOriginal.Caption
+lcgNameWork.CaptionOptions.Text
+lcgNameWork.Caption
+kwpProductType.Header.Title.Text=***Тип видео-продукта
+kwpProductType.Header.Subtitle.Text=Select the type of  the video product
+clSet.Caption
+TfwVideoProduct.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwVideoProduct.ActiveControl.Caption=do not show this page again
+TfwVideoProduct.Caption=Video product
+lcgProductType.CaptionOptions.Text=***Тип видео-продукта
+lcgProductType.Caption=***Тип видео-продукта
+e_Duration_p.Hint=on air start time of the program on the media carrier, hh:mm:ss
+vcCOMPANY_NAME.Caption=Producer
+lcgSeries.CaptionOptions.Text
+lcgSeries.Caption
+kwpProducerName.Header.Title.Text=Producer
+kwpProducerName.Header.Subtitle.Text=Enter the producer of the video product
+[TfpTemplateEx]
+[TfpVideoProduct]
+cxGridBandedColumn9.Caption=description
+lciCommonDescription.CaptionOptions.Text
+lciCommonDescription.Caption
+cxGridBandedColumn4.Caption=duration
+vdVideoSERIA_NO.Caption=***серия
+acVideoDelete.Caption=***Удалить видеоматериал
+lciVideo_duration.CaptionOptions.Text=duration
+lciVideo_duration.Caption=duration
+lciVideo_dateDemonstration.CaptionOptions.Text=Date
+lciVideo_dateDemonstration.Caption=Date
+acMarkerDelete.Caption=***Удалить маркер
+vMarkersMARKER_ID.Caption=ID of marker
+vVideoMediaMEDIA_CODE.Caption=code of the carrier
+acDelCategory.Caption=***Удалить категорию
+vCategoriesCATEGORY_NAME.Caption
+lcgCommonCategories.CaptionOptions.Text=Genres
+lcgCommonCategories.Caption=Genres
+lciCommonNameOriginal.CaptionOptions.Text=original 
+lciCommonNameOriginal.Caption=original 
+acMarkerAdd.Caption=Add marker
+eFixPlannedDemonstration.Caption=***планируется демонстрация
+lciVideo_notes.CaptionOptions.Text=***примечание
+lciVideo_notes.Caption=***примечание
+vdVideoNAME_ORIGINAL.Caption=original name
+vdVideoVIDEO_ID.Caption=ID of video 
+lciCommonVideoProductId.CaptionOptions.Text
+lciCommonVideoProductId.Caption
+cxGridBandedColumn3.Caption=original name
+miMediaDelete.Caption=Delete
+lcgVideo_names.CaptionOptions.Text=Names
+lcgVideo_names.Caption=Names
+lcVideoGroup3.CaptionOptions.Text=***Планируемый показ
+lcVideoGroup3.Caption=***Планируемый показ
+miAddCategory.Caption=Add category...
+lciVideo_name.CaptionOptions.Text=***рабочее
+lciVideo_name.Caption=***рабочее
+lciCommonNotes.CaptionOptions.Text=***примечания
+lciCommonNotes.Caption=***примечания
+vCategoriesCATEGORY_NAME_SHORT.Caption=short title/name
+vVideoMediaMEDIA_PATH.Caption
+lciCommonDuration.CaptionOptions.Text=duration
+lciCommonDuration.Caption=duration
+miDeleteVideo.Caption=***Удалить видеоматериал
+vdVideoVIDEOPRODUCT_ID.Caption
+lciVideoClipId.CaptionOptions.Text=***ролик ID
+lciVideoClipId.Caption=***ролик ID
+vVideoMediaDESCRIPTION.Caption=description
+lciVideo_seria.CaptionOptions.Text=***серия
+lciVideo_seria.Caption=***серия
+TfpVideoProduct.Caption=Video product
+vMarkersVIDEO_ID.Caption=ID of video 
+vVideoMediaDURATION.Caption=duration
+acMediaAdd.Caption=Add
+vVideoMediaFLAGS.Caption=Options
+miMediaAdd.Caption=Add
+lcgVideo_data.CaptionOptions.Text=Data
+lcgVideo_data.Caption=Data
+cxGridBandedColumn7.Caption
+vMarkersDESCRIPTION.Caption=description
+lcVideo_media_filename.CaptionOptions.Text
+lcVideo_media_filename.Caption
+acVideoCancel.Caption=Cancel
+miMarkerDelete.Caption=***Удалить маркер
+cxGridBandedColumn1.Caption=ID of video-product
+vdVideoDURATION.Caption=duration
+tsMedia.Caption=Carriers
+acMediaDelete.Caption=Delete
+acAddCategory.Caption=Add category...
+lcgCommonName.CaptionOptions.Text=Names
+lcgCommonName.Caption=Names
+lciCommonChannelName.CaptionOptions.Text=channal
+lciCommonChannelName.Caption=channal
+vdVideoPLANNED_DEMONSTRATION.Caption
+vCategoriesCATEGORY_ID.Caption=ID of category
+vVideoMediaTIME_START.Caption=***тайм код начала
+tsMarkers.Caption=Markers
+lciVideo_fixDemonstration.CaptionOptions.Text=***есть демонстрация
+lciVideo_fixDemonstration.Caption=***есть демонстрация
+miDelCategory.Caption=***Удалить категорию
+vMarkersTIME_OF.Caption=***тайм-код
+lciCommonProducer.CaptionOptions.Text=Producer
+lciCommonProducer.Caption=Producer
+vMarkersNAME_NAT.Caption
+lcgCommonAdditional.CaptionOptions.Text=Additionally
+lcgCommonAdditional.Caption=Additionally
+vdVideoFLAGS.Caption=***флаги
+acVideoStore.Caption=Save/Remember
+cxGridBandedColumn6.Caption=***флаги
+lciVideo_nameOriginal.CaptionOptions.Text=original 
+lciVideo_nameOriginal.Caption=original 
+lciVideo_timeDemonstration.CaptionOptions.Text=Time
+lciVideo_timeDemonstration.Caption=Time
+cxGridBandedColumn5.Caption=***серия
+cxGridBandedColumn8.Caption=***примечание
+vVideoMediaVIDEO_ID.Caption=ID of video 
+lciCommonProductType.CaptionOptions.Text=***тип продукта
+lciCommonProductType.Caption=***тип продукта
+vCategoriesCATEGORY_FLAGS.Caption
+miMarkerAdd.Caption=Add marker
+vVideoMediaFILENAME.Caption=***файл
+lciVideo_description.CaptionOptions.Text=description
+lciVideo_description.Caption=description
+lciCommonSeries.CaptionOptions.Text=number of episodes
+lciCommonSeries.Caption=number of episodes
+lciCommonName.CaptionOptions.Text=***рабочее
+lciCommonName.Caption=***рабочее
+lciVideoClipName.CaptionOptions.Text
+lciVideoClipName.Caption
+tsVideoCommon.Caption=Data
+vCategoriesVIDEOPRODUCT_ID.Caption=ID of video-product
+tsVideo.Caption=Video materials
+vdVideoNAME_NAT.Caption=***рабочее название
+cxGridBandedColumn2.Caption=***рабочее название
+vVideoMediaVIDEO_UID.Caption=Uid of video 
+vCategoriesVIDEOPRODUCT_UID.Caption=UID of video product
+vdVideoVIDEO_UID.Caption
+vdVideoVIDEOPRODUCT_UID.Caption=UID of video product
+vdVideoEXT_ID.Caption
+vVideoMediaFormat_Id.Caption=***Формат Вещания
+[TfpFindVideo]
+vVideoFLAGS.Caption
+vVideoProductPRODUCER_NAME.Caption
+vVideoDURATION.Caption=duration
+rbtSearchCriterion.Caption=Search by...
+r
+rbtSearchCriterion.Properties.Items.TcxRadioGroupItem[1].Caption
+r
+rbtSearchCriterion.Properties.Items.TcxRadioGroupItem[0].Caption=Name
+r
+rbtSearchCriterion.Properties.Items.TcxRadioGroupItem[2].Caption=uID of video material
+btnFind.Caption=Find
+vVideoProductNAME_NAT.Caption
+lciVideo.CaptionOptions.Text=Video
+lciVideo.Caption=Video
+vVideoProductDURATION.Caption=duration
+lcVideoProducts.CaptionOptions.Text=Video products
+lcVideoProducts.Caption=Video products
+vVideoProductNAME_ORIGINAL.Caption=original name
+tcx.CaptionOptions.Text=***Поиск
+vVideoNAME_NAT.Caption
+vVideoVIDEOPRODUCT_ID.Caption=ID of video-product
+vVideoVIDEOMEDIA_COUNT.Caption=on the media carrier
+vVideoProductVIDEOPRODUCT_ID.Caption=ID of video-product
+vVideoSERIA_NO.Caption=number of  epiosode
+lciCategories.CaptionOptions.Text=Genres
+lciCategories.Caption=Genres
+TfpFindVideo.Caption=Video
+vVideoVIDEO_ID.Caption=ID of video 
+vVideoProductSERIES.Caption=***серии
+vVideoProductColumn2.Caption=***ид Производителя
+lciProductType.CaptionOptions.Text
+lciProductType.Caption
+lcgProduct.CaptionOptions.Text=Video products
+lcgProduct.Caption=Video products
+vVideoProductFLAGS.Caption
+vVideoPLANNED_DEMONSTRATION.Caption=***Планируемый показ
+vVideoProductPRODUCT_TYPE.Caption=***тип
+lcgVideo.CaptionOptions.Text=Material
+lcgVideo.Caption=Material
+r
+chbMode.Properties.Items.TcxCheckGroupItem[0].Caption=Working name 
+r
+chbMode.Properties.Items.TcxCheckGroupItem[1].Caption=original name
+rbtTypeProduct.Caption=***Тип видео-продукта
+r
+rbtTypeProduct.Properties.Items.TcxRadioGroupItem[1].Caption=***A;C651=K9
+r
+rbtTypeProduct.Properties.Items.TcxRadioGroupItem[0].Caption=Regular
+vVideoNAME_ORIGINAL.Caption=original name
+vVideoProductCHANNEL_SID.Caption=SID of channel
+lciFind.CaptionOptions.Text=***строка поиска
+lciFind.Caption=***строка поиска
+r
+rbtSearchCriterion.Properties.Items.TcxRadioGroupItem[3].Caption=internal ID
+vVideoVIDEOPRODUCT_UID.Caption=UID of video product
+vVideoVIDEO_UID.Caption
+vVideoProductVIDEOPRODUCT_UID.Caption=UID of video product
+[TfrmCategories]
+tlcFlags.Caption.Text=Options
+tlcShort.Caption.Text=short
+[TfpAddCategory]
+TfpAddCategory.Caption=Add category
+[TflMedia]
+vRootCHANNEL_SID.Caption=channelSID
+vRootMEDIA_CODE.Caption=media code
+vRootMEDIATYPE_NAME.Caption=***тип медиа-носителя
+vRootDESCRIPTION.Caption=description
+vRootCHANNEL_NAME.Caption=channal
+TflMedia.Caption=Carriers
+vRootMEDIA_PATH.Caption
+vRootROOT_MEDIA_CODE.Caption=***Родительский носитель
+[TfwMedia]
+kwpCode.Header.Title.Text=Code of the media carrier
+kwpCode.Header.Subtitle.Text=Enter unique code of the media carrier
+TfwMedia.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwMedia.ActiveControl.Caption=do not show this page again
+lcCodeItem1.CaptionOptions.Text
+lcCodeItem1.Caption
+kwpType.Header.Title.Text=***Тип региона
+kwpType.Header.Subtitle.Text=***Укажите тип региона
+lciType.CaptionOptions.Text=***тип
+lciType.Caption=***тип
+[TfpMedia]
+vVideoMediaMEDIA_ID.Caption=code of the carrier
+TfpMedia.Caption=media carrier
+lcItemMediaType.CaptionOptions.Text=***тип
+lcItemMediaType.Caption=***тип
+vVideoMediaVIDEO_NAME.Caption
+tsData.Caption=Data
+lcItemDescription.CaptionOptions.Text
+lcItemDescription.Caption
+vVideoMediaFileName.Caption
+lcI_mediaPath.CaptionOptions.Text=***Путь
+lcI_mediaPath.Caption=***Путь
+lcItemTimeCode.CaptionOptions.Text
+lcItemTimeCode.Caption
+[TflMediaTypes]
+FLAGS.Caption=Options
+r
+FLAGS.Properties.Items.TcxCheckComboBoxItem[0].Description=***CBL =0 48A:5 : ?0?:5
+r
+FLAGS.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription
+vRootNAME_NAT.Caption
+vRootMEDIATYPE_ID.Caption=ID of type
+TflMediaTypes.Caption=***Типы медиа-носителей
+[TfpSecondary]
+lcI48.CaptionOptions.Text=48 hours
+lcI48.Caption=48 hours
+lcICategory.CaptionOptions.Text=Category
+lcICategory.Caption=Category
+TfpSecondary.Caption=secondary event
+lcgFlags.CaptionOptions.Text=Additional parameters
+lcgFlags.Caption=Additional parameters
+lcIParam.CaptionOptions.Text
+lcIParam.Caption
+lcIDuration.CaptionOptions.Text=duration
+lcIDuration.Caption=duration
+lcI24.CaptionOptions.Text=24h
+lcI24.Caption=24h
+lcgStartTime.CaptionOptions.Text
+lcgStartTime.Caption
+[TflVideoEvents]
+tlcTitle.Caption.Text=header
+TflVideoEvents.Caption=Video events
+tlcKind.Caption.Text=***тип
+r
+tlcKind.Properties.Items.TcxImageComboBoxItem[3].Description=***@07<5I5=85
+r
+tlcKind.Properties.Items.TcxImageComboBoxItem[1].Description
+r
+tlcKind.Properties.Items.TcxImageComboBoxItem[0].Description
+r
+tlcKind.Properties.Items.TcxImageComboBoxItem[2].Description
+tlcDuration.Caption.Text=duration
+tlcHard.Caption.Text=***опорное время
+tlcIn.Caption.Text=IN (Start on the carrier)
+tlcVideoId.Caption.Text=ID of video 
+bmBar2.Caption=Date
+tlcMediacode.Caption.Text=media code
+miEdit.Hint=***Редактировать заказ
+tlcEventTypeId.Caption.Text
+tlcTimeOf.Caption.Text=on air start time
+tlcSource.Caption.Text=Video source
+tlcVideoMediaId.Caption.Text=ID of video-media
+miPutVideoMedia.Hint=***Подставить медиа носители
+miPutVideoMedia.Caption=***Подставить медиа носители
+tlcForecastDuration.Caption.Text=***Прогнозная длительность
+tlcVideoUid.Caption.Text=Uid of video 
+[TfpDetailedGridDay]
+TfpDetailedGridDay.Caption
+tlcCategoryName.Caption.Text=category
+tlcIsRegional.Caption.Text=***региональная
+[TfpCategoryEdges]
+lcIDurBefore.CaptionOptions.Text=duration
+lcIDurBefore.Caption=duration
+lcIEdgeInner.CaptionOptions.Text=internal jingle
+lcIEdgeInner.Caption=internal jingle
+lcIDurAfter.CaptionOptions.Text=duration
+lcIDurAfter.Caption=duration
+lcIBreakBefore.CaptionOptions.Text
+lcIBreakBefore.Caption
+lcIBreakAfter.CaptionOptions.Text
+lcIBreakAfter.Caption
+TfpCategoryEdges.Caption=jingles
+lcIClipBefore.CaptionOptions.Text=***ролик
+lcIClipBefore.Caption=***ролик
+tlcCategory.Caption.Text
+lcgEdgeAfter.CaptionOptions.Text=jingle after
+lcgEdgeAfter.Caption=jingle after
+lcIEdgeAfter.CaptionOptions.Text=***ролик
+lcIEdgeAfter.Caption=***ролик
+lcgEdgeBefore.CaptionOptions.Text=jingle before
+lcgEdgeBefore.Caption=jingle before
+[TfpBreakEdge]
+vcBreak.Caption
+vcTimeOf.Caption=Broadcast time
+vcNeedDuration.Caption=***требуемая длительность
+TfpBreakEdge.Caption=***Результат отбивки
+vcResult.Caption
+[TflImportFtp]
+miDateFrom.Hint=Date
+miDateFrom.Caption=Date
+vcEXTERNAL_UPDATED_TIME.Caption= update time
+miOpenContainingDir.Hint=open the folder
+miOpenContainingDir.Caption=open the folder
+vcEXTERNAL_STATUS.Caption
+r
+vcEXTERNAL_STATUS.Properties.Items.TcxImageComboBoxItem[3].Description=***CAB0@52H89
+r
+vcEXTERNAL_STATUS.Properties.Items.TcxImageComboBoxItem[1].Description=not found locally
+r
+vcEXTERNAL_STATUS.Properties.Items.TcxImageComboBoxItem[4].Description=ok!
+r
+vcEXTERNAL_STATUS.Properties.Items.TcxImageComboBoxItem[0].Description=***=5 =0945= =0 DB?
+r
+vcEXTERNAL_STATUS.Properties.Items.TcxImageComboBoxItem[2].Description=found more than one
+vcADVERTISER_ID.Caption=ID of advertiser
+vcPRODUCT_NAME.Caption=Product
+vcEXTERNAL_ID.Caption=ID external
+vcPRODUCT_ID.Caption=ID of product 
+vcPRODUCT_CATEGORY.Caption=ID of category
+bmBar3.Caption=Channel
+miLoadFromFtp.Hint=download from server
+miLoadFromFtp.Caption=download from server
+vcLOCAL_FILE_NAME.Caption=Local file
+miDateTo.Hint=***по
+miDateTo.Caption=***по
+vcPRODUCT_CATEGORY_NAME.Caption=category
+miPath.Hint=***Путь к файлам
+miPath.Caption=***Путь к файлам
+vcADVERTISER_NAME.Caption=Advertiser
+[TfpMakeEdges]
+TfpMakeEdges.Caption=jingles
+vcObject.Caption=object
+vcTimeOfNew.Caption=new time
+vcCategory.Caption=Category
+vcCategoryId.Caption
+[TfpChReports]
+lcOptionsItem1.CaptionOptions.Text=from
+lcOptionsItem1.Caption=from
+lcOptionsGroup3.CaptionOptions.Text=Date
+lcOptionsGroup3.Caption=Date
+lcOptionsItem2.CaptionOptions.Text=before
+lcOptionsItem2.Caption=before
+lcg_Period.CaptionOptions.Text=***Период
+lcg_Period.Caption=***Период
+lcI_date.CaptionOptions.Text=Date
+lcI_date.Caption=Date
+itPlanOrFact.CaptionOptions.Text=Data on
+itPlanOrFact.Caption=Data on
+rgPlanOrFact.Caption=Data on
+r
+rgPlanOrFact.Properties.Items.TcxRadioGroupItem[1].Caption=***?;0=C
+r
+rgPlanOrFact.Properties.Items.TcxRadioGroupItem[0].Caption=***D0:BC
+[TflBroadcastPlan]
+acCasualBreak.Caption=Add unscheduled spot
+tlcPlanDuration.Caption.Text=duration
+tlcEventId.Caption.Text=***ид
+miAddPlc.Caption=Add unscheduled placement...
+tlcMark.Caption.Text=***признак
+r
+tlcMark.Properties.Items.TcxImageComboBoxItem[1].Description=***A=OB
+r
+tlcMark.Properties.Items.TcxImageComboBoxItem[0].Description=***2KH5;
+r
+tlcMark.Properties.Items.TcxImageComboBoxItem[2].Description
+miMarkDone.Caption
+TflBroadcastPlan.Caption=***План эфира
+brGeneral.Caption=General
+tlcVideoEventId.Caption.Text=ID of video event
+tlcCasualEvent.Caption.Text=off-schedule
+tlcPlanStart.Caption.Text
+miDate.Hint=Date
+miDate.Caption=Date
+miUpdate.Hint=update
+miUpdate.Caption=update
+miAddPrg.Caption=Add unscheduled program...
+acDone.Caption
+tlcPlanend.Caption.Text=the end 
+tlcTypeEvent.Caption.Text=***тип
+miMarkBlocked.Caption
+acCasualProgram.Caption=Add unscheduled program...
+acBlocked.Caption
+miAddBreak.Caption=Add main spot
+acEdit.Caption=Edit...
+tlcend.Caption.Text=the end 
+r
+tl.Bands.TcxTreeListBand[1].Caption.Text=***;0=
+r
+tl.Bands.TcxTreeListBand[0].Caption.Text=***$0:B
+tlcOffset.Caption.Text=***смещение
+acCasualPlc.Caption=Add unscheduled placement...
+tlcDelta.Caption.Text=delta
+tlcStart.Caption.Text
+[TfpEventTemplate]
+lcI_timeend.CaptionOptions.Text=the end 
+lcI_timeend.Caption=the end 
+lci_time.CaptionOptions.Text
+lci_time.Caption
+lci_notes.CaptionOptions.Text
+lci_notes.Caption
+lci_duration.CaptionOptions.Text=duration
+lci_duration.Caption=duration
+lcG_time.CaptionOptions.Text=Time
+lcG_time.Caption=Time
+[TfpEventProgram]
+lci_category.CaptionOptions.Text=***тип
+lci_category.Caption=***тип
+e_Name_p.Hint=name of the program
+lci_name.CaptionOptions.Text=Name
+lci_name.Caption=Name
+[TfpEventBreak]
+lci_link.CaptionOptions.Text=***привязка
+lci_link.Caption=***привязка
+[TflWorkList]
+vcEXT_PRODUCER.Caption=Manufecturer/producer
+vcEVENT_NOTES.Caption=***примечание
+vcFACT_DURATION.Caption
+TflWorkList.Caption=***Рабочий журнал
+vcEXT_BOUNDS_OUT.Caption=***поза межами держ. мовлення
+vcInnerEvent.Caption=***событие внутри
+vcCASUAL_EVENT.Caption=off-schedule
+vcExt_break_kind.Caption=***тип вставки
+vcCODE.Caption=***шифр
+vcEVENT_TYPE.Caption=***тип
+vcEXT_BROADCAST_KIND.Caption
+vcEVENT_ID.Caption=ID of event
+vcFACT_end_TIME.Caption=the end 
+vcROOT_EVENT_ID.Caption=ID of the main event
+vcFACT_TIME_OF.Caption
+vcEXT_DEMONSTRATION.Caption=***Показ
+vcEXT_ATTRIBUTES.Caption=additional.
+vcVIDEOEVENT_CAST_FLAGS.Caption=Video flags
+vcProducerName.Caption
+vcTHEME.Caption=***Тема
+ePlanData.Hint=***План
+ePlanData.Caption=***План
+vcTIME_OF.Caption
+vcTIME_END.Caption=the end 
+vcBROADCAST_ID.Caption=Type of broadcasting
+vcSHOW_NO.Caption=***показ/повтор
+vcOut_Broadcast.Caption=***Поза межами
+vcNOTES.Caption
+[TfpWLEventProgram]
+e_Code_p.Hint=on air start time of the program on the media carrier, hh:mm:ss
+lci_code.CaptionOptions.Text=***шифр
+lci_code.Caption=***шифр
+TfpWLEventProgram.Caption=Program
+[TfpWLEventBreak]
+TfpWLEventBreak.Caption=Break
+[TfpEventPlacement]
+lcg_clip.CaptionOptions.Text=***Поиск
+lcg_clip.Caption=***Поиск
+lcItem1.CaptionOptions.Text=License key
+lcItem1.Caption=License key
+lci_findstr.CaptionOptions.Text
+lci_findstr.Caption
+miFind.Caption=Find
+vcADVERISER_NAME.Caption=Advertiser
+vcCheck.Caption=selection
+[TfpMediaSearch]
+MediaType_Flags.Caption
+btnSearch.Caption
+vcMedia_id.Caption=***ид
+chgOptions.Caption=***Поиск по
+r
+chgOptions.Properties.Items.TcxCheckGroupItem[2].Caption=***?CB8
+r
+chgOptions.Properties.Items.TcxCheckGroupItem[0].Caption=code
+r
+chgOptions.Properties.Items.TcxCheckGroupItem[1].Caption=description
+vcMediaType_Name.Caption=***тип
+vcDescription.Caption=description
+TfpMediaSearch.Caption=***Поиск
+vcMedia_Path.Caption
+vcMedia_Code.Caption
+vcMediaType_Id.Caption=***ИД тип
+[TfmChannel]
+miVIdeo.Caption=Video
+miRatings.Hint
+miRatings.Caption
+miBroadcastPlan.Hint=***План эфира
+miBroadcastPlan.Caption=***План эфира
+miReels.Hint=Cassettes
+miReels.Caption=Cassettes...
+miFillRate.Hint=occupancy
+miFillRate.Caption=occupancy
+miLang.Caption=***Языки
+miSettingsReset.Hint=***Установить все настройки системы по умолчанию
+miSettingsReset.Caption=***Сброс всех настроек
+miDetailGrid.Hint=Detail grid
+miDetailGrid.Caption=Detailed grid...
+miExit.Hint=Exit
+miExit.Caption=Exit
+miGenreGrid.Hint=Genre grids
+miGenreGrid.Caption=Genre grid...
+miFontName.Hint=Name
+miFontName.Caption=Name
+miClips.Hint=***Ролики
+miClips.Caption=***Ролики...
+miStaticRegion.Hint=***Регион
+miStaticRegion.Caption=***Регион
+miSettings.Caption=Settings
+miVideoProducts.Hint=Video Products
+miVideoProducts.Caption=Video Products...
+r
+sb.Panels.TdxStatusBarPanel[3].Text=not connected
+miStaticCity.Hint=City
+miStaticCity.Caption=City
+miSepCity.Hint=City
+miSepCity.Caption=City
+miFontSize.Hint=***Размер
+miFontSize.Caption=***Размер
+miAutoupdate.Caption=Automatic Updates
+miBroadCast.Caption=***Эфир
+miCompressionOptimization.Hint
+miCompressionOptimization.Caption=Optimize...
+miChQuotas.Hint=quotas
+miChQuotas.Caption=quotas...
+miPlacementWeek.Hint=***Размещение роликов в формате недельной сетки
+miPlacementWeek.Caption=***Размещение (неделя)...
+miMedia.Hint=Media carriers
+miMedia.Caption=Media carriers…
+miWindows.Caption=Windows
+miChPlacement.Hint=Placement
+miChPlacement.Caption=***Размещение...
+miProxyName.Hint=***Сервер
+miProxyName.Caption=***Сервер
+miPlacement.Caption=Placement
+miWindow.Caption=Window
+miAliasManager.Hint=***Управление учетными записями подключений к серверам
+miAliasManager.Caption=Connection Manager...
+miUsePageControlForWndSwitch.Hint=Use bookmarks to switch windows
+miUsePageControlForWndSwitch.Caption=Use bookmarks to switch windows
+bFont.Caption=***Шрифт
+miProxyPort.Hint=***Порт
+miProxyPort.Caption=***Порт
+miChannel.Caption=Channel
+miGrids.Caption=***Телевизионные сетки
+miContracts.Hint=Contract
+miContracts.Caption=Contracts…
+miUseProxy.Caption=Use proxy
+miProxyUserPasswod.Hint=***Пароль
+miProxyUserPasswod.Caption=***Пароль
+miGridReports.Hint=***Сетки
+miGridReports.Caption=***Сетки...
+miSepOblast.Hint=Area
+miSepOblast.Caption=Area
+miProxyUserName.Hint=***Пользователь
+miProxyUserName.Caption=***Пользователь
+miConnection.Caption=***Подключение
+miWorkList.Hint=***Рабочий журнал
+miWorkList.Caption=***Рабочий журнал
+miChReports.Hint=Reports
+miChReports.Caption=Reports...
+miMediaTypes.Hint=***Типы медианосителей
+miMediaTypes.Caption=***Типы медианосителей...
+miFindVideo.Hint=***Поиск видеоматериалов
+miFindVideo.Caption=***Поиск видеоматериалов...
+miFillRateDay.Hint=***по суткам
+miFillRateDay.Caption=***по суткам...
+misepRegion.Hint=***Регион
+misepRegion.Caption=***Регион
+miCalendar.Hint=Calendar
+miCalendar.Caption=Calendar...
+miMore.Caption=Additionally
+miPlacementsAll.Hint=Playlist
+miPlacementsAll.Caption=Playlist...
+miPathLanUpd.Hint=***Путь для обновлений в локальной сети
+miPathLanUpd.Caption=***Путь для обновлений в локальной сети
+miFillRateHour.Hint=***по часам
+miFillRateHour.Caption=***по часам...
+miArrange.Hint=***Упорядочить окна
+miArrange.Caption=***Упорядочить
+miExportVS.Hint=***Экспорт на видео сервер
+miExportVS.Caption=***Экспорт на видео сервер
+miChangePassword.Hint=Change password..
+miChangePassword.Caption=Change password..
+miLogin.Hint=***Подключиться как другой пользователь
+miLogin.Caption=***Подключиться...
+miStaticObl.Hint=Area
+miStaticObl.Caption=Area
+miImportVideoFact.Hint=Import of videoevents
+miImportVideoFact.Caption=Import of videoevents
+miDecor.Hint=***Оформления
+miDecor.Caption=***Оформления...
+flClipMediaManage.Hint=Media information
+flClipMediaManage.Caption=Media information
+miCategoryDecor.Hint=***Оформление категорий
+miCategoryDecor.Caption=***Оформление категорий...
+miImportBreaks.Hint=Import of spots
+miImportBreaks.Caption=Import of spots…
+miCalendar1.Hint=Calendar
+miCalendar1.Caption=Calendar...
+[TfpTemplatePlcReplace]
+vcCLIP_NAME.Summary.FooterFormat
+miReplace.Hint=Replace
+miReplace.Caption=Replace ...
+vcPLACE_POSITION.Caption=***фикс.
+vcBlock_Rating.Caption=***R (прогн.)
+vcProgramm_Time.Caption=time
+vcGenre_Name.Caption=Genre
+miExpotXLS.Hint=Export list to MS Excel
+miExpotXLS.Caption=Export to MS Excel...
+vcBREAK_POSITION.Caption=***поз.
+r
+vPlacements.Bands.TcxGridBand[0].Caption=Program
+r
+vPlacements.Bands.TcxGridBand[2].Caption=Exit
+r
+vPlacements.Bands.TcxGridBand[1].Caption=Block
+TfpTemplatePlcReplace.Caption=Placements on demand
+vcTIME_NAME.Caption
+vcProgramm_Name.Caption
+[TfpPlcReplaceInChannel]
+lci_dateTo.CaptionOptions.Text=***по
+lci_dateTo.Caption=***по
+lci_dateFrom.CaptionOptions.Text=***с
+lci_dateFrom.Caption=***с
+btFind.Caption=***Поиск
+[TfpProductClips]
+vccCLIP_NAME.Caption=Name
+vcCATEGORY_ID.Caption=categoryID
+vccFORECAST_RATING.Caption
+vccDURATION.Caption=duration
+vccPLACEMENTS_COUNT.Caption=Amount in the order
+btnAddClip.Caption=Add clip
+TfpProductClips.Caption=***Ролики продукта
+[TflVideoEventsData]
+miCLearEdges.Hint
+miCLearEdges.Caption
+tlcEventtype_name.Caption.Text=***Тип события
+tlcEventtype_Flags.Caption.Text=***Флаги события
+tlcEvent_Flags.Caption.Text=Additional
+miSHowEdges.Hint=***Показать отбивки
+miSHowEdges.Caption=***Показать отбивки
+miMakeEdges.Hint=jingle
+miMakeEdges.Caption=jingle
+tlcBreak_Category_Id.Caption.Text=***Ид категории вставки
+miAllowEmptyPath.Hint=***экспортировать записи с пустыми путями
+miAllowEmptyPath.Caption=***экспортировать записи с пустыми путями
+tlcMedia_Path.Caption.Text
+TflVideoEventsData.Caption=***Подготовка для экспорта в ListBox
+tlcVideoevent_id.Caption.Text=***Ид видеособытия
+tlcFile_duration.Caption.Text=duration
+tlcId.Caption.Text
+miLegenda.Hint=Legend
+miLegenda.Caption=Legend
+tlcVideo_id.Caption.Text=ID of video 
+bmBar4.Caption=***Разное
+tlcFile_exists.Caption.Text=Found
+miExport1.Hint=to  ListBox 1 format
+miExport1.Caption=to  ListBox 1 format
+tlcKind_view.Caption.Text=***тип
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[7].Description=undefined/not selected
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[5].Description=jingle after
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[3].Description=jingle before
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[1].Description
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[4].Description=***?5@5182:0
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[6].Description
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[0].Description=***?@>3@0<<0
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[2].Description=***@07<5I5=85
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[8].Description=***?@>3@0<<0 8
+tlcFilename.Caption.Text=***файл
+tlcChanged.Caption.Text=changed
+tlcEvent_Duration.Caption.Text=duration of the event
+tlcTime_Of.Caption.Text=Time
+tlcVideomedia_id.Caption.Text=***Ид видеомедиа
+tlcMedia_FileName.Caption.Text=***Путь
+miExport2.Hint=to  ListBox 2 format
+miExport2.Caption=to  ListBox 2 format
+tlcLink_Type.Caption.Text=Break
+tlcVideo_UID.Caption.Text=Uid of video 
+miAddColor.Hint=Add
+miAddColor.Caption=Add
+miTimeEventByPlan.Hint=***время событий в соответствии с планом
+miTimeEventByPlan.Caption=***время событий в соответствии с планом
+miClear.Hint=Clear media file
+miClear.Caption=Clear media file
+miAllowEmptyBreak.Hint=***пустые вставки отображать как события
+miAllowEmptyBreak.Caption=***пустые вставки отображать как события
+miDateOf.Hint=Date
+miDateOf.Caption=Date
+[TfpSetVideoMediaForEventGroup]
+lciClip.CaptionOptions.Text=Clip
+lciClip.Caption=Clip
+lciDateTo.CaptionOptions.Text=***по
+lciDateTo.Caption=***по
+e_by_default_p.Caption=***установить по умолчанию
+lciMediaFileName.CaptionOptions.Text=Media material
+lciMediaFileName.Caption=Media material
+TfpSetVideoMediaForEventGroup.Caption=Update the media carrier
+[TfmVideoEvent]
+lciEventTrimIn.CaptionOptions.Text=***Тайм код начала воспроизведения
+lciEventTrimIn.Caption=***Тайм код начала воспроизведения
+llciEventTypeId.CaptionOptions.Text=***Тип видео-события
+llciEventTypeId.Caption=***Тип видео-события
+chbEqualDuration.Caption
+lciEventSource.CaptionOptions.Text=Video source
+lciEventSource.Caption=Video source
+lciEaualDuration.CaptionOptions.Text=Align duration
+lciEaualDuration.Caption=Align duration
+lciVideoMediaId.CaptionOptions.Text=Carrier
+lciVideoMediaId.Caption=Carrier
+lciVideoId.CaptionOptions.Text=Video material
+lciVideoId.Caption=Video material
+[TfpProgramm]
+lci48.CaptionOptions.Text=48 hours
+lci48.Caption=48 hours
+lcInfo_gCassete.CaptionOptions.Text=Carrier
+lcInfo_gCassete.Caption=Carrier
+lciregional.CaptionOptions.Text=***региональная
+lciregional.Caption=***региональная
+lcgAdditinal.CaptionOptions.Text
+lcgAdditinal.Caption
+lcInfo_code.CaptionOptions.Text=Code
+lcInfo_code.Caption=Code
+e_Programm_Name_p.Hint=name of the program
+lcgTime.CaptionOptions.Text
+lcgTime.Caption
+lciFix.CaptionOptions.Text=***фиксированная
+lciFix.Caption=***фиксированная
+lciNextDay.CaptionOptions.Text=***следующие сутки
+lciNextDay.Caption=***следующие сутки
+lcInfo_itrace.CaptionOptions.Text=Trace
+lcInfo_itrace.Caption=Trace
+lci24.CaptionOptions.Text=24 hours
+lci24.Caption=24 hours
+TfpProgramm.Caption=Program
+lcInfo_itimestart.CaptionOptions.Text
+lcInfo_itimestart.Caption
+lcInfo_itimeend.CaptionOptions.Text
+lcInfo_itimeend.Caption
+e_isLocked_p.Hint=***Передача привязана ко времени выхода
+e_isLocked_p.Caption=***фиксированная
+lciInfo.CaptionOptions.Text
+lciInfo.Caption
+lciLocal.CaptionOptions.Text=local
+lciLocal.Caption=local
+lcicbInfoItem4.CaptionOptions.Text=***поза межами мовлення
+lcicbInfoItem4.Caption=***поза межами мовлення
+btnGetShow.Caption=identify showing
+lcicbInfoItem5.CaptionOptions.Text=Producer
+lcicbInfoItem5.Caption=Producer
+lcicbInfoItem2.CaptionOptions.Text
+lcicbInfoItem2.Caption
+lcicbInfoItem1.CaptionOptions.Text=***Показ
+lcicbInfoItem1.Caption=***Показ
+lcicbInfoItem6.CaptionOptions.Text=***Тема
+lcicbInfoItem6.Caption=***Тема
+lcInfoItem1.CaptionOptions.Text=***Показ
+lcInfoItem1.Caption=***Показ
+[TfpVideoEvent]
+TfpVideoEvent.Caption=Video screening
+[TfpReel]
+lciReceiver.CaptionOptions.Text=***Получил
+lciReceiver.Caption=***Получил
+lciWhenSend.CaptionOptions.Text=Date/time of sending
+lciWhenSend.Caption=Date/time of sending
+lciIDReel.CaptionOptions.Text=ID cassette
+lciIDReel.Caption=ID cassette
+lciSend.CaptionOptions.Text=sent/submitted
+lciSend.Caption=sent/submitted
+vcADV_PRODUCT_ID.Caption=ID of advertised product
+lciWhenReceived.CaptionOptions.Text=Date/time of receipt
+lciWhenReceived.Caption=Date/time of receipt
+vcCLIENT_SID.Caption=client number
+vcClip_Guid.Caption=GUID of clip
+lcgReceive.CaptionOptions.Text=***Получение
+lcgReceive.Caption=***Получение
+lciRegistratorName.CaptionOptions.Text=***Принял
+lciRegistratorName.Caption=***Принял
+lcgProduction.CaptionOptions.Text=***Производство
+lcgProduction.Caption=***Производство
+lcgRegistration.CaptionOptions.Text=***Регистрация
+lcgRegistration.Caption=***Регистрация
+lcgSaler.CaptionOptions.Text=***Продавец
+lcgSaler.Caption=***Продавец
+lcgChannel.CaptionOptions.Text=Channel
+lcgChannel.Caption=Channel
+lciProducerName.CaptionOptions.Text=Registered
+lciProducerName.Caption=Registered
+vcTIME_CODE.Caption=***Тайм код
+lciWhenRegistered.CaptionOptions.Text=Date/time of admission
+lciWhenRegistered.Caption=Date/time of admission
+lcgSend.CaptionOptions.Text=sending 
+lcgSend.Caption=sending 
+miDelClip.Hint=***Удалить с кассеты
+miDelClip.Caption=***Удалить с кассеты
+lciExternalCode.CaptionOptions.Text=External code
+lciExternalCode.Caption=External code
+lciChannelName.CaptionOptions.Text=Channel
+lciChannelName.Caption=Channel
+TfpReel.Caption=Cassette
+vcVideo_ID.Caption=GUID of video
+vcCLIENT_NAME.Caption=Client
+lciWhenProduction.CaptionOptions.Text=Date/time of arrival
+lciWhenProduction.Caption=Date/time of arrival
+[TflExportListBox]
+vcInfoMsg.Caption
+vcType.Caption=***тип
+vcCLIP_TC_START.Caption=***начало в файле(time code)
+vcInfo.Caption=information
+vcCLIP_TC_DURATION.Caption=duration(time code)
+vcCLIP_PATH.Caption=***путь к файлу
+eDate.Hint=Date
+eDate.Caption=Date
+eDirName.Hint=***Папка
+eDirName.Caption=***Папка
+miResult.Hint=***Результат
+miResult.Caption=***Результат
+miRoot.Hint=***Корневая папка
+miRoot.Caption=***Корневая папка
+TflExportListBox.Caption
+[TflVideoEventsCustom]
+TflVideoEventsCustom.Caption=***Подготовка для экспорта в ListBox
+[TflVideoEventsHarris]
+TflVideoEventsHarris.Caption=***Работа с Harris-системой
+tlcCode.Caption.Text
+tlcExt_Id.Caption.Text=External number
+tlcEventSource_Name.Caption.Text=Source
+miHarrisExport.Hint=to Harris format
+miHarrisExport.Caption=to Harris format
+tlcNotes.Caption.Text=Notes
+eVideoSource.Hint=Source of the video
+eVideoSource.Caption=Source of the video
+[TflVideoEventImport]
+vcVideoName.Caption=Name
+miSubImport.Caption=Import from the file
+vcExtId.Caption=External number
+miHarrisImport.Hint=***Harris формата
+miHarrisImport.Caption=***Harris формата
+TflVideoEventImport.Caption=Import of videoevents
+vcDateOf.Caption=Date
+miSaveToServer.Hint=***Сохранить
+miSaveToServer.Caption=***Сохранить
+vcNotes.Caption
+miXlsImport.Hint=Xls format
+miXlsImport.Caption=Xls format
+od.Filter=***Harris файлы|*.log|Все файлы|*.*
+[TfmClient]
+mnOrder.Hint=Orders
+mnOrder.Caption=Orders
+miReports.Hint=Reports
+mnProducts.Hint=***Продукты
+mnProducts.Caption=***Продукты
+mnCompany.Hint=Producers
+mnCompany.Caption=Producers
+mnReports.Caption=Reports
+eClients.Hint=Client
+eClients.Caption=Client
+mnPlacement.Caption=Placement
+miTvGrids.Hint=***Телевизионные сетки
+miTvGrids.Caption=***Телевизионные сетки...
+mnLists.Caption=***Списки
+mnRolicks.Hint=***Ролики
+mnRolicks.Caption=***Ролики
+[TfpOrderClient]
+vcFACT_RATING.Caption
+lciClips.CaptionOptions.Text=***Ролики
+lciClips.Caption=***Ролики
+miClipDelete.Hint=***Удалить ролик
+miClipDelete.Caption=***Удалить ролик
+vcFORECAST_RATING.Caption=WGRP(forecast)
+TfpOrderClient.Caption=Order
+vcPLACEMENTS_COUNT.Caption=***Размещений
+[TfpClip]
+e_Clip_UId_p.Hint=ID of clip
+vcReel_UID.Caption=cassette number
+liGeneralItem4.CaptionOptions.Text=General
+liGeneralItem4.Caption=General
+e_Category_name_p.Hint
+lci_eFileName.CaptionOptions.Text=***Путь к ролику
+lci_eFileName.Caption=***Путь к ролику
+tsUpload.Caption=download 
+liGeneralItem3.CaptionOptions.Text=Category
+liGeneralItem3.Caption=Category
+liAdvProduct.CaptionOptions.Text=***Рекламируемый продукт
+liAdvProduct.Caption=***Рекламируемый продукт
+btnUpload.Caption=***Залить файл
+btnReload.Caption=***Перезалить
+Opendialog.Title=***Файл для загрузки
+liGeneralItem5.CaptionOptions.Text
+liGeneralItem5.Caption
+vcREEL_STATUS.Caption=***статус
+liGeneralItem11.CaptionOptions.Text=External ID
+liGeneralItem11.Caption=External ID
+lci_reupload.CaptionOptions.Text
+lci_reupload.Caption
+liGeneralItem2.CaptionOptions.Text=duration
+liGeneralItem2.Caption=duration
+TfpClip.Caption=Clip
+liGeneralItem1.CaptionOptions.Text=Name
+liGeneralItem1.Caption=Name
+tsReels.Caption=Cassettes
+liAdvertiser.CaptionOptions.Text=Advertiser
+liAdvertiser.Caption=Advertiser
+[TfwOrder]
+kwpNPP.Header.Title.Text=NPP
+kwpNPP.Header.Subtitle.Text=***Укажите, будет ли это заказ неприоритетных размещений
+kwpChannel.Header.Title.Text=Channel
+kwpChannel.Header.Subtitle.Text=You must select the channel
+TfwOrder.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwOrder.ActiveControl.Caption=do not show this page again
+TfwOrder.Caption=New order
+kwpClient.Header.Title.Text=Client
+kwpClient.Header.Subtitle.Text=***Укажите название клиента
+e_npp_p.Caption=NPP
+lbdateend.Caption=***по
+kwpProduct.Header.Title.Text=Product
+kwpProduct.Header.Subtitle.Text=***Укажите название продукта или выберите существующий продукт
+kwpError.Header.Subtitle.Text=You can not add an order
+[TflClips]
+vcEXIST_EXTERNAL_NAME.Caption=***фтп
+miRegisterReel.Hint=Register a cassette
+miRegisterReel.Caption=Register a cassette...
+miAdvertiser.Hint=***Рекламодатель:
+miAdvertiser.Caption=***Рекламодатель:
+miProduct.Hint=***Продукт:
+miProduct.Caption=***Продукт:
+eClient.Hint=Client
+eClient.Caption=Client
+TflClips.Caption=***Ролики
+miAddToReel.Hint=***Добавить на касету
+miAddToReel.Caption=***Добавить на касету...
+miSubstr.Hint=***строка поиска
+miSubstr.Caption=***строка поиска
+[TfwClip]
+kwpOwner.Header.Title.Text=Owner of the clip
+kwpOwner.Header.Subtitle.Text=***Укажите владельца ролика
+TfwClip.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwClip.ActiveControl.Caption=do not show this page again
+TfwClip.Caption=New clip
+[TflProductClips]
+TflProductClips.Caption=available clips
+[TflClientProducts]
+miRegClient.Hint=Assign the registered product to the client
+miRegClient.Caption=Assign to the client
+clADVERTISER_NAME.Caption=Advertiser
+lvRequest.Caption=Registration requests
+miReqNotProcessed.Hint=***Только необработанные
+miReqNotProcessed.Caption=***Только необработанные
+clCLIENT_NAME.Caption=Client
+miRegFull.Hint=Register in catalogue and assign to the client
+miRegFull.Caption=Register in catalogue and assign to the client
+miDelRequest.Hint=***Удалить заявку
+miDelRequest.Caption=***Удалить заявку
+miRegCatalog.Hint=Register a cassette in the catalogue
+miRegCatalog.Caption=Register In catalogue
+lvlRoot.Caption=***Продукты
+clCATEGORY_ID.Caption=category number
+miReqAll.Hint=***Показывать все
+miReqAll.Caption=***Показывать все
+miReqProcessed.Hint=***Только обработанные
+miReqProcessed.Caption=***Только обработанные
+clCATEGORY_NAME.Caption=product category
+clPRODUCT_NAME.Caption=Product
+miProduictCategories.Hint=product category
+miProduictCategories.Caption=product category
+clPRODUCER_NAME.Caption=Producer
+TflClientProducts.Caption=***Продукты клиентов
+e_Client.Hint=Client
+e_Client.Caption=Client
+[TfwProduct]
+kwpClients.Header.Title.Text=Client
+kwpClients.Header.Subtitle.Text=***Укажите клиента для которого создаётся заявка
+kwpAdvertiser.Header.Title.Text=Advertiser
+kwpAdvertiser.Header.Subtitle.Text=***Укажите рекламодателя или выберите его из списка
+kwpProductCategory.Header.Title.Text
+kwpProductCategory.Header.Subtitle.Text=***Укажите название категории продукта или выберите существующую категорию
+kwpProduser.Header.Title.Text=Producer
+kwpProduser.Header.Subtitle.Text
+TfwProduct.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwProduct.ActiveControl.Caption=do not show this page again
+TfwProduct.Caption=Request for the product registration
+[TfmPlannerSale]
+miSpotCost.Hint=***стоимости
+miSpotCost.Caption=***стоимости
+erTime_Name.Properties.Caption=time
+miView.Hint
+erClient_forecast_cost.Properties.Caption=***стоимость прогн.
+erClient_Fact_Cost.Properties.Caption=***стоимость факт.
+erPlacements_Duration.Properties.Caption=duration
+crClient.Properties.Caption=Total for month
+crOrder.Properties.Caption=Order
+erClient_Total_Duration.Properties.Caption=duration
+TfmPlannerSale.Caption=***Планер
+erPlacements_Count.Properties.Caption=placements
+miSHow.Caption=***Показывать
+erPLACEMENTS_FORECAST_COST.Properties.Caption=***стоимость прогн.
+erClient_Rulez_Grp.Properties.Caption
+erClient_Placements_Count.Properties.Caption=placements
+erClient_Total_Fact_Cost.Properties.Caption=***стоимость факт.
+miShowUncfPlcCmpl.Hint=***Учитывать длительность НПР и флоат
+miShowUncfPlcCmpl.Caption=***Учитывать длительность НПР и флоат
+[TflPlcDayTemplOrder]
+TflPlcDayTemplOrder.Caption=***Размещение заказа
+miOnlyThisOrder.Hint=***Только выбраный заказ
+miOnlyThisOrder.Caption=***Только выбраный заказ
+[TflGridTemplateYearMonth]
+bsiYears_.Caption
+bstaticPeriodLabel.Hint=***Период:
+bstaticPeriodLabel.Caption=***Период:
+bsiMonths_.Caption
+[TflPlacementsCost]
+r
+vRoot.Bands.TcxGridBand[4].Caption=***!B>8<>ABL
+r
+vRoot.Bands.TcxGridBand[3].Caption=***$0:B 2KE>4
+vcFACT_TIME.Caption=time
+vcFACT_POSITION.Caption=***совп. позиции
+vcBREAK_LINK_TYPE.Caption=***положение
+TflPlacementsCost.Caption=Orders
+vcExtra_DISCOUNT_PERCENT.Caption=discount
+vcEXTRA_PREMIUM_PERCENT.Caption=premium
+vcPROGRAM_DATE.Caption=date
+vcPriceDuration.Caption=***пр.длит.
+vcPROGRAM_NAME.Caption
+vcSPOT_COST.Caption=***цена
+vcBREAK_CATEGORY_ID.Caption=category id
+vcPROGRAM_TIME.Caption=time
+vcCOST.Caption
+vcTOTAL_DISCOUNT.Caption=total discount
+vcADV_PRODUCT_NAME.Caption
+miPlacementCost.Hint=Report
+miPlacementCost.Caption=Report
+vcEXTRA_DISCOUNT.Caption=***скидка/надбавка
+vcPRODUCT_CATEGORY_ID.Caption=ID of product category
+vcCLIP_CATEGORY_NAME.Caption=clip category
+vcROUP_RATE.Caption=auction. Coeff.
+vcCLIP_CATEGORY_ID.Caption=***ид категории ролика
+vcFORECAST_COST.Caption=***прогнозная
+vcCLEAR_COST.Caption=***чистая стоимость
+[TfpFind]
+TfpFind.Caption=***Поиск
+[TfpReportPlcCost]
+TfpReportPlcCost.Caption=Report on pricing
+chbIdentificationClip.Caption=ID of clips
+[TfmPlannerOrder]
+miNPPConfirm.Hint=***подтвердить НПР
+miNPPConfirm.Caption=***подтвердить НПР
+miStatClosed.Hint=Close an order
+miStatClosed.Caption=Closed
+miStatCalc.Hint=***Перевести заказ в режим рассчета (сверки)
+miStatCalc.Caption=Accounting
+miOrderClipInfo.Hint=nformation on clips…
+miOrderClipInfo.Caption=nformation on clips…
+vcRoupRateMax.Caption=Max. coefficient
+miStatusLbl.Hint=***Состояние:
+miStatusLbl.Caption=***Состояние:
+vcCompCost.Caption=***Стоимость
+miStatus.Caption=Planning
+vcbRoupRate.Caption=coefficient
+vcbRoupRateMax.Caption=Max. coefficient
+TfmPlannerOrder.Caption=***Планер по заказу
+miPlacementsList.Hint=***Список всех размещений по заказу с возможностью групповой обработки
+miPlacementsList.Caption=***Список размещений
+vcRoupRate.Caption=factor/coefficient
+miCostOrder.Hint=***Стоимость заказа
+miCostOrder.Caption=***Стоимость заказа
+miStatPlanning.Hint
+miStatPlanning.Caption=Planning
+miStatPlacement.Hint
+miStatPlacement.Caption=Placement
+miRoupRateMax.Hint=Max. coefficient
+miRoupRateMax.Caption=Max. coefficient
+miStatConfirmed.Hint
+miStatConfirmed.Caption=Confirmed
+[TflPlacementDayOrder]
+[TfpBlockColours]
+TfpBlockColours.Caption=***Настройка подсветки блоков
+colColour.Caption=***Цвет
+colColour.Properties.DefaultDescription
+colDesc.Caption
+miDelColor.Hint=Delete
+miDelColor.Caption=Delete
+colPriceFactor.Caption=markup/discount
+[TflPlcCostOrder]
+vcFACT_DURATION.HeaderHint=***Фактическая длительность показа материала
+vcFACT_DURATION.AlternateCaption=***Фактическая длительность
+vcPriceDuration.AlternateCaption=***Прайсовая длительность
+TflPlcCostOrder.Caption=***Соимость по заказу
+vcFORECAST_RATING.HeaderHint=***Прогнозный рейтинг размещения
+vcFORECAST_RATING.AlternateCaption=***Прогнозный рейтинг
+vcSPOT_COST.AlternateCaption
+vcCOST.AlternateCaption=***Рассчетная стоимость
+vcCLIP_UID.AlternateCaption=ID of clip
+vcTOTAL_DISCOUNT.AlternateCaption
+vcFORECAST_COST.AlternateCaption
+vcCLEAR_COST.AlternateCaption
+[TflViewPlanner]
+miChannel1.Hint=Channel
+miChannel1.Caption=Channel
+miCLient.Hint=Client
+miCLient.Caption=Client
+miChannel.Hint=Channel
+vcSellerSid.Caption=***Ид Продавца
+miShowSellers.Hint=***Показать продавцов
+miShowSellers.Caption=***Показать продавцов
+miOblast.Hint=Area
+miOblast.Caption=Area
+miRegion.Hint=***Регион
+miRegion.Caption=***Регион
+TflViewPlanner.Caption=***Просмотр
+vcSeller.Caption=***Продавец
+miCity.Hint=City
+miCity.Caption=City
+[TfwBatchOrders]
+TfwBatchOrders.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwBatchOrders.ActiveControl.Caption=do not show this page again
+TfwBatchOrders.Caption=***Создание группы заказов
+vcrClipName.Caption
+miExportXml.Hint=to XML
+miExportXml.Caption=to XML
+lci_DateTo.CaptionOptions.Text=***по
+lci_DateTo.Caption=***по
+vcrAdvertiser.Caption=Advertiser
+kwpMediaplan.Header.Title.Text=Media plan
+kwpMediaplan.Header.Subtitle.Text=***Введите распределение размещений для роликов
+lci_check_all.CaptionOptions.Text=all
+lci_check_all.Caption=all
+miExportExcel.Hint=to MS Excel
+miExportExcel.Caption=to MS Excel
+vcrChannelSid.Caption=SID of channel
+vcCITY_ID.Caption=ID city
+vcrClipUid.Caption=clip UID
+eCheckAll.Caption=all clips
+lcg_dateto.CaptionOptions.Text
+lcg_dateto.Caption
+miExportHtml.Hint=to HTML
+miExportHtml.Caption=to HTML
+lcI_client.CaptionOptions.Text=Client
+lcI_client.Caption=Client
+vcrChannelName.Caption=channal
+kwpClips.Header.Title.Text=***Ролики
+kwpClips.Header.Subtitle.Text=You must select clips
+vcrResult.Caption
+vcrClipId.Caption=clip ID
+vcLOGO_16.Caption= Logo
+vcrDateFrom.Caption=***период с
+lcg_DateFrom.CaptionOptions.Text
+lcg_DateFrom.Caption
+kwpOption.Header.Title.Text
+kwpOption.Header.Subtitle.Text=Select additional parameters for group orders
+vcrDateTo.Caption=***по
+r
+eOptions.Properties.Items.TcxCheckGroupItem[0].Caption=low priority orders (LPO)
+[TfpMainReports]
+lci_PeriodTo.CaptionOptions.Text=before
+lci_PeriodTo.Caption=before
+lci_Currency2.CaptionOptions.Text=Currency 2
+lci_Currency2.Caption=Currency 2
+lcOptionsItem6.CaptionOptions.Text=before
+lcOptionsItem6.Caption=before
+lci_Time.CaptionOptions.Text=***Тип времени
+lci_Time.Caption=***Тип времени
+chbAllChannels.Caption=all channels
+TfpMainReports.Caption=Reports
+r
+icbNumberingOfWeeks.Properties.Items.TcxImageComboBoxItem[1].Description=***5@20O ?>;=0O =545;O
+r
+icbNumberingOfWeeks.Properties.Items.TcxImageComboBoxItem[0].Description=Starting from January 1
+r
+icbNumberingOfWeeks.Properties.Items.TcxImageComboBoxItem[2].Description=***5@20O =545;O 87 4-E 4=59
+lci_Channel.CaptionOptions.Text=Channel
+lci_Channel.Caption=Channel
+lci_NumberingOfWeeks.CaptionOptions.Text=The numbering of the  weeks
+lci_NumberingOfWeeks.Caption=The numbering of the  weeks
+lci_Advertiser.CaptionOptions.Text=Advertiser
+lci_Advertiser.Caption=Advertiser
+lcOptionsItem5.CaptionOptions.Text=from
+lcOptionsItem5.Caption=from
+lci_currency.CaptionOptions.Text=Currency
+lci_currency.Caption=Currency
+lci_Client.CaptionOptions.Text=Client
+lci_Client.Caption=Client
+lci_Period.CaptionOptions.Text
+lci_Period.Caption
+eMode.Properties.Items.Text=***прогнозные###фактические###прогноз/факт###
+lci_Year.CaptionOptions.Text=year
+lci_Year.Caption=year
+cbShowQueue.Caption=Display queue
+lci_AdvProduct.CaptionOptions.Text=Product
+lci_AdvProduct.Caption=Product
+lci_Mode.CaptionOptions.Text
+lci_Mode.Caption
+lci_cbYear.CaptionOptions.Text=per year
+lci_cbYear.Caption=per year
+ePlaceMode.Properties.Items.Text=Regular###Float###LPO###- (general report)###
+lci_PlaceMode.CaptionOptions.Text=***Тип размещения
+lci_PlaceMode.Caption=***Тип размещения
+[TfpClientReport]
+TfpClientReport.Caption=Reports
+[TfpOrderClipInfo]
+vcCount.Caption=number/amount
+r
+crsdb.DataCaptionFields.TCaptionItem[3].caption=duration
+r
+crsdb.DataCaptionFields.TCaptionItem[1].caption
+r
+crsdb.DataCaptionFields.TCaptionItem[0].caption=number/amount
+r
+crsdb.DataCaptionFields.TCaptionItem[2].caption
+r
+crsdb.RowCaptionFields.TCaptionItem[1].caption=duration
+r
+crsdb.RowCaptionFields.TCaptionItem[0].caption=***@>;8:
+r
+crsdb.RowCaptionFields.TCaptionItem[2].caption=category
+r
+crsdb.RowCaptionFields.TCaptionItem[4].caption=***B8?
+TfpOrderClipInfo.Caption=Information on clips in the order
+vcGrp.Caption
+vcCost.Caption
+vcTotalDuration.Caption=duration
+vcClient.Caption=***тип
+r
+vClips.Bands.TcxGridBand[1].Caption=Placement volume
+[TflOrders2]
+bstaticPeriodTo.Hint=***по
+bstaticPeriodTo.Caption=***по
+vcCAMPAIGN_ID.Caption=Company
+miReportPlacementCost.Hint=***Стоимость по заказу
+miReportPlacementCost.Caption=***Стоимость по заказу
+vcRULEZ_NAME.Caption=***условие название
+miConfirm.Hint=***Подтвердить размещение заказа
+miConfirm.Caption=***Подтвердить
+miProcessFloat.Hint=processing (test!!!)
+miProcessFloat.Caption=processing (test!!!)
+miBatchPlace.Hint=***Разместить группу заказов
+miBatchPlace.Caption=***Разместить группу заказов...
+vcSPOT_TOTAL.Caption=volume in seconds
+vcFORECAST_GRP_TOTAL.Caption
+e_Month.Hint=***Период
+e_Month.Items.Text=August###April###December###July###June###May###March###November###October###September###February###January###
+e_Month.Caption=***Период
+e_Month.Text
+bsiMonthTo.Caption
+miOrderBatch.Hint=***Создать группу заказов
+miOrderBatch.Caption=***Создать группу заказов...
+vcACTION_CREATED.Caption=Created by/when
+miRegionFilter.Hint=***фильтр по регионам
+miRegionFilter.Caption=***фильтр по регионам
+miClient.Hint=Client:
+miClient.Caption=Client:
+vcNeed_recalc.Caption=***трубует пересчета
+vcPRICE_MODE.Caption=***тип
+vcOrder_Cost.Caption=***Стоимость
+vcRULEZ_UID.Caption=uId of condition
+miEditOrderExt.Hint=***Редактировать..(ТЕСТ!!!!)
+miEditOrderExt.Caption=***Редактировать..(ТЕСТ!!!!)
+bsiYearTo.Caption
+miNppDays.Hint=***Подтвердить НПР (дни)
+miNppDays.Caption=***Подтвердить НПР (дни)...
+TflOrders2.Caption=Orders
+miDraftPlacements.Hint=***Снятые размещения
+miDraftPlacements.Caption=***Снятые размещения...
+miCancel.Hint=Cancel order placement
+miCancel.Caption=Cancel
+miNPP.Caption=NPP
+miOrderStates.Caption=***Состояние заказа
+vcRULEZ_ID.Caption=***условие номер
+miPlacementDay.Hint=***Размещение заказа в формате монтажного листа
+miPlacementDay.Caption=***Размещение (день)...
+miConfirmNPP.Hint=***Подтвердить НПР (заказ)
+miConfirmNPP.Caption=***Подтвердить НПР (заказ)
+vcHAS_BUFFERED.Caption=buffer
+vcMANUAL_COST.Caption=***Р.Стоимость
+miShowPlacements.Hint=***Все размещения по заказу, групповые операции
+miShowPlacements.Caption=***Список размещений...
+miOrderPlace.Hint=***Размещение автомат
+miOrderPlace.Caption=***Размещение автомат...
+miPlcSpot.Caption=Group operations
+miCancelNpp.Hint=***Отменить ПНПР (заказ)  Cancel LPO (order) ?
+miCancelNpp.Caption=***Отменить ПНПР (заказ)  Cancel LPO (order) ?
+btnCrtNew.Hint=New order (test!!!)
+btnCrtNew.Caption=New order (test!!!)
+miTransfer.Hint=***Разместить запланированные выходы в реальную сетку
+miTransfer.Caption=***Разместить
+miCalculate.Hint=***Перевести заказ в сотояние рассчета (сверки)
+miCalculate.Caption=***Сверка
+[TfpPlcReplaceInOrder]
+chbShowQueue.Caption=Queue of LPO
+chbHistoryRoup.Caption=auction history
+[TfpTemplateExt]
+[TfpUser]
+eLogin.Hint=Username for login to the system
+cbEnabled.Hint=***Установленный флажок означает, что пользователь имеет возможность работать в системе.###Очистка флажка позволяет запретить пользователю подключаться к серверу.
+cbEnabled.Caption=***Пользователь &разрешен
+lci_company.CaptionOptions.Text=Company
+lci_company.Caption=Company
+e_Notes_p.Hint=***Различная дополнительная информация
+e_Company_p.Hint=Compnay where user works
+vcDateFrom.Caption=***с
+TfpUser.Caption=***Пользователь
+e_Phones_p.Hint=Contact phone numbers
+cbMultiUser.Hint=***Установленный флажок означает, что пользователю доступны функции администрирования системы.
+cbMultiUser.Caption=&Multiple connections
+vcDateTo.Caption=***по
+btnChangePassword.Hint=Click/Press here to change the user passworh
+r
+btnChangePassword.Properties.Buttons.TcxEditButton[0].Caption
+e_LastName_p.Hint=***Фамилия пользователя
+lci_phones.CaptionOptions.Text=***Телефоны
+lci_phones.Caption=***Телефоны
+lci_lastName.CaptionOptions.Text=***Фамилия
+lci_lastName.Caption=***Фамилия
+cbAdmin.Hint=***Установленный флажок означает, что пользователю доступны функции администрирования системы.
+cbAdmin.Caption=&Administrator
+r
+vSpan.Bands.TcxGridBand[0].Caption=***?>;L7>20B5;L 0:B825=
+e_Email_p.Hint=Contact E-mail of the user
+e_FirstName_p.Hint=Username
+[TflSrvActivity]
+vcSessionsFirstName.Caption=Name
+miRefreshLog.Hint=update
+miRefreshLog.Caption=update
+miSendMessage.Hint=Send a message to the user
+miSendMessage.Caption=Send a message...
+vcSessionStartedAt.Caption=***начало сеанса
+vcSessionsLastName.Caption=***Фамилия
+vcSessionPort.Caption=***порт сервера
+TflSrvActivity.Caption=Activity of server
+r
+vSessions.Bands.TcxGridBand[0].Caption=Active connections
+vcSessionId.Caption=Id of connection
+vcSessionUserId.Caption=Id user
+eRefreshInterval.Hint=interval of update (sec)
+eRefreshInterval.Caption=interval of update (sec)
+miResetSession.Hint=complete session
+miResetSession.Caption=complete session
+vcSessionAppVersion.Caption=***Вuilt of an application
+vcSessionClientIP.Caption=client address
+vcSessionsCompany.Caption=Company
+vcSessionAppName.Caption=***Приложение
+eLogSize.Hint=***Размер отображаемого лога
+eLogSize.Caption=***Размер отображаемого лога
+miSessionInfo.Hint=Information on the session
+miSessionInfo.Caption=Information on the session..
+[TfpIPRange]
+liStart.CaptionOptions.Text=initial address
+liStart.Caption=initial address
+liEnd.CaptionOptions.Text=final address
+liEnd.Caption=final address
+TfpIPRange.Caption=range of ip addresses
+[TfpIpSets]
+miUserAdd.Hint=Add user
+miUserAdd.Caption=Add user
+vcUsersCompany.Caption=Company
+r
+vUsers.Bands.TcxGridBand[0].Caption=Registered users of the server
+dxlytmItem1.CaptionOptions.Text=***Точки доступа
+dxlytmItem1.Caption=***Точки доступа
+miGrpDelete.Hint=***Удалить группу
+miGrpDelete.Caption=***Удалить группу
+miGrpCreate.Hint=***Создать группу
+miGrpCreate.Caption=***Создать группу
+miUserDelete.Hint=***Удалить пользователя
+miUserDelete.Caption=***Удалить пользователя
+miUserCreate.Hint=***Создать пользователя
+miUserCreate.Caption=***Создать пользователя
+miClientEditName.Hint=Change the name of the access point
+miClientEditName.Caption=Change the name of the access point
+miClientCreate.Hint=***Создать точку доступа
+miClientCreate.Caption=***Создать точку доступа
+miClientDelete.Hint=***Удалить точку доступа
+miClientDelete.Caption=***Удалить точку доступа
+miUserRemove.Hint=Exclude a user
+miUserRemove.Caption=Exclude a user
+miRangeEdit.Hint=***Править диапазон
+miRangeEdit.Caption=***Править диапазон
+r
+tlIPSets.Bands.TcxTreeListBand[0].Caption.Text=***">G:8 4>ABC?0
+miUserEdit.Hint=***Редактировть пользователя
+miUserEdit.Caption=***Редактировть пользователя
+cbShowAll.Hint=Display system group
+cbShowAll.Caption=***Показывать все
+lcgGroups.CaptionOptions.Text=User group
+lcgGroups.Caption=User group
+miClientEnable.Hint=***Разрешить точку доступа
+miClientEnable.Caption=***Разрешить точку доступа
+vcUsersEnabled.Caption=***Разрешен
+TfpIpSets.Caption=Client access points
+miIPCreate.Hint=***Создать диапазон
+miIPCreate.Caption=***Создать диапазон
+miRangeDelete.Hint=***Удалить диапазон
+miRangeDelete.Caption=***Удалить диапазон
+vcUsersFirstName.Caption=Name
+miMemberDelete.Hint=***Удалить члена группы
+miMemberDelete.Caption=***Удалить члена группы
+vcUsersLastName.Caption=***Фамилия
+[TfpPassword]
+TfpPassword.Caption=***Смена пароля
+[TfpACL]
+TfpACL.Caption=Access
+[TfpSessionInfo]
+erCompression.Properties.Hint=The name of the algorithm used in the compression session of  the data transmitted over the network
+erCompression.Properties.Caption=***Степень сжатия данных
+erDuration.Properties.Hint=***Продолжительность сессии
+erDuration.Properties.Caption=duration of the session
+r
+erCipher.Properties.EditProperties.Items.TcxImageComboBoxItem[0].Description
+erCipher.Properties.Hint=The name of the encryption algorithm used in the session transmitted over the data network
+erCipher.Properties.Caption=***Шифрование данных
+erOutProc.Properties.Hint=The number of bytes the server received from the network
+erOutProc.Properties.Caption=sent
+crTransmitted.Properties.Hint=Outgoing server traffic within a session
+crTransmitted.Properties.Caption=Program
+erOutTrans.Properties.Hint=The number of bytes transmitted to the network within a session
+erOutTrans.Properties.Caption=***Передано
+crProcessed.Properties.Hint=Incoming traffic within the server session
+crProcessed.Properties.Caption=***Прием
+crUser.Properties.Caption=***Пользователь
+erAdmin.Properties.Caption=Administrator?
+erInProc.Properties.Hint=The number of bytes transmitted from the client
+erInProc.Properties.Caption=processed
+erUserName.Properties.Caption=***Фамилия, имя
+erId.Properties.Hint=***Уникальный номер сессии
+erId.Properties.Caption=ID of the session
+crGeneral.Properties.Caption=general information
+erClientIp.Properties.Hint=*** TCP / IP address of the client serviced by the session
+erClientIp.Properties.Caption=IP address of the client
+erStartedAt.Properties.Hint=***Дата и время начала сессии
+erStartedAt.Properties.Caption=Start time of the session
+erCROut.Properties.Caption=***Уровень сжатия
+erCompany.Properties.Caption=Company
+vgSessionInfoCategoryRow1.Properties.Caption=***Трафик
+erServerPort.Properties.Hint=The server port number the client connection is provided by within this session.
+erServerPort.Properties.Caption
+erCRAvg.Properties.Caption=The general level of compression
+erPhones.Properties.Caption=***Телефоны
+erCRIn.Properties.Caption=***Уровень сжатия
+erInTrans.Properties.Hint=The number of bytes transmitted to the network within a session
+erInTrans.Properties.Caption=***Принято
+TfpSessionInfo.Caption=***Расширенная информация о сессии
+[TfmAdmin]
+miArea.Hint=***Регионы..
+miArea.Caption=***Регионы..
+miChannels.Hint=channel, registered in the system
+miChannels.Caption=channels...
+miVideoCategories.Hint=Categories and genres
+miVideoCategories.Caption=Categories and genres...
+miLimit.Hint=limit
+miLimit.Caption=limit
+miRegVersion.Hint=***Регистрация версий
+miRegVersion.Caption=***Регистрация версий...
+miShowActivity.Hint=Activity
+miShowActivity.Caption=Activity
+miTimeRange.Hint=New time breaks
+miTimeRange.Caption=New time breaks
+miTimeBands.Hint=breaks 
+miTimeBands.Caption=Time breaks...
+miSalers.Hint=***Продавцы
+miSalers.Caption=***Продавцы...
+miLists.Caption=***Справочники
+miClients.Hint=
+miClients.Caption=Clients...
+miActivity.Caption=Activity of server
+miBreakClips.Hint=***Совместимость роликов и вставок
+miBreakClips.Caption=***Совместимость роликов и вставок...
+miIpSets.Caption=***Пользователи
+miBreakQuotas.Hint=Standards of advertising time
+miBreakQuotas.Caption=Standards of advertising time...
+miSubjects.Hint=Chennels, sellers, clients....
+miSubjects.Caption=***Субъекты
+miRootACL.Hint=***Управление основными правами доступа
+miRootACL.Caption=Access
+miControlSerialized.Hint=***Режим сериализации
+miControlSerialized.Caption=***Режим сериализации
+dxbrbtn1.Hint=***Части дня (тест)
+dxbrbtn1.Caption=***Части дня (тест)
+miRegistrations.Hint=***Регистрации
+miRegistrations.Caption=***Регистрации
+miControl.Caption=***Управление доступом
+[TflAudience]
+TflAudience.Caption=***Целевая аудитория
+vRootFLAGS.Caption=***параметры
+[TflChannels]
+TflChannels.Caption=channel
+[TfpChannel]
+tcCategory.Tabs.Text=***Передачи###Вставки###Ролики###Вторичные события###
+tcCategory.Properties.Tabs.Text=***Передачи###Вставки###Ролики###Вторичные события###
+lBroadcastingDuration.Caption=duration, min
+tlAllCatName.Caption.Text=category
+gbLogos.Caption= Logos
+gbBroadcasting.Caption
+tsLogos.Caption
+vcUSER_FULL_NAME.Caption=***Полное имя
+e_channel_sid_p.Hint=Internal identifier of the channel
+tlcAllCatFlags.Caption.Text
+miDeleteCategory.Hint=***Удалить категорию
+miDeleteCategory.Caption=***Удалить категорию
+lLogo.Caption= Logo
+e_TimePrepare.Hint=***Время перевода сетки в предмонтажное состояние
+tsCategory.Caption=Categories
+vcUSER_NAME.Caption=***Пользователь
+tsEmployee.Caption=***Работники
+lTimeOfRel.Caption=Time of the grid switch
+e_flags_p.Caption=Options
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[6].Caption=Data for the channel is being imported
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[4].Caption=*** 07@5H8BL ?5@5?>;=5=85 2AB02>:
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[2].Caption= auto-spreading of spots
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[5].Caption=Adding genre to name of the program 
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[1].Caption=Copying of placements
+r
+e_flags_p.Properties.Items.TcxCheckGroupItem[3].Caption="""Auto compression of spots"
+tlcCategoryFlags.Caption.Text
+lDefSrc.Caption=Source
+tsAccess.Caption=Access
+miAddEmloyee.Hint=Add employee
+miAddEmloyee.Caption=Add employee
+l5.Caption=General
+lChannelName.Caption=Name of the channel company
+miDelEmployee.Hint=***Удалить работника
+miDelEmployee.Caption=***Удалить работника
+lLogoSource.Caption
+tsArea.Caption=***Регион
+lRootChannel.Caption=main channel:
+miShowAllCat.Hint=***Показать все категории
+miShowAllCat.Caption=***Показать все категории
+TfpChannel.Caption=***Параментры канала
+lb_area_name.Caption
+lLogoItem.Caption
+lBroadcastingStart.Caption
+lb_name_alt.Caption=title options
+[TfwChannel]
+TfwChannel.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwChannel.ActiveControl.Caption=do not show this page again
+TfwChannel.Caption=New channel
+wpRootChannel.Header.Title.Text=***Головной канал
+wpRootChannel.Header.Subtitle.Text=Select the main channel for the registered regional channel
+rgChanel_Type.Caption=***Тип канала
+r
+rgChanel_Type.Properties.Items.TcxRadioGroupItem[1].Caption
+r
+rgChanel_Type.Properties.Items.TcxRadioGroupItem[0].Caption
+wpChannelName.Header.Title.Text=Name
+wpChannelName.Header.Subtitle.Text=***Укажите название канала и его тип
+[TfwSaler]
+wpSalerName.Header.Title.Text=Name
+wpSalerName.Header.Subtitle.Text=***Укажите название продавца
+TfwSaler.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwSaler.ActiveControl.Caption=do not show this page again
+TfwSaler.Caption=New seller
+[TflSalers]
+vcLOGO_24.Caption= Logo
+TflSalers.Caption=***Продавцы
+[TfpSaler]
+tsDurationRates.Caption=Accounting
+miDeletePeriod.Hint=***Удалить период
+miDeletePeriod.Caption=***Удалить период
+vcTimeTo.Caption=***по
+vcTimeFrom.Caption=***с
+lcCalcGroup2.CaptionOptions.Text=Value by default for conditions
+lcCalcGroup2.Caption=Value by default for conditions
+vcpFlags.Caption
+tsCurrency.Caption=Exchange rates
+lciPremium.CaptionOptions.Text=***Премиум позиции
+lciPremium.Caption=***Премиум позиции
+vcPremiumMinDuration.HeaderHint=***Значение, которое подставляется вместо длительности ролика та меньше. Используется при рассчете Кпремиум
+vcPremiumMinDuration.Caption=Min. duration
+vcaFlags.Caption
+vcpDateFrom.Caption=***с
+liCalcMode.CaptionOptions.Text=Method of calculation
+liCalcMode.Caption=Method of calculation
+vcPCId.Caption=Code of the product category
+miDeleteRate.Hint=Delete coefficient
+miDeleteRate.Caption=Delete coefficient
+miAddPeriod.Hint=Add period
+miAddPeriod.Caption=Add period
+vcPremiumPlace.Caption
+liNotes.CaptionOptions.Text
+liNotes.Caption
+vcPremiumExtraPos.Caption=***Экстра позиция
+miAddRate.Hint=Add coefficient
+miAddRate.Caption=Add coefficient
+liName.CaptionOptions.Text=Name of the client
+liName.Caption=Name of the client
+vPremium.OptionsView.NoDataToDisplayInfoText=No data found
+r
+vPremium.Bands.TcxGridBand[0].Caption=***@5<8C< ?>78F88
+liIconGen.CaptionOptions.Text
+liIconGen.Caption
+vcaPeriodMinutes.Caption=in period(min)
+vcProductCategoryColumn1.Caption=***код ограничения
+lgLogos.CaptionOptions.Text= Logos
+lgLogos.Caption= Logos
+vcPremiumExtraFloat.HeaderHint=***% надбавки для премиум позиций размещаемых по остаточному принципу
+vcPremiumExtraFloat.Caption=***надб. остаточных
+vcpCountClip.Caption=number of placements
+vcaCountClip.Caption=number of placements
+vAdvertiser.OptionsView.NoDataToDisplayInfoText=No data found
+r
+vAdvertiser.Bands.TcxGridBand[0].Caption=Limitations by manrfacturer 
+vcpPeriodMinutes.Caption=in period(min)
+vProduct.OptionsView.NoDataToDisplayInfoText=No data found
+r
+vProduct.Bands.TcxGridBand[0].Caption=Limitations by product 
+vcPremiumExtraFix.HeaderHint=% markups for priority premium items
+vcPremiumExtraFix.Caption=***надб. основных
+liPriceDuration.CaptionOptions.Text=***Прайсовая длительность
+liPriceDuration.Caption=***Прайсовая длительность
+tsOption.Caption=Limitations
+miInsertRate.Hint=add the coefficient
+miInsertRate.Caption=add the coefficient
+vcaDateFrom.Caption=***с
+vcPremiumFlags.Caption
+TfpSaler.Caption=***Продавец
+vcaDateTo.Caption=***по
+liPriceMode.CaptionOptions.Text=***Ценообразование
+liPriceMode.Caption=***Ценообразование
+vcpDateTo.Caption=***по
+liAltNames.CaptionOptions.Text=alternative names/titles
+liAltNames.Caption=alternative names/titles
+vProductCategory.OptionsView.NoDataToDisplayInfoText=No data found
+r
+vProductCategory.Bands.TcxGridBand[0].Caption=Limitations by product category
+[TfpUpdate]
+e_Servers.Hint=***Список серверов
+vcProduct_NAME.Caption=Name
+vcVersion.Caption=Built
+TfpUpdate.Caption=Builts
+[TflClients]
+TflClients.Caption=
+[TfpClient]
+tsAdvProducts.Caption=***Размещаемые продукты
+tsProperties.Caption=Additional 
+mnDelManager.Hint=***Удалить менеджера
+mnDelManager.Caption=***Удалить менеджера
+tsClientUsers.Caption=***Пользователи клиента
+lilc1Item4.CaptionOptions.Text=Time for order confirmation (min.)
+lilc1Item4.Caption=Time for order confirmation (min.)
+tsManagers.Caption=Managers
+lglc1Group1.CaptionOptions.Text=***Параметры размещения
+lglc1Group1.Caption=***Параметры размещения
+e_default_order_flags_p.Hint=***Эти параметры будут присваиваться каждому создаваемому по клиенту заказу
+e_default_order_flags_p.Caption=***Параметры заказа по умолчанию
+e_client_sid_p.Hint=Internal identifier of the customer
+e_Flags_p.Caption=***прочие параметры
+r
+e_Flags_p.Properties.Items.TcxCheckGroupItem[0].Caption=Active
+r
+e_Flags_p.Properties.Items.TcxCheckGroupItem[1].Caption=***#?@>IQ==0O @538AB@0F8O ?@>4C:B>2
+vcUSER_NAME1.Caption=***Пользователь
+e_order_confirmation_time_p.Hint
+e_default_quota_p.Hint=The maximum percentage of advertising time in the day available for this client to book
+liLawName.CaptionOptions.Text=***юридическое лицо
+liLawName.Caption=***юридическое лицо
+lgLawGroup.CaptionOptions.Text=Official data
+lgLawGroup.Caption=Official data
+liZKPO.CaptionOptions.Text=***код ЗКПО
+liZKPO.Caption=***код ЗКПО
+vcUSER_FULL_NAME1.Caption=***Полное имя
+lilc1Item11.CaptionOptions.Text=display delay (min.)
+lilc1Item11.Caption=display delay (min.)
+vcROLE_NAME1.Caption=***Роль
+mnNewManager.Hint=Add manager
+mnNewManager.Caption=Add manager
+TfpClient.Caption=Client
+[TfwClient]
+kwpSaler.Header.Title.Text=***Продавец
+kwpSaler.Header.Subtitle.Text=***Укажите продавца, для которого регистрируется клиент
+TfwClient.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwClient.ActiveControl.Caption=do not show this page again
+TfwClient.Caption=New client
+[TfwManager]
+kwpUser.Header.Title.Text=***Пользователь
+kwpUser.Header.Subtitle.Text=***Укажите пользователя получающего роль
+kwpRole.Header.Title.Text=***Роль
+kwpRole.Header.Subtitle.Text=***Укажите роль
+TfwManager.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwManager.ActiveControl.Caption=do not show this page again
+TfwManager.Caption=New manager
+[TfwClientProduct]
+TfwClientProduct.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwClientProduct.ActiveControl.Caption=do not show this page again
+TfwClientProduct.Caption=***Размещаемый продукт
+kwpProducts.Header.Title.Text=Product
+kwpProducts.Header.Subtitle.Text=***Укажите продукт
+kwpRulez.Header.Title.Text=***Условие размещение
+kwpRulez.Header.Subtitle.Text="Selects the placement conditions or leave this selection field blank"""
+[TfpAdminCalendar]
+lbvatrate.Caption=VAT
+lbmaxadvhour.Caption=per hour
+miWorkDay.Hint=***Рабочий
+miWorkDay.Caption=***Рабочий
+miSelebrate.Hint=***Праздничный
+miSelebrate.Caption=***Праздничный
+lbadvrate.Caption=advertising tax
+gbmaxAdv.Caption=***Доли рекламного времени %
+Calendar.HintNextYear=***Следующий год
+Calendar.HintPrevMonth=***Предыдущий месяц
+Calendar.NameOfMonths.November=Nov
+Calendar.NameOfMonths.January=Jan
+Calendar.NameOfMonths.March=mar
+Calendar.NameOfMonths.February=Feb
+Calendar.NameOfMonths.September=Sep
+Calendar.NameOfMonths.April=Apr
+Calendar.NameOfMonths.August=aug
+Calendar.NameOfMonths.June=Jun
+Calendar.NameOfMonths.May
+Calendar.NameOfMonths.October=Oct
+Calendar.NameOfMonths.December=Dec
+Calendar.NameOfMonths.July=Jul
+Calendar.HintPrevYear=***Предыдущий год
+Calendar.NameOfDays.Wednesday=Wed
+Calendar.NameOfDays.Thursday=Thu
+Calendar.NameOfDays.Monday=Mon
+Calendar.NameOfDays.Tuesday=Tue
+Calendar.NameOfDays.Sunday=Sun
+Calendar.NameOfDays.Saturday=Sat
+Calendar.NameOfDays.Friday=Fri
+Calendar.HintNextMonth=***Следующий месяц
+gbRate.Caption=***Ставки %
+miWeekend.Hint=Weekend/ holiday
+miWeekend.Caption=Weekend/ holiday
+lbmaxadvday.Caption=per day
+[TfpBreakQuotas]
+r
+vBreakQuotas.Bands.TcxGridBand[0].Caption=Categories
+lciYear.CaptionOptions.Text
+lciYear.Caption
+TfpBreakQuotas.Caption=Standards of advertising time
+[TfpBreakClips]
+TfpBreakClips.Caption=***Совместимость роликов и вставок
+r
+vBC.Bands.TcxGridBand[0].Caption
+r
+vBC.Bands.TcxGridBand[1].Caption=*** >;8:8
+vcBreaks.Caption=Name
+[TfpControlSerialization]
+[TflArea]
+miAdd.Hint=Add
+miAdd.Caption=Add
+TflArea.Caption=***Регионы
+[TfwArea]
+TfwArea.ActiveControl.Hint=***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+TfwArea.ActiveControl.Caption=do not show this page again
+TfwArea.Caption=***Создать регион
+r
+eTypeArea.Properties.Items.TcxImageComboBoxItem[1].Description
+r
+eTypeArea.Properties.Items.TcxImageComboBoxItem[0].Description
+r
+eTypeArea.Properties.Items.TcxImageComboBoxItem[2].Description
+kwpRootArea.Header.Title.Text=***Регион-предок
+kwpRootArea.Header.Subtitle.Text=Select the region to wich the channel that is being created will belong to.
+[TfpLicenseAsk]
+TfpLicenseAsk.Caption=Registration request
+[TflSqlQuery]
+tlcValue.Caption.Text=Value
+r
+tlCmd.Bands.TcxTreeListBand[0].Caption.Text=request to the server
+r
+tlResult.Bands.TcxTreeListBand[0].Caption.Text=server response
+cxTreeListColumn3.Caption.Text=Value
+miAddCommand.Hint=Add command/team
+miAddCommand.Caption=Add command/team
+miAddParam.Hint=Add the parameter
+miAddParam.Caption=Add the parameter
+gb.Caption
+cxTreeListColumn2.Caption.Text
+r
+cxTreeListColumn2.Properties.Items.TcxImageComboBoxItem[5].Description=team
+r
+cxTreeListColumn2.Properties.Items.TcxImageComboBoxItem[3].Description=***A ?;.B>G:>9
+r
+cxTreeListColumn2.Properties.Items.TcxImageComboBoxItem[1].Description=***F5;>5
+r
+cxTreeListColumn2.Properties.Items.TcxImageComboBoxItem[4].Description=date
+r
+cxTreeListColumn2.Properties.Items.TcxImageComboBoxItem[6].Description=dataset
+r
+cxTreeListColumn2.Properties.Items.TcxImageComboBoxItem[0].Description=***B5:AB
+miDelNode.Hint=Delete
+miDelNode.Caption=Delete
+tlcType.Caption.Text
+r
+tlcType.Properties.Items.TcxImageComboBoxItem[5].Description=team
+r
+tlcType.Properties.Items.TcxImageComboBoxItem[3].Description=***A ?;.B>G:>9
+r
+tlcType.Properties.Items.TcxImageComboBoxItem[1].Description=***F5;>5
+r
+tlcType.Properties.Items.TcxImageComboBoxItem[4].Description=date
+r
+tlcType.Properties.Items.TcxImageComboBoxItem[6].Description=dataset
+r
+tlcType.Properties.Items.TcxImageComboBoxItem[0].Description=***B5:AB
+cxTreeListColumn1.Caption.Text=Name
+miShowDataset.Hint=***Показать датасет
+miShowDataset.Caption=***Показать датасет
+[TflTimeBand]
+bmBar1.Caption=Menu
+TflTimeBand.Caption=breaks 
+lvlWeekend.Caption=Weekends/ holidays
+vcRootDISPLAY_COLOR.Caption=***Цвет
+vWorkDaysPERIOD_TO.Caption=before
+vWorkDaysPERIOD_FROM.Caption=from
+vWeekendPERIOD_TO.Caption=before
+vWeekendTIME_TO.Caption=***по
+vWorkDaysTIME_TO.Caption=***по
+lvlWorkDays.Caption=Weekdays
+vWeekendPERIOD_FROM.Caption=from
+vWorkDaysTIME_FROM.Caption=***с
+r
+vRootFLAGS.Properties.Items.TcxCheckComboBoxItem[0].Description=commercial
+r
+vRootFLAGS.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=commercial
+r
+vRootFLAGS.Properties.Items.TcxCheckComboBoxItem[1].Description=The range includes all the intervals that are not included to other commercial ranges.
+r
+vRootFLAGS.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=available
+vWeekendTIME_FROM.Caption=***с
+[TflVideoCategory]
+vDetailMAX_DURATION.Caption=Max duration
+vRootNAME_SHORT.Caption=***сокр. назв.
+vDetailNAME_SHORT.Caption=***сокр.назв.
+vRootCATEGORY_ID.Caption
+vDetailFLAGS.Caption=***параметры
+vRootMIN_DURATION.Caption=Min.duration
+vDetailNAME_NAT.Caption=name of a genre
+vRootMAX_DURATION.Caption=Max duration
+vDetailMIN_DURATION.Caption=Min.dur.
+TflVideoCategory.Caption=Categories and genres
+[Tv3Dialog]
+[TfpCustomGridObject]
+[TdlgGridObject]
+lcgProperties.CaptionOptions.Text=***Характеристики
+lcgProperties.Caption=***Характеристики
+eObjStart.Hint=on air start time (00.00 to 23.59)
+eObjDuration.Hint=duration of the showing/screening
+eObjLocal.Caption=local
+eObjFixed.Caption=***фиксированный
+lciObjDuration.CaptionOptions.Text=duration
+lciObjDuration.Caption=duration
+eObjStart48.Hint=***Начало показа в 48-и часовом измерении
+eObjNextDay.Hint=***Установите этот флажок, если время начала относится к следующим суткам
+eObjRegional.Caption=regional
+lciObjStart.CaptionOptions.Text=Beginning/start
+lciObjStart.Caption=Beginning/start
+eCategory.TextHint=object category
+lciObjStart48.CaptionOptions.Text=***Начало в 48
+lciObjStart48.Caption=***Начало в 48
+lcgRatings.CaptionOptions.Text=Ratings
+lcgRatings.Caption=Ratings
+[TdlgProgramBase]
+[TdlgProgramDetail]
+lciShowNo.CaptionOptions.Text=Number
+lciShowNo.Caption=Number
+lciMode.CaptionOptions.Text
+lciMode.Caption
+lci.CaptionOptions.Text=Name
+lci.Caption=Name
+eShowStart.Hint=***Укажите отметку, с которой необходимо воспроизвести метериал
+eObjLocal.Hint=***Если этот флаг установлен, то передача локальна для региона и замещает передачу основного канала.###(Имеет значение только для региональных каналов)
+eObjFixed.Hint=***Если этот флаг установлен, то время выхода и длительность передачи не может быть изменено
+lciShowDuration.CaptionOptions.Text=duration
+lciShowDuration.Caption=duration
+eShowTo.Hint=***Укажите отметку, по которую необходимо воспроизвести метериал
+lcgShow.CaptionOptions.Text=***Показ
+lcgShow.Caption=***Показ
+eShowDuration.Hint=***Укажите необходимую длительность воспроизведения материала
+eSource.Hint=***Укажите источник, с которогу будет вестись подача материала
+eMode.Hint=***Укажите тип материала
+eShowNo.Hint=***Укажите номер показа материала
+TdlgProgramDetail.Caption=Program
+eObjRegional.Hint=***Если этот флаг установлен, то передача транслируется на все региональные каналы.###(Имеет значение только для основного канала)
+eOutOfPlan.Hint=***Установите флажок, если показ не был изначально запланирован
+eOutOfPlan.Caption=***вне плана
+lciShowTo.CaptionOptions.Text=***по
+lciShowTo.Caption=***по
+lciVideoCode.CaptionOptions.Text=Code
+lciVideoCode.Caption=Code
+lciSource.CaptionOptions.Text=Source
+lciSource.Caption=Source
+lciShowStart.CaptionOptions.Text=***с
+lciShowStart.Caption=***с
+ePrgName.TextHint=***укажите название передачи
+[TdlgProgramGenre]
+TdlgProgramGenre.Caption=Program
+[TdlgBreakBase]
+[TdlgBreakDetail]
+TdlgBreakDetail.Caption=Break
+[TdlgBreakGenre]
+TdlgBreakGenre.Caption=Break
+[TdlgGridProperties]
+lcGroup1.CaptionOptions.Text=***Цвет
+lcGroup1.Caption=***Цвет
+lciItem15.CaptionOptions.Text=secondary 
+lciItem15.Caption=secondary 
+lcGroup2.CaptionOptions.Text=dialogue of parameters
+lcGroup2.Caption=dialogue of parameters
+eDialogMove.Hint=***Открывать ли окно параметров объекта сетки (передачи, вставки...) после его создания
+eDialogMove.Caption=***после перемещения
+lciItem14.CaptionOptions.Text=breaks
+lciItem14.Caption=breaks
+lciItem13.CaptionOptions.Text=***передач
+lciItem13.Caption=***передач
+eDialogCreate.Hint=***Открывать ли окно параметров объекта сетки (передачи, вставки...) после его перемещения
+eDialogCreate.Caption=***после создания
+TdlgGridProperties.Caption=***Параметры редактора сетки
+[TdlgSecondaryBase]
+[TdlgSecondaryDetail]
+TdlgSecondaryDetail.Caption=secondary event
+[TdlgSecondaryGenre]
+TdlgSecondaryGenre.Caption=secondary event
+[TdlgSmart1Import]
+TdlgSmart1Import.Caption=Integration with Smart1
+lciFile.CaptionOptions.Text=***Файл импорта:
+lciFile.Caption=***Файл импорта:
+lciLog.CaptionOptions.Text=***результат:
+lciLog.Caption=***результат:
+eFilePath.TextHint=select file with placements
+btnImport.Hint=***Import data  Smart1 to Teleport -КС
+btnImport.Caption=Import
+[TDlgPlannerOptions]
+lcgMain.CaptionOptions.Text=Add selected clip to the block
+lcgMain.Caption=Add selected clip to the block
+cbCtrlLeftMouse.Caption
+TDlgPlannerOptions.Caption=Setting of the placement editor parameters
+lcicbCtrlLeftMouse.CaptionOptions.Text=***текст
+lcicbCtrlLeftMouse.Caption=***текст
+cbDblClick.Caption=Double-click the left side of the mouse
+[TdlgChannelCalendar]
+TdlgChannelCalendar.Caption=Calendar
+[TflVideoEventsDataPhuket]
+TflVideoEventsDataPhuket.Caption
+tlcCategory_Name.Caption.Text=Category
+miClearEdges.Hint
+miClearEdges.Caption
+miTitlesMenu.Caption=***Титры
+bmTitles.Caption=***Титры
+miShowComments.Hint=Comments
+miShowComments.Caption=Comments
+miEdgesMenu.Caption=jingles
+tlcSelected.Caption.Text=***Выделить
+miFilter.Hint=***Фильтрация
+miFilter.Caption=***Фильтрация
+miIgnoreAdvPrg.Hint=ignore commercial programs
+miIgnoreAdvPrg.Caption=ignore commercial programs
+miInsertEdges.Hint=Add
+miInsertEdges.Caption=Add
+bmBar5.Caption=General
+miDeselect.Hint=***Снять отметки
+miDeselect.Caption=***Снять отметки
+miTitleOn.Hint=***титры ON
+miTitleOn.Caption=***титры ON
+miShowTitles.Hint=***Показать
+miShowTitles.Caption=***Показать...
+miEdges.Hint=jingles
+miEdges.Caption=Jingles...
+tlcDecor_Id.Caption.Text=***Оформление!
+miSelectPrg.Hint=***Выделить передачи
+miSelectPrg.Caption=***Выделить передачи
+miToFile.Hint=in file
+miToFile.Caption=in file
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[10].Description=comment
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[9].Description=***?@>3@0<<0 8
+r
+tlcKind_view.Properties.Items.TcxImageComboBoxItem[11].Description=***B8B@ ?>A;5
+tlcPremium_out_of_pos.Caption.Text=***Экстра позиция
+miSpreadingBreaks.Hint=***Равномерно разделять передачи
+miSpreadingBreaks.Caption=***Равномерно разделять передачи
+tlcDate_Of.Caption.Text=Date
+tlcMedia_filename.Caption.Text=***Путь
+miClearMedia.Hint=Clear media carrier
+miClearMedia.Caption=Clear media carrier...
+tlcVolume.Caption.Text=Volume of sound
+miComments.Hint=Comments
+miComments.Caption=Comments
+[TdlgDecor]
+TdlgDecor.Caption=***Оформления
+vFlags.Caption=***флаги
+vcName.Caption=Name
+[TdlgCategoryDecor]
+r
+vcType.Properties.Items.TcxImageComboBoxItem[3].Description=secondary event
+r
+vcType.Properties.Items.TcxImageComboBoxItem[1].Description
+r
+vcType.Properties.Items.TcxImageComboBoxItem[0].Description=***?@>3@0<<0
+r
+vcType.Properties.Items.TcxImageComboBoxItem[2].Description=***@>;8:
+vcDecorId.Caption=***Оформление
+TdlgCategoryDecor.Caption=***Оформление категорий
+[TfpEventTitles]
+TfpEventTitles.Caption=***Титры
+ctlOffset.Caption.Text
+ctlOnStart.Caption.Text=From start
+ctlDuration.Caption.Text=duration
+cxLabel1.Caption
+ctlName.Caption.Text=Name
+ctlText.Caption.Text
+[TflClipMediaManage]
+miClearCheckResult.Hint=***Убрать предупреждения
+miClearCheckResult.Caption=***Убрать предупреждения
+miSetAsMain.Hint=Assign a media file to all regional clips
+miSetAsMain.Caption=Assign a media file to all regional clips
+TflClipMediaManage.Caption=Media materials for clips
+tlcRes.Caption.Text=***Предупреждения
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[0].Description=not tied
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[0].ShortDescription=not tied
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[2].Description=duration doesn't match
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[2].ShortDescription=duration doesn't match
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[4].Description=format doesn't match
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[4].ShortDescription=format doesn't match
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[3].Description=***$09; =5 =0945=
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[3].ShortDescription=not found
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[1].Description=name doesn't match
+r
+tlcRes.Properties.Items.TcxCheckComboBoxItem[1].ShortDescription=name doesn't match
+miCheck.Hint=***Проверить
+miCheck.Caption=***Проверить
+tlcChannelName.Caption.Text=channal
+miSetAsMainWithRepo.Hint=Assign a media file to all regional storages
+miSetAsMainWithRepo.Caption=Assign a media file to all regional storages
+miSave.Hint=***Сохранить
+miSave.Caption=***Сохранить
+tlcMediaFile.Caption.Text=Media file
+tlcVideomediaId.Caption.Text=***Ид видеомедианосителя
+[TflVideoEventsForward]
+miMediaInfo.Hint=Media info
+miMediaInfo.Caption=Media info
+miExportForAllChannels.Hint=For all channels
+miExportForAllChannels.Caption=For all channels
+vcResClipId.Caption=ID of clip
+miExportXls.Hint
+miExportXls.Caption
+miFileExport.Hint
+miFileExport.Caption
+miEdgeAfter.Hint=***Добавить *закрывашки*
+miEdgeAfter.Caption=***Добавить *закрывашки*
+dxBarButton2.Hint=on all channels
+dxBarButton2.Caption=on all channels
+miCheckData.Hint=***Проверить
+miCheckData.Caption=***Проверить
+miOverflowHandling.Hint=at the channel
+miOverflowHandling.Caption=at the channel
+vcResMsg.Caption=Info
+miOverflowingToBuffer.Hint=record the remaining overflow to the buffer
+miOverflowingToBuffer.Caption=record the remaining overflow to the buffer
+dxBarSeparator3.Hint=***Дозаполнение
+dxBarSeparator3.Caption=***Дозаполнение
+miCapOverflowing.Hint=Processing of overflows/overlaps
+miCapOverflowing.Caption=Processing of overflows/overlaps
+miExportAllXls.Hint=For all channels
+miExportAllXls.Caption=For all channels
+tlcBreak_Completion.Caption.Text=occupancy
+miFillUpBreaks.Hint=***Дозаполнить блоки
+miFillUpBreaks.Caption=***Дозаполнить блоки
+dxBarSeparator2.Hint
+dxBarSeparator2.Caption
+miAction.Caption=***Подвиги
+miSaveResult.Hint=***Сохранить
+miSaveResult.Caption=***Сохранить
+vcResName.Caption=Clip
+miShowResult.Hint=***Результат
+miShowResult.Caption=***Результат
+vcResEventId.Caption=ID of event
+miEdgeAfterCommerce.Hint=jingle after commercial part
+miEdgeAfterCommerce.Caption=jingle after commercial part
+miDeleteFillUp.Hint=***Удалить дозаполнения
+miDeleteFillUp.Caption=***Удалить дозаполнения
+dxBarSeparator1.Hint=to Forward
+dxBarSeparator1.Caption=to Forward
+tlcMedia_Filename.Caption.Text=***файл
+miGlobalTime.Hint=Global time
+miGlobalTime.Caption=Global time
+vcResFlags.Caption=Info
+r
+vcResFlags.Properties.Items.TcxCheckGroupItem[4].Caption=format doesn't match
+r
+vcResFlags.Properties.Items.TcxCheckGroupItem[2].Caption=duration doesn't match
+r
+vcResFlags.Properties.Items.TcxCheckGroupItem[0].Caption=not tied
+r
+vcResFlags.Properties.Items.TcxCheckGroupItem[1].Caption=name doesn't match
+r
+vcResFlags.Properties.Items.TcxCheckGroupItem[3].Caption=***$09; =5 =0945= =0 48A:5
+miOnlyRegional.Hint=***только региональные
+[TflTemplateTwoGrids]
+[TflBreaksEdit]
+miOpenFile.Hint=Open..
+miOpenFile.Caption=Open..
+cvToDuration.Caption=duration
+cvToLinkDesc.Caption
+miMakeLink.Hint=***Связать
+miMakeLink.Caption=***Связать
+cvToTimeOf.Caption=Time
+miActionCorrect.Hint=***Сопоставить все
+miActionCorrect.Caption=***Сопоставить все
+miCorrectTo.Hint=***Перенести
+miCorrectTo.Caption=***Перенести
+cvProgramName.Caption=Name of the program
+tlcFrom.Caption.Text=Spot from Xls
+tlcMsg.Caption.Text=Info
+miChange.Hint=***Перенести
+miChange.Caption=***Перенести
+cvProgramId.Caption=ID of program
+cvFromTimeOf.Caption=Time
+miDeleteBreak.Hint=***Удалить вставку
+miDeleteBreak.Caption=***Удалить вставку
+cvToRegional.Caption
+cvProgramTime.Caption=AirTime/Duration of the program
+cvFromDescription.Caption
+cvFromDuration.Caption=duration
+cvToIsChanged.Caption=Changes
+miCorrect.Hint=***Перенести
+miCorrect.Caption=***Перенести
+miAddBreakRegion.Hint=Add regional spot
+miAddBreakRegion.Caption=Add regional spot
+cvToDescription.Caption
+miReload.Hint=update
+miReload.Caption=update
+miDelta.Hint=Deviation (min)
+miDelta.Caption=Deviation (min)
+miAddBreak.Hint=Add main spot
+TflBreaksEdit.Caption=Import-correction of spots
+miClearTo.Hint
+miClearTo.Caption
+miClearAll.Hint=Clear all
+miClearAll.Caption=Clear all
+tlcTo.Caption.Text=Spot in grids
+miCompare.Hint=***Сопоставить
+miCompare.Caption=***Сопоставить
+miClearFrom.Hint
+miClearFrom.Caption
