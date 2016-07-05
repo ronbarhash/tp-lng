@@ -9,7 +9,7 @@ var text =  {};
 // 'GUID передачи':'***GUID of program',
 // 'GUID прем':'***GUID prem#'};
 
-var en = fs.readFileSync('en.csv', 'utf8');
+var en = fs.readFileSync('src/en.csv', 'utf8');
 var en_arr = en.split("\r\n");
 for(var i in en_arr){
     var tmp_arr = en_arr[i].split(";");
@@ -17,7 +17,7 @@ for(var i in en_arr){
 }
 // console.log(text);
 
-var contents = fs.readFileSync('test.txt', 'utf8');
+var contents = fs.readFileSync('src/lng/tpChannel_ru.lng', 'utf8');
 var arr = contents.split("\r\n");
 for(var i in arr){
     var tmp = arr[i].split("=");
@@ -43,7 +43,7 @@ for(var i in arr){
 
 }
 for (var j in globArr){
-    fs.appendFile('./tpChannel_en.lng', globArr[j] + '\r\n' , function (err) {
+    fs.appendFile('dist/tpChannel_en.lng', globArr[j] + '\r\n' , function (err) {
 });
 }
 console.log("RU =" + count_ru + " and ALL = " + count_all);
