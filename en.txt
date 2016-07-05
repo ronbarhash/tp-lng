@@ -1,0 +1,2544 @@
+
+""" продукта";""" of the product"
+""" будет удалена!";""" will be deleted!"
+""". Изменить на состояние формирования?";""".Shift to the formation mode?"
+( ошибка соединения;( Connection error server
+( ошибка на сервере;( Error on the server
+-;*** -
+Клиент %e_client_sid_p ### Каналы %channel_data ### Параметры %option### Период c %e_date_from_p по %e_date_to_p### ### Данные %data###;*** Клиент %e_client_sid_p ### Каналы %channel_data ### Параметры %option### Период c %e_date_from_p по %e_date_to_p### ### Данные %data###
+по;*** until
+с;*** from
+""" из системы?";"***"" from the system?"
+"""Клонирование"" сетки c главного канала";"***""Cloning"" grid from main channel"
+% надбавки для премиум позиций размещаемых по остаточному принципу;***% надбавки для премиум позиций размещаемых по остаточному принципу
+% надбавки для приоритетных премиум позиций;***% markups for priority premium items
+% нпр;***% нпр
+% плаванья;***% плаванья
+%d записей обновлено;***%d updated records
+%Общая скидка;***%overall discount
+&Администратор;***&Administrator
+&Далее >;***&Next >
+&Множественные подключения;***&Multiple connections
+&Отображать;***&Display
+&Помощь;***&Help
+&Правка;***&Edit
+&Сетка;***&Grid
+..\shared\Templates\breakrating.xls;***..\shared\Templates\breakrating.xls
+..\Shared\Templates\ForwardInfo.xls;***..\Shared\Templates\ForwardInfo.xls
+..\shared\Templates\mountGrid11.xlsm;***..\shared\Templates\mountGrid11.xlsm
+..\shared\Templates\mountgrid_ims.xls;***..\shared\Templates\mountgrid_ims.xls
+..\shared\Templates\mountGridATV.xls;***..\shared\Templates\mountGridATV.xls
+..\Shared\Templates\mountGridKz1.xls;***..\Shared\Templates\mountGridKz1.xls
+..\Shared\Templates\mountGridKz2.xls;***..\Shared\Templates\mountGridKz2.xls
+..\Shared\Templates\reportOrdersReference.xls;***..\Shared\Templates\reportOrdersReference.xls
+.wgrp;***.wgrp
+1;***1
+1 ч;***1 h
+2;***2
+24 ч;***24 h
+24 часа;***24 hours
+24ч;***24h
+3;***3
+30 мин;***30 min
+48 часов;***48 hours
+48ч;***48 hours
+5;***5
+< &Назад;***< &Back
+основной;***main
+региональный;***regional
+#ИМЯ?;
+;***
+ClientMediaPlan2.xls;***ClientMediaPlan2.xls
+CPP;***CPP
+end Time;***end Time
+Excel files |*.xls*|Все файлы |*.*;***Excel files |*.xls*|Все файлы |*.*
+float;***float
+Float заказ;***Float order
+Float не подтверждены.;***Float not confirmed.
+float размещения подтверждены;***float placements confirmed
+Ftp импорт...;***Ftp import...
+GUDI премиум правила;***GUDI premium conditions
+GUID блока;***GUID of block
+GUID видео;***GUID of video
+GUID заказа;***GUID of order
+GUID кассеты;***GUID of cassette
+GUID кат;***GUID кат
+GUID категории вставки;***GUID of spot catogory
+GUID клипа;***GUID of clip
+GUID передачи;***GUID of program
+GUID прем;***GUID prem
+GUID премиум позиции;***GUID premium items
+GUID размещения;***GUID placements
+GUID ролика;***GUID of clip
+hard привязка;***hard binding
+Harris files |*.log|Play list файлы|*.ply|Все файлы |*.*;***Harris files |*.log|Play list файлы|*.ply|Все файлы |*.*
+Harris файлы|*.log|Все файлы|*.*;***Harris файлы|*.log|Все файлы|*.*
+Harris формата;***Harris формата
+ID видео;***ID of video
+ID видео-медиа;***ID of video-media
+ID видео-продукта;***ID of video-product
+ID видеособытия;***ID of video event
+ID внешний;***ID external
+Id вставки;***Id spot
+ID города;***ID city
+ID Заказа;***ID order
+ID кассеты;***ID cassette
+ID кат. прод.;***ID prod. Cat.
+ID категории;***ID of category
+ID категории продукта;***ID of product category
+ID категории рекламируемого продукта;***ID категории рекламируемого продукта
+ID клипа;***ID of clip
+ID маркера;***ID of marker
+ID основного события;***ID of the main event
+Id пользователя;***Id user
+ID программы;***ID of program
+ID продукта;***ID of product 
+ID производителя;***ID of producer
+ID рек.продукта;***ID of adv. Prod.
+ID рекламируемого продукта;***ID of advertised product
+ID рекламодателя;***ID of advertiser
+ID ролика;***ID of clip
+ID события;***ID of event
+Id соединения;***Id of connection
+ID типа;***ID of type
+ID фикс;***ID фикс
+ID фикс.;***ID фикс.
+ID шаблона;***ID of layout
+IDзаказа;***ID of order
+IN (Начало на носителе);***IN (Start on the carrier)
+IP адрес клиента;***IP address of the client
+off=off-prime;***off=off-prime
+R (прогн.);***R (прогн.)
+reportCostByClientsAndAdvertisersExt.xls;***reportCostByClientsAndAdvertisersExt.xls
+SID канала;***SID of channel
+SID клиентa;***SID of client
+SID клиента;***SID of client
+Spot (по времени);***Spot (by time)
+Spot (по передаче);***Spot (by program)
+TCP/IP адрес клиента обслуживаемого сессией;****** TCP / IP address of the client serviced by the session
+uID видео;***uID of video
+UID видео-продукта;***UID of video product
+uID Видеоматериала;***uID of video material
+uID заказа;***uID of order
+UID каcсеты;***UID of cassette
+uId кассеты;***UID of cassette
+UID клипа;***UID of clip
+uID ролика;***uID of clip 
+uId условия;***uId of condition
+WGRP(прогн.);***WGRP(forecast)
+Xls формата;***Xls format
+«живой» эфир;***live streaming
+авг;***aug
+Август;***August
+август###апрель###декабрь###июль###июнь###май###март###ноябрь###октябрь###сентябрь###февраль###январь###;***August###April###December###July###June###May###March###November###October###September###February###January###
+автовход;***autologin
+автомат;***automat
+Автообновления;***Automatic Updates
+Автор;***Author
+Авторасширение вставок;*** auto-spreading of spots
+Автосжимание вставок;"***""Auto compression of spots"
+Администратор?;***Administrator?
+адрес;***address
+адрес клиента;***client address
+Активен;***Active
+Активность;***Activity
+Активность сервера;***Activity of server
+Активные соединения;***Active connections
+анонс;***announcement
+апр;***apr
+Апрель;***April
+Архивные;***Archival
+Архивный;***Archival
+Астрономические;***Astronomical
+астрономические сутки;***Astronomical day
+Аудитория;***Audience
+аукц.;***auction
+аукц. коэф.;***auction. Coeff.
+аукц.история;***auction  history
+Аукцион;*** auction 
+Аукционная вставка;***auction spot
+аукционное размещение;***auction placement
+Без сжатия;***Without compression
+Блок;***Block
+Блоки;***Blocks
+больше не показывать эту страницу;***do not show this page again
+будет удалён из заказа;***will be deleted from the order
+Будние дни;***Weekdays
+буфер;***buffer
+Были обнаружены события без медиаматериала. Они будут пропущены. Продолжить?;***Events without the media material were found. They will be skipped. Continue?
+бюдж;***Budget
+Бюджет;***Budget
+в Excel;***to Excel
+в Excel по шаблону;***to Excel by template
+в Forward;***to Forward
+В Harris формат;***to Harris format
+в HTML;***to HTML
+в MS Excel;***to MS Excel
+в XML;***to XML
+в блоках совместно с fix размещениями;***in blocks along with fix placements
+в блоке;***in block
+В данном периоде есть дни недоступные для размещения. Продолжить?;***There are days not available for placement in this period. Continue?
+в заказе использовать скидки из условия размещения;***Use discounts from placement conditions
+В конец;***to the end
+В начало;***to the beginning
+в основной части не используется минимальная длительность премиум позиции;***the minimum duration of a premium position is not used In the main part.
+в очереди;***in the queue
+в передачах совместно с fix размещениями;***in programs with fix placements
+в период(мин);***in period(min)
+в производстве;***in production
+В региональном вещании может отличаться от передачи транслируемой в основном вещании;***regional broadcasting may differ from primary broadcasting.
+в спец.XML;***in XML
+в сутки;***per day
+В т.ч. для надбавки за премиум позицию;***including markups for premium items
+в файл;***in file
+в формат ListBox 1;***to  ListBox 1 format
+в формат ListBox 2;***to  ListBox 2 format
+в час;***per hour
+Валюта;***Currency
+Валюта 2;***Currency 2
+вариант вывода;***display options
+варианты названия;***title options
+Введите название;***Enter the title
+Введите названия для видео-продукта;***Enter the title for video product
+Введите ориентировочную длительность видео-продукта и количество серий;***Enter approximate duration of the video product and number of episodes
+Введите производителя видео-продукта;***Enter the producer of the video product
+Введите распределение размещений для роликов;***Введите распределение размещений для роликов
+Введите уникальный код медиа-носителя;***Enter unique code of the media carrier
+Версии;***Builts
+Версии программных продуктов;***Builts of a program
+Версия;***Built
+Версия приложения;***Вuilt of an application
+вещание;***Broadcasting
+Вещательные;***Broadcast
+вещательные сутки;***broadcast day
+Виберите тип видео-продукта;***Select the type of  the video product
+Вид;***Type
+Вид вещания;***Type of broadcasting
+вид мовлення;***Type of broadcasting
+вид:;***type:
+Видео;***Video
+видео Uid;***Uid of video 
+видео Ид;***ID of video 
+Видео источник;***Source of the video
+Видео продукты;***Video products
+"Видео файлы|*.mpg;*.avi;*.mp4|Все файлы|*.*";"***Видео файлы|*.mpg;*.avi;*.mp4|Все файлы|*.*"
+Видео-показ;***Video screening
+Видео-продукт;***Video product
+видео-продукт UID;***UID of video product
+Видео-продукты;***Video products
+Видео-события;***Video events
+видеоID;***ID of video 
+видеоUID;***Uid of video 
+Видеоматериал;***Video material
+Видеоматериалы;***Video materials
+Видеопродукты;***Video Products
+Видеопродукты...;***Video Products...
+видеоролик;***videoclip
+Видеособытия;***Video events
+Видеособытия...;***Video events…
+видеофлаги;***Video flags
+видим клиентам;***available for customers
+видим продавцу;***available for a seller
+Виробник;***Producer
+Владелец;***Owner
+Владелец ролика;***Owner of the clip
+вне плана;***вне плана
+внеплановое;***off-schedule
+внеплановый выход;***off-schedule
+Внеш.номер;***External number
+внешний;***External
+Внешний ID;***External ID
+Внешний код;***External code
+Внешний номер;***External number
+внешняя;***External
+Внимание;***Attention
+Внимание!;***Attention!
+ВНИМАНИЕ! ЕСТЬ БАННЕР!;***ATTENTION! BANNER!
+внутр.;***internal
+внутр.отбивка;***internal jingle
+внутреннему ID;***internal ID
+Внутренние флаги блока;***Internal flags of the block
+Внутренние флаги размещения;***Internal flags of the placement
+внутренний;***internal
+Внутренний идентификатор блока;***Internal identifier of the block
+Внутренний идентификатор заказа;***Internal identifier of the order
+внутренний идентификатор канала;***Internal identifier of the channel
+Внутренний идентификатор категории вставки;***Internal identifier of the spot category
+внутренний идентификатор клиента;***Internal identifier of the customer
+Внутренний идентификатор передачи;***Internal identifier of the program
+Внутренний идентификатор правила премиум размещения;***Internal identifier of the premium placement conditions
+Внутренний идентификатор премиум позиции;***Internal identifier of the premium items
+Внутренний идентификатор размещения;***Internal identifier of the placement
+Внутренний идентификатор ролика;***Internal identifier of the clip
+внутренняя;***Internal 
+внутри;***inside
+Воскресенье;***Sunday
+врем;***time
+Времена;***Times
+Временные промежутки;***breaks 
+Временные промежутки...;***Time breaks...
+Время;***Time
+Время выхода;***AirTime
+Время выхода блока;***AirTime of the block
+Время выхода передачи;***AirTime of the program
+Время выхода передачи кратное 5;***Время выхода передачи кратное 5
+Время на подтверждение заказа (мин.);***Time for order confirmation (min.)
+время начала;***on air start time
+Время начала вставки, чч:мм:сек;***on air start time of the spot, hh:mm:ss
+Время начала передачи на носителе, чч:мм:сек;***on air start time of the program on the media carrier, hh:mm:ss
+Время начала показа (от 00:00 до 23:59);***on air start time (00.00 to 23.59)
+Время начала сессии;***Start time of the session
+время обновления;*** update time
+Время перевода сетки;***Time of the grid switch
+Время перевода сетки в предмонтажное состояние;***Время перевода сетки в предмонтажное состояние
+Время программы;***AirTime/Duration of the program
+время событий в соответствии с планом;***время событий в соответствии с планом
+Время, на котором заканчивается отображение сетки;***Время, на котором заканчивается отображение сетки
+Время, с которого заканчивается отображение сетки;***Время, с которого заканчивается отображение сетки
+Время, с которого начинается отображение сетки;***Время, с которого начинается отображение сетки
+время, сек;***time, sec
+Вс;***Sun
+Вс 07.08.2005;***Sun 07.08.2005
+все;***all
+все каналы;***all channels
+Все размещения по заказу, групповые операции;***Все размещения по заказу, групповые операции
+все ролики;***all clips
+Всего за месяц;***Total for month
+Всего за месяц (по клиенту);***Total for month (by customer/client)
+Всего за месяц (по условию размещения);***Total for month (по условию размещения)
+вст;***вст
+Вставить;***Insert
+Вставить в текущий день;***Insert to the current day
+Вставить в текущую позицию;***Insert to the current position
+Вставить здесь;***insert here
+Вставить коэффициент;***add the coefficient
+Вставить объекты;***Insert objects
+Вставить скопированные объекты;***Insert copied objects
+Вставить скопированный объект в указанную позицию;***Insert copied objects to selected item
+Вставить содержимое предварительно скопированного дня в текущий;***Insert content of previously copied day to the current day
+Вставка;***Spot
+Вставка в %s[%d] удалена;***Spot in %s[%d] deleted
+Вставка в сетках;***Spot in grids
+"Вставка для программы ""%s"" c категорией %s";"***Spot for program ""%s"" category %s"
+Вставка из Xls;***Spot from Xls
+вставка удалена;***spot has been deleted
+вставки;***spots
+вставок;***spots
+Вся система;***All system
+Вт;***Tue
+Вт 02.08.2005;***Tue 02.08.2005
+втор. события;***secondary events
+втор.соб.;***secondary events
+втор.события;***secondary events
+втор.собітие;***secondary event
+Вторичное событие;***secondary event
+Вторичные события;***secondary events
+вторичных;***secondary 
+Вторник;***Tuesday
+вход;***вход
+Входящий трафик сервера в пределах сессии;***Incoming traffic within the server session
+Вы действительно хотите исключить пользователя;***Do you really want to exclude the user
+Вы действительно хотите покинуть форму размещения;***Do you really want to leave the placement form
+Вы действительно хотите удалить;***Do you really want to delete
+"Вы действительно хотите удалить пользователя """;"***Do you really want to delete the user """
+Выберите дополнительные параметры для групповых заказов;***Select additional parameters for group orders
+Выберите канал, который будет основным для регистрируемого регионального канала;***Select the main channel for the registered regional channel
+Выберите регион, к которому будет относиться создаваемый;***Select the region to wich the channel that is being created will belong to.
+Выберите тип медиа-носителя;***Select the type of  the media carrier
+Выберите условия размещения продукта или оставте это поле пустым;"***Selects the placement conditions or leave this selection field blank"""
+выберите файл с размещениями;***select file with placements
+выбор;***selection
+Выбор harris-файла для импорта видеособытий;***Select harris-file for video event import
+Выбор xls файла для импорта видеособытий;***Select xis-file for video event import
+Выбрать;***Select
+выводить кадры;***display stills
+Выгрузить;***Export
+Выгрузить в Excel;***Export to Excel
+Выгрузить в MS Excel...;***Export to MS Excel...
+Выгрузить содержимое таблицы в файл MS Excel;***Export table data to MS Excel file
+Выгрузить содержимое таблицы в файл формата HTML;***Export table data to HTML file
+Выгрузить содержимое таблицы в файл формата XML;***Export table data to XML file
+Выгрузить список в MS Excel;***Export list to MS Excel
+Выгрузка сетки в Excel;***Export list to  Excel
+Выгрузка сетки в файл MS Excel;***Export list to MS Excel file
+выделенный;***выделенный
+Выделить;***Выделить
+Выделить передачи;***Выделить передачи
+выделять программы без видеоматериала;***выделять программы без видеоматериала
+выделять несоответствие длительности;***выделять несоответствие длительности
+выделять программы без медианосителя;***выделять программы без медианосителя
+Выйти;***Exit
+Выполнить;***Выполнить
+Выравнивание вставками;***Align with/by spots
+Выровнять;***Align
+Выровнять выделенное;***Align selected
+выровнять длительность;***Align duration
+Выход;***Exit
+Выходной;***Weekend/ holiday
+Выходные дни;***Weekends/ holidays
+вышел;***вышел
+Глобальное время;***Global time
+год;***year
+Головной канал;***Головной канал
+Город;***City
+готов;***ready
+Готова;***Ready
+Громкость;***Volume of sound
+Группировать вставки внутри;***Group spots inside
+Групповые операции;***Group operations
+Группы пользователей;***User group
+Данные;***Data
+Данные для канала импортируются;***Data for the channel is being imported
+Данные изменены;***Data has been changed
+Данные не определены;***Data is not defined
+Данные по;***Data on
+Дата;***Date
+Дата %s меньше за втягиваемую %s;***Дата %s меньше за втягиваемую %s
+Дата и время начала сессии;***Дата и время начала сессии
+дата начала;***Date of beginning
+дата окончания;***Date of end
+Дата от;***Date from
+Дата с;***Date from
+Дата/время отправки;***Date/time of sending
+Дата/время получения;***Date/time of receipt
+Дата/время поступления;***Date/time of arrival
+Дата/время принятия;***Date/time of admission
+датасет;***dataset
+Двойное нажатие левой кнопки мыши;***Double-click the left side of the mouse
+Действия;***Actions
+действует с;***valid from
+дек;***December
+Декабрь;***December
+дельта;***delta
+День;***Day
+День содержит неподтвержденные размещения, которые могут не попасть в монтажный лист! Продолжить?;***Day contains unconfirmed placements that can not be put on the playlist! Continue?
+Детальная (эфирная) сетка вещания;***Detailed (airtime) broadcasting grid
+Детальная сетка;***Detailed grid
+Детальная сетка...;***Detailed grid...
+детально;***detailed
+Диаграмма;***Diagram
+Диаграмма:;***Diagram:
+Диалог параметров;***dialogue of parameters
+Диапазон IP адресов;***range of ip addresses
+Диапазон включает в себя все интервалы не вошедшие в прочие коммерческие диапазоны;***The range includes all the intervals that are not included to other commercial ranges.
+дилтельность;***duration
+длительность;***duration
+длит;***duration
+Длит.;***duration
+Длительность;***duration
+Длительность (time code);***duration (time code)
+Длительность (мин.);***duration (min.)
+Длительность (сек);***duration (sec)
+Длительность блока;***Duration of block
+Длительность блока, сек;***duration of block, sec
+Длительность вещания в день;***The duration of the broadcast day
+Длительность видео-продукта;***duration of the video product
+Длительность ВМ;***Длительность ВМ
+длительность вставки;***duration of the spot
+Длительность вставки, сек;***duration of the spot, sec
+Длительность вставок по часовым интервалам;***duration of the spots per hour intervals
+Длительность вставок...;***duration of the spots...
+длительность втор. события;***The duration of the secondary event
+Длительность клипа (сек.);***Duration of the clip (сек.)
+Длительность медиафайла;***duration of the media file
+Длительность между вставками;***Duration between spots
+длительность передачи;***Duration of the program
+Длительность передачи, чч:мин:сек;***Duration of the program, hh:min:sec
+Длительность показа;***duration of the showing/screening
+Длительность ролика;***Duration of the clip
+Длительность ролика, сек;***Duration of the clip, sec
+Длительность сессии;***duration of the session
+Длительность события;***duration of the event
+длительность(time code);***duration(time code)
+длительность, мин;***duration, min
+Для всех каналов;***For all channels
+Для данного канала не существует ни одного вида роликов. ###Добавление роликов невозможно!;***Для данного канала не существует ни одного вида роликов. ###Добавление роликов невозможно!
+Для данного событие есть предупреждение в результате;***Для данного событие есть предупреждение в результате
+Дней;***Days
+Дни;***Days
+до;***before/ till
+Добавить;***Add
+Добавить *закрывашки*;***Добавить *закрывашки*
+Добавить внеплановое размещение...;***Add unscheduled placement...
+Добавить внеплановую вставку...;***Add unscheduled spot
+Добавить внеплановую передачу...;***Add unscheduled program...
+Добавить выделенный ролик;***Add selected spot
+Добавить категорию;***Add category
+Добавить категорию...;***Add category...
+Добавить клип;***Add clip
+Добавить клип...;***Add clip...
+Добавить команду;***Add command/team
+Добавить коэффициент;***Add coefficient
+Добавить маркер;***Add marker
+Добавить менеджера;***Add manager
+Добавить на касету;***Добавить на касету
+Добавить на касету...;***Добавить на касету...
+Добавить основную вставку;***Add main spot
+Добавить параметр;***Add the parameter
+Добавить период;***Add period
+Добавить пользователя;***Add user
+Добавить пользователя/группу;***Add user/group
+Добавить работника;***Add employee
+Добавить региональную вставку;***Add regional spot
+Добавить ролик;***Add clip
+Добавить ролик в кассету;***Добавить ролик в кассету
+Добавить ролик в кассету...;***Добавить ролик в кассету...
+Добавить ролик...;***Add clip...
+добавить..;***add..
+Добавлена вставка;***Spot has been added
+Добавление пользователя;***Add user
+Добавлять в заказ при создании;***Add to the order when creating
+Добавлять жанр к названию передачи;***Adding genre to name of the program 
+дозап.;***дозап.
+Дозаполнение;***Дозаполнение
+Дозаполнить блоки;***Дозаполнить блоки
+Дозаполнить блоки роликами?;***Дозаполнить блоки роликами?
+Доли рекламного времени %;***Доли рекламного времени %
+доп.;***additional.
+Доп. информация;***Additional information
+Доп. параметры;***Additional parameters
+Допол.;***Additional
+Дополнительно;***Additionally
+дополнительно выводить;***дополнительно выводить
+Дополнительные;***Additional 
+дополнительные параметры;***Additional parameters
+Допустимые адреса;***Valid addresses
+Доступ;***Access
+доступ работникам к каналу;***Employee access to the channel
+доступен для размещения клиентам;***available to customers for placement
+доступен для размещения продавцу;***available to seller for placement
+Доступные ролики;***available clips
+другие варианты названия;***alternative names/titles
+Дублировать;***Duplicate
+если установить этот флажок, система запомнит последний ###введенный пароль и не будет необходимости вводить его при следующем запуске;***если установить этот флажок, система запомнит последний ###введенный пароль и не будет необходимости вводить его при следующем запуске
+если установить этот флажок, система запомнит последний успешно принятые параметры подключения###и в следующий раз осуществит автоматический вход с использованием этих параметров;***если установить этот флажок, система запомнит последний успешно принятые параметры подключения###и в следующий раз осуществит автоматический вход с использованием этих параметров
+если установить этот флажок, страница приветствия не будет отображаться в следующий раз;***если установить этот флажок, страница приветствия не будет отображаться в следующий раз
+Если этот флаг установлен, то время выхода и длительность передачи не может быть изменено;***Если этот флаг установлен, то время выхода и длительность передачи не может быть изменено
+Если этот флаг установлен, то передача локальна для региона и замещает передачу основного канала.###(Имеет значение только для региональных каналов);***Если этот флаг установлен, то передача локальна для региона и замещает передачу основного канала.###(Имеет значение только для региональных каналов)
+Если этот флаг установлен, то передача транслируется на все региональные каналы.###(Имеет значение только для основного канала);***Если этот флаг установлен, то передача транслируется на все региональные каналы.###(Имеет значение только для основного канала)
+есть демонстрация;***есть демонстрация
+Жанр;***Genre
+жанр/тип;***Genre/type
+Жанровая сетка;***Genre grid
+жанровую сетку;***Genre grid
+Жанровые сетки;***Genre grids
+Жанровые сетки...;***Genre grid...
+Жанры;***Genres
+живой эфир;***Airtime
+за год;***per year
+Завершить сессию;***complete session
+Заголовок;***header
+Загрузить данные с сервера;***Download data from the server
+Загрузить рейтинги вставок из файла;***Upload spot ratings from the file
+Загрузить рейтинги вставок из файла...;***Upload spot ratings from the file...
+Загрузить рейтинги программ из файла;***Upload program ratings from the file
+Загрузить рейтинги программ из файла...;***Upload program ratings from the file...
+загрузить с сервера;***download from server
+Загрузка;***download 
+Загрузка эфирной сетки в файл;***download from server
+Задержка отображения (мин.);***display delay (min.)
+Задержка размещения (мин.);***placement delay (min.)
+Заказ;***Order
+заказ guid;*** guid order
+"заказ в состоянии ""закрыт""";"***order status ""closed"""
+"заказ в состоянии ""планирование""";"***order status ""preparation/in progress"""
+"заказ в состоянии ""размещен""";"***prder status ""placed"""
+"заказ в состоянии ""расчета""";"***order status ""calculation"""
+заказ доступен клиенту для правок;***orders are available for editing by customers
+заказ у которого есть признак Float;***order with a Float sign
+заказ у которого есть признак НПР;***заказ у которого есть признак НПР
+Заказы;***Orders
+Закладки;***Bookmarks
+Закрашивает на шкале промежутки между делениями которые ничем не заполнены;***Highlights intervals on the scale between empty partitions.
+Закрашивает часы на шкале времени которые переполнены рекламой;***Highlights intervals on the scale that are overfilled with advertising
+Закрепить;***Save
+Закрепить все;***Save all
+закрыт;***closed
+Закрыть;***Close
+Закрыть заказ;***Close an order
+Закрыть окно;***close a window
+Закрыть форму;***close a form
+Залить;***Залить
+Залить файл;***Залить файл
+Заменить;***Replace
+Заменить ...;***Replace ...
+Заменить незаполненные интервалы между событиями указанной вставкой;***Replace unfilled breaks between events with a selected sport
+Заменить разрывы вставками;***Replace breaks with spots
+Заметки;***Notes
+Занесение выбранного ролика в блок;***Add selected clip to the block
+занято;***occupied
+Заполнение блока;***Filling of the block
+Заполнение региональной рекламой;******Filling with regional advertiment
+заполнено;***occupied
+Заполнено (сек);***occupied (sec)
+Заполнено (%);***occupied (%)
+Заполнено региональной (сек);***Occupied with regional (sec)
+заполнено/открыто;***occupied/available
+Заполненость;***occupancy
+Заполняемость;***occupancy
+Запомнить;***Save/Remember
+запомнить пароль;***save passaword
+Запретить точку доступа;***Deny access point
+Запрос на регистрацию продукта;***request for product registration
+запрос на сервер;***request to the server
+Запрос регистрации;***Registration request
+Запросы на регистрацию;***Registration requests
+Зарегистрировал;***Registered
+зарегистрирована;***Registered
+Зарегистрированные пользователи сервера;***Registered users of the server
+Зарегистрировать;***Register
+Зарегистрировать в каталоге;***Register In catalogue
+Зарегистрировать в каталоге и назначить клиенту;***Register in catalogue and assign to the client
+Зарегистрировать касету;***Register a cassette
+Зарегистрировать касету...;***Register a cassette...
+Зарегистрировать продукт в каталоге;***Register a cassette in the catalogue
+Зарегистрировать...;***Register...
+Зафиксировать программы в дне;***Fixate a program in a day
+зачеркнутый;***strikeout
+"заявлено GRP 30""";"***announced GRP 30"""
+Значение;***Value
+"Значение bus в файле ""%s"" не совпадает со значением даного канала ""%s"". Продолжить?";"***Value bus in the file ""%s"" does not match the value of this channel ""%s"". Continue?"
+Значение, которое подставляется вместо длительности ролика та меньше. Используется при рассчете Кпремиум;***Значение, которое подставляется вместо длительности ролика та меньше. Используется при рассчете Кпремиум
+значения по умолчанию;***value by default
+Значения по умолчанию для условий;***Value by default for conditions
+игнорировать коммерчесткие передачи;***ignore commercial programs
+игнорировать экстра позиции при импорте gfk;***ignore additional items while import of gfk 
+ид;***ид
+ид как guid;***ид как guid
+Ид видеомедиа;***Ид видеомедиа
+Ид видеомедианосителя;***Ид видеомедианосителя
+Ид видеособытия;***Ид видеособытия
+Ид категории вставки;***Ид категории вставки
+ид категории ролика;***ид категории ролика
+Ид Продавца;***Ид Продавца
+ид Производителя;***ид Производителя
+ИД тип;***ИД тип
+Идентификатор производителя;***ID of a producer
+Идентификатор производителя продукта;***ID of the producer of the product
+Идентификатор (номер) заказа;***Id (number) of the order
+Идентификатор (номер) ролика;***ID (number) of the clip
+Идентификатор ролика;***ID of the clip 
+Идентификатор сессии;***ID of the session
+Идентификация роликов;***ID of clips
+"из точки доступа """;"***from the access point """
+Изготовитель;***Manufecturer/producer
+изготовлена;***produced
+изготовление;***producing
+изменен;***changed
+Изменение диапазона;***change of the range
+Изменения;***Changes
+Изменить данные по кассете;***Change the information on the cassette
+Изменить данные по кассете...;***Change the information on the cassette…
+Изменить название точки;***Change the name of the access point
+Изменить параметры выбранного объекта;***Change the parameter of selected item/object
+Изменить пароль..;***Change password..
+Изменить состояние;***Change condition
+Изменить состояние всех дней недели;***Change the condition of all days of the week
+имп.кат;***imp.cat
+имп.роликов;***imp.clips
+Импорт;***Import
+Импорт видеособытий;***Import of videoevents
+Импорт вставок;***Import of spots
+Импорт вставок...;***Import of spots…
+Импорт из файла;***Import from the file
+импорт роликов;***import of clips
+Импорт факта видео событий;***Import of videoevents
+Импорт-корректировка вставок;***Import-correction of spots
+импортированая категория;***imported category
+Импортировать данные Smart1 в Телепорт -КС;***Import data  Smart1 to Teleport -КС
+Импортируется день %s;***Import of the day %s
+Имя;***Name
+Имя пользователя;***Username
+Имя пользователя для фхода в систему;***Username for login to the system
+интегр.;***integration
+Интеграция с Smart1;***Integration with Smart1
+интегрированная;***integrated
+интегрированные;***integrated
+Интервал;***interval
+Интервал обновления (сек);***interval of update (sec)
+"Интервал, по истечении которого неподтвержденный заказ вернется в из состояния ""размещение"" в состояние ""планирование""";"***The interval after which the unconfirmed order will return from the condition of ""placement"" to ""planning"""
+Инфо;***Info
+информация;***information
+Информация о блоках;***Informtion on blocks
+Информация о длительности вставок по часам;***Information n duration of spots by hours
+Информация о передачах;***Information on programs
+Информация о пользователе сервера;***Inforamtion on the user of the server
+Информация о размещениях;***Inforamtion on placements
+Информация о роликах по заказу;***Information on clips in the order
+Информация о сессии;***Information on the session
+Информация о сессии...;***Information on the session..
+Информация о файле;***Information on the file
+Информация по роликам;***Information on clips
+Информация по роликам..;***nformation on clips…
+Информация успешно внесена в базу данных.###Нажмите |Ок| для закрытия мастера.;***Information has been successfully added to the database.###Press |Ок| to close the wizard.
+Искать;***Search
+Искать по...;***Search by...
+Исключить пользователя;***Exclude a user
+Использовать закладки для переключения окон;***Use bookmarks to switch windows
+Использовать прокси;***Use proxy
+Использовать фактическое время выхода при рассчете;***Use the actual time of airtime during the calculation
+история аукционов;***auction history
+Источник;***Source
+Источник видеосигнала;***Video source
+Исходящий трафик сервера в пределах сессии;***Outgoing server traffic within a session
+июл;***jul
+Июль;***July
+июн;***jun
+Июнь;***June
+каждый день на отдельном листе;***each day on a separate sheet
+какие дни выводить;***which days to display
+Календарь;***Calendar
+Календарь вещания;***Calendar of broadcasting
+Календарь вещания...;***Calendar of broadcasting...
+Календарь состояний дней;***Calendar of day condition
+Календарь...;***Calendar...
+Кампания;***Company
+кан.вид.;***кан.вид.
+кан.разм.;***кан.разм.
+канал;***channel
+канал видит;***Channel view
+канал размещает;***channel places
+канал:;***channel:
+?;?
+канал_ид;***channel_id
+каналSID;***channelSID
+Каналы;***channel
+Каналы, зарегистрированные в системе;***channel, registered in the system
+Каналы, продавцы, клиенты....;***Chennels, sellers, clients....
+Каналы...;***channels...
+Касcеты;***Cassettes
+Кассета;***Cassette
+Кассеты;***Cassettes
+Кассеты...;***Cassettes...
+кат. продукта;***product category
+Каталог продуктов;***Product Catalog
+Категории;***Categories
+Категории и жанры;***Categories and genres
+Категории и жанры...;***Categories and genres...
+Категории продуктов;***product category
+Категория;***Category
+Категория %s;***Category %s
+категория id;***category id
+Категория блока;***Block category
+Категория вставок;***Spot category
+Категория для дозаполнения блоков;***C
+категория объекта;***object category
+Категория программ;***program category
+категория продукта;***product category
+Категория рекламируемого продукта;***advertised product category
+категория ролика;***clip category
+категорияID;***categoryID
+Квоты;***quotas
+Квоты на;***quotas on
+Квоты...;***quotas...
+Кем/когда создан;***Created by/when
+кл.вид.;***кл.вид.
+кл.разм.;***кл.разм.
+Клиент;***Client
+клиент видит;***
+клиент размещает;***client places
+Клиент:;***Client:
+Клиентские точки доступа;***Client access points
+Клиенты;***
+Клиенты, зарегистрированные в системе;***Clients
+Клиенты...;***Clients...
+Клип;***Clip
+Клип %d %s размещен в блоке %s;*** Clip%d %s placed  in block %s
+клип UID;***clip UID
+клип ИД;***clip ID
+клнт;***клнт
+клон.;***клон.
+клонированный заказ;***cloned order
+когда;***when
+Код;***Code
+код ЗКПО;***код ЗКПО
+Код категории продукта;***Code of the product category
+Код медиа-носителя;***Code of the media carrier
+код носителя;***code of the carrier
+код ограничения;***код ограничения
+код передачи;***code of the program
+коду;***code
+кол-во серий;***nemoer of episodes
+кол-во: ###0;***кол-во: ###0
+количество;***number/amount
+Количество байт переданных в сеть в пределах сессии;***The number of bytes transmitted to the network within a session
+Количество байт поступивших от клиента;***The number of bytes transmitted from the client
+Количество байт принятых сервером из сети;***The number of bytes transmitted to the network within a session
+Количество ббайт отправленных клиенту в пределах сессии;***The number of bytes the server received from the network
+Количество в заказе;***Amount in the order
+количество вставок;***amount/ number of spots
+Количество пользователей %d;***Number of the users %d
+количество программ;***number of programs
+количество размещений;***number of placements
+количество серий;***number of episodes
+команда;***team
+Комментарии;***Comments
+комментарий;***comment
+коммерч.;***commercial
+коммерческая;***commercial
+коммерческий;***commercial
+Компания;***Company
+Компания в которой работает пользователь;***Compnay where user works
+конечный адрес;***final address
+Контактные телефоны пользователя;***Contact phone numbers
+Контактный E-mail пользователя;***Contact E-mail of the user
+контейнер;***container
+Контракт;***Contract
+Контракты;***Contract
+Контракты...;***Contracts…
+Копирование размещений;***Copying of placements
+Копировать;***Copy
+Копировать выбранные объекты;***Copy selected objects
+Копировать день;***Copy a day
+Копировать на канал;***Copy to the channel
+Копировать объекты;***Copy object
+Копировать содержимое всего дня;***Копировать содержимое всего дня
+Корневая папка;***Корневая папка
+короткое;***short
+короткое название;***short title/name
+Корректировать день;***edit day/ change
+Корректировать день...;***Edit day…
+корректировка;***Edit
+корректировка по подтвержденному времени;***edit by confirmed/approved time
+корректировка по подтвержденным прогнозным рейтингам;***
+корректировку одобрили;***edit/ changes have been approved
+коэф.;***factor/coefficient
+коэффициент;***coefficient
+кто;***who
+курсив;***italics
+Курсы валют;***Exchange rates
+Легенда;***Legend
+лимит;***limit
+Линии;***Lines
+Лицензионный ключ;***License key
+лого;***logo
+Логотип;*** Logo
+Логотипы;*** Logos
+локальная;***local
+локального маркера;***local marker
+локальный;***local
+Локальный файл;***Local file
+Май;***May
+Макс.длит.;***Max duration
+Макс.длительность;***Max duration
+макс.коэф.;***Max. coefficient
+Макс.коэффициент;***Max. coefficient
+макс.коэффциент;***Max. coefficient
+максимальное;***max
+Максимальный процент от рекламного времени в сутках доступный для букирования этим клиентом;***The maximum percentage of advertising time in the day available for this client to book
+Максимум по закону (сек);***Maximum by legislation (sec.)
+мар;***mar
+маркера фиксации;***marker of fixation
+Маркеры;***Markers
+Март;***March
+"Мастер """"";"***Wizard """""
+"Мастер ""Новый видео-продукт""";"***Wizard ""New video-product"""
+"Мастер ""Новый заказ""";"***Wizard ""New order"""
+"Мастер ""Новый канал""";"***Wizard""New channel"""
+"Мастер ""Новый клиент""";"***Wizard ""New client"""
+"Мастер ""Новый продавец""";"***Wizard ""New seller"""
+"Мастер ""Новый продукт""";"***Wizard ""New product"""
+"Мастер ""Новый ролик""";"***Wizard ""New clip"""
+"Мастер ""Пакетного создания заказов""";"***Мастер ""Пакетного создания заказов"""
+"Мастер ""Размещаемый продукт""";"***Wizard ""Placed product"""
+"Мастер ""Создание контракта""";"***Wizard ""Creating a contract """
+"Мастер ""Создание медиа-носителя""";"***Wizard ""Creating of the media carrier"""
+"Мастер ""Создание региона""";"***Wizard ""Creaion of the region"""
+"Мастер ""Создание ТЖС""";"***Wizard ""Creation of TGG"""
+Масштаб временной шкалы, сек;***The scale of the timeline, sec
+Материал;***Material
+Медиа инфо;***Media info
+Медиа информация;***Media information
+Медиа файл;***Media file
+медиа-код;***media code
+Медиа-носитель;***media carrier
+Медиаматериал;***Media material
+Медиаматериалы для роликов;***Media materials for clips
+Медианосители;***Media carriers
+Медианосители...;***Media carriers…
+Медиаплан;***Media plan
+Медиаплан по клиенту=@1###;***Media plan for a client=@1###
+Медиафайл не указан или не существует;***Media file is is missing or doesn't exist
+Менеджер подключений;***Connection Manager
+Менеджер подключений...;***Connection Manager...
+Менеджеры;***Managers
+Меню;***Menu
+метод 1 (стандартный);***Method 1 (standard)
+метод 2;***Method 2
+метод 3 (для Молдовы);***Method 3 (for Moldova)
+метод 4 (метод 2 с послескидками);***Method 4 (Method 2 with the discount)
+Метод расчета;***Method of calculation
+Миллисекунды;***milliseconds
+Мин. длительность;***Min. duration
+Мин.длит.;***Min.dur.
+Мин.длительность;***Min.duration
+мин:сек;***min:sec
+мм/сс;***mm/ss
+Модуль работников Канала;***Module of the channel employees
+Монтажный лист;***Playlist
+;***Playlist 1=@1###Playlist 2=@2###Playlist 3=@3###Playlistт 4=@4###Playlist 5=@5###Playlist 6=@6###Playlist 7=@7###Playlist 8=@8###Playlist 9=@9###
+монтажный лист одобрили;***Playlist has been approved
+Монтажный лист...;***Playlist...
+мсек;***msec
+на всех каналах;***on all channels
+на канале;***on the channel
+на медиа-носителе;***on the media carrier
+надб. основных;***надб. основных
+надб. остаточных;***надб. остаточных
+надбавка;***markup
+Надбавка/скидка;***markup/discount
+Нажмите здесь что-бы изменить пароль пользователя;***Click/Press here to change the user passworh
+Название;***Name
+Название GFK;***Name of GFK
+название жанра;***name of a genre
+Название используемого в сессии алгоритма сжатия передаваемых через сеть данных;***The name of the algorithm used in the compression session of  the data transmitted over the network
+Название используемого в сессии алгоритма шифрования передаваемых через сеть данных;***The name of the encryption algorithm used in the session transmitted over the data network
+Название канала;***Name of the channel
+Название категории;***Name of the category
+название клиента;***Name of the client
+Название клипа;***Name of the clip
+Название клипа GFK;***Name of the clip GFK
+Название компании;***name of the company
+название компании канала;***Name of the channel company
+название оригинальное;***original name
+Название передачи;***name of the program
+Название по GFK;***Name of the program by GFK
+Название программы;***Name of the program
+Название продавца;***Name of the seller
+название рабочее;***Working name 
+Название ролика;***Name of the clip
+Названию;***Name
+Названия;***Names
+Назначить зарегистрированный продукт клиенту;***Assign the registered product to the client
+Назначить клиенту;***Assign to the client
+Назначить медиафайл для всех региональных роликов;***Assign a media file to all regional clips
+Назначить медиафайл с учетом региональнх хранилищ;***Assign a media file to all regional storages
+Найден;***Found
+Найден файл;***File has been found
+найдено больше одного;***found more than one
+Найти;***Find
+налог с рекламы;***advertising tax
+Наполнение;***Filling
+Настройка отбивок;***jingle settings
+Настройка отбивок...;***jingle settings...
+Настройка параметров редактора размещений;***Setting of the placement editor parameters
+Настройка подсветки блоков;***Настройка подсветки блоков
+Настройки;***Settings
+Настройки параметров отображения сетки;***Settings of the grid displaying parameters
+Настройки сеток...;***Grid settings...
+Настройки...;***Settings...
+Начало;***Beginning/start
+Начало в 48;***Начало в 48
+начало в файле(time code);***начало в файле(time code)
+начало периода;***начало периода
+Начало показа в 48-и часовом измерении;***Начало показа в 48-и часовом измерении
+начало сеанса;***начало сеанса
+начальный адрес;***initial address
+Начать генерацию отчета;***Start the report generation
+Начинается с 1-го января;***Starting from January 1
+НДС;***VAT
+Не зарегистрировано ни одного клиента!;***no registered customers!
+не интегрированные;***not integrated
+не использовать прогноз в факте GRP;***do not use the forecast in fact of GRP
+не использовать прогноз в факте SPOT;***do not use the forecast in fact of SPOT
+не используется;***not in use
+не найден;***not found
+не найден локально;***not found locally
+не найден на фтп;***не найден на фтп
+не определен;***not defined
+не отмечено;***not indicated
+не отображать информацию о продавце;***do not display information about the seller
+Не поддерживается связь между основным и региональным каналом для этой передачи;***the connection between the main and regional channels for this broadcast is not supported.
+не подключен;***not connected
+Не привязан;***not tied
+не связ.;***not tied
+не связан;***not tied
+не совп.длит.;***duration doesn't match
+не совп.назв.;***name doesn't match
+не совп.форм.;***format doesn't match
+Не совпадает длительность;***duration doesn't match
+Не совпадает название;***name doesn't match
+Не совпадает формат;***format doesn't match
+Не указан %s;***% is not set
+Невозможно добавить заказ;***You can not add an order
+Недельное размещение;***Weekly placement
+Недельное размещение...;***Weekly placement...
+неделя на одном листе;***Week on the single page
+Неделя на одном листе=@1###По дням (1)=@2###По дням (2)=@3###Разрывы между передачами=@4###Экспорт в MS Word=@5###;***Week on the single page=@1###By days (1)=@2###By days (2)=@3###Breaks between programs=@4###Export to MS Word=@5###
+Необходимо выбрать канал;***You must select the channel
+Необходимо выбрать клиента;***You must to select a client
+Необходимо выбрать ролики;***You must select clips
+неопр;***неопр
+неопределено;***undefined/not selected
+Нет;***No
+Нет данных;***No data
+Нет доступных каналов;***No channels available
+Нет доступных клиентов;***No clients available
+низко-приоритетные заказы (НПР);***low priority orders (LPO)
+ничего не делать;***ничего не делать
+новое время;***new time
+Новые временные промежутки;***New time breaks
+Новый заказ;***New order
+Новый заказ (тест!!!);***New order (test!!!)
+Новый канал;***New channel
+Новый клиент;***New client
+Новый менеджер;***New manager
+Новый пароль;***New password
+Новый продавец;***New seller
+Новый ролик;***New clip
+Номер;***Number
+номер uid ролика;***number of uid clip
+Номер блока;***block number
+Номер блока в пределах передачи;***The block number within the program
+номер заказа;***Order number
+номер каcсеты;***cassette number
+номер канала;***channel number
+номер категории;***category number
+номер клиента;***client number
+Номер позиции ролика в блоке;***the clip order number in the block
+Номер порта сервера, к которому осуществлено подключение клиента в этой сессии;***The server port number the client connection is provided by within this session.
+Номер ролика;***Clip number
+номер ролика на VS2000;***clip nubmer on VS2000
+номер серии;***number of  epiosode
+Нормативы рекламного времени;***Standards of advertising time
+Нормативы рекламного времени...;***Standards of advertising time...
+Носители;***Carriers
+Носитель;***Carrier
+ноя;***nov
+Ноябрь;***November
+нпр;***нпр
+нпр размещение;***нпр размещение
+НПР заказ;***LPO order
+НПР заказ (низко-приоритетное размещение);***LPO order (low priority orders )
+нпр размещения подтверждены;***LPO confirmed
+НПР условие;***LPO order
+НПР-размещения подтверждены;***LPO placements confirmed
+Нулевая длительность события;***Zero duration of the event
+Нумерация;***numbering
+Нумерация блоков;***The numbering of the blocks
+Нумерация недель;***The numbering of the  weeks
+Область;***Area
+Обновить;***update
+Обновить данные;***update  the data
+Обновить категории для всех рекламных продуктов данного продукта?;***Do you want to update categories for all advertising products of this product?
+Обновить медианоситель;***Update the media carrier
+Обновить медианоситель..;***Update the media carrier..
+Обновить список перечитав данные с сервера;****** Update the list of reading data from the server
+Обновление медиаматериала для размещений за период;***Update media material for placements for the period
+Обработанно;***processed
+Обработка (тест!!!);***processing (test!!!)
+Обработка переполнений;***Processing of overflows/overlaps
+Образец;***Sample
+Образец отчета;***report sample 
+общ. скидка;***total discount
+общая;***total
+Общая информация;***general information
+общая скидка;***total discount
+Общая строка c суммой;***General line with the amount
+Общее;***General
+Общие;***General
+Общий;***General
+Общий уровень сжатия;***The general level of compression
+объект;***object
+объем в секундах;***volume in seconds
+Объем занятой размещениями части блока, сек;***The volume of the block part occupied by placements, sec
+Объем размещения;***Placement volume
+Объем свободной от размещений части блока, сек;***The volume of the block area free from placements, sec
+объем, сек;***volume, sec
+Обычное;***Regular
+обычный;***Regular
+Обычный заказ;***Regular order
+Обычный###Float###НПР###- (обобщенный отчет)###;***Regular###Float###LPO###- (general report)###
+Ограничение букируемого времени (%);***Limitation of time available for booking (%)
+ограничение по заявленным бюджетам;***limitation by budget
+ограничение по квоте времени для клиента;***Limitation by the time quote for the client
+Ограничения;***Limitations
+Ограничения по категории продукта;***Limitations by product category
+Ограничения по продукту;***Limitations by product 
+Ограничения по производителю;***Limitations by manrfacturer 
+Одобрение;***Approval
+одобрение корректировки;***approval for editing
+Одобрение корректировок;***approvals for editing
+одобрение монтажного листа;***approval of the playlist
+одобрение формирования;***approval of formation 
+Одобрили;***Approved
+Одобрить;***Approve
+Одобрить ТЖС;***Approve TGG
+Ок;***Ok
+ок!;***ok!
+Окна;***Windows
+Окно;***Window
+окончание;***the end 
+окт;***oct
+Октябрь;***October
+описание;***description
+Описание, заметки;***Description, notes
+описанию;***description
+опорное время;***опорное время
+определить показ;***identify showing
+Оптимизировать параметры подключения для достижения максимальной скорости обмена с сервером;***Optimize connection settings for the maximum server exchange rate
+Оптимизировать...;***Optimize...
+Опции;***Options
+оригинальное;***original 
+оригинальное название;***original name
+осн;***main
+осн.размещение;***main placement
+основная;***main
+основное;***main
+основной канал:;***main channel:
+Остаток места в блоке;***Available space in the block
+остаточный;***available
+от;***from
+От начала;***From start
+отбивка до;***jingle before
+отбивка после;***jingle after
+Отбивка после коммерческой части;***jingle after commercial part
+Отбивки;***jingles
+Отбивки уже используются.;***jingles are in use
+Отбивки...;***Jingles...
+Отбить;***jingle
+Отбить :);***jingle :)
+Отбить вставками;***jingle with spots
+Отбить вставками...;***Jingle with spots..
+ответ сервера;***server response
+Отклонение(мин);***Deviation (min)
+отклонить размещение;***cancel placement
+Открепить все;***Открепить все
+Открывать ли окно параметров объекта сетки (передачи, вставки...) после его перемещения;***Открывать ли окно параметров объекта сетки (передачи, вставки...) после его перемещения
+Открывать ли окно параметров объекта сетки (передачи, вставки...) после его создания;***Открывать ли окно параметров объекта сетки (передачи, вставки...) после его создания
+открыто;***open
+Открыто (сек);***Open (sec)
+Открыто (%);***Open (%)
+открыто/макс.;***open/max.
+открытое время/заполнение;***open time/filling
+открыть папку;***open the folder
+Открыть..;***Open..
+Отмена;***cancellation
+Отмена операции будет невозможна!;***You will not be able to cancel this operation!!
+Отменить;***Cancel
+Отменить ПНПР (заказ);***Отменить ПНПР (заказ)  Cancel LPO (order) ?
+Отменить последние внесенные изменения и закрыть окно;***Cancel recent changes and close the window
+Отменить размещение заказа;***Cancel order placement
+"Отметить ""Вышел""";"***mark ""Out"""
+"Отметить ""Снят""";"***mark ""removed"""
+Отображать;***display
+"Отображать ""архивные"" ролики";"***Display ""archival"" clips"
+Отображать все;***Display all
+Отображать вставки;***Display spots
+Отображать очередь;***Display queue
+Отображать очередь НПР;***Display LPO queue
+Отображать передачи;***Display programs
+Отображать переполнения рекламы;***Display advertising overflow
+Отображать разрывы;***Display breaks
+Отображать сетки за;***Display grids for
+отображать:;***Display:
+Отображть также системные группы;***Display system group
+Отправил;***sent/submitted
+Отправить;***send/submit
+Отправить в буфер;***Send to a buffer
+Отправить размещения в буфер;***Send placemects to a buffer
+Отправить сообщение пользователю;***Send a message to the user
+Отправить сообщение...;***Send a message...
+Отправить...;***Send...
+Отправка;***sending 
+отправлен;***sent
+отправлена;***sent
+Отправлено;***sent
+отставшееся переполнение сбрасывать в буфер;***record the remaining overflow to the buffer
+Отсутствие медианосителя;***No media carriers
+отсутствует;***no/ not available
+Отсутствует блок.;***No block
+Отчет;***Report
+Отчет по использованию коммерческого времени;***Report on the use of commercial time
+Отчет по использованию коммерческого времени по часам;***Report on the use of commercial time by hours
+Отчет по размещениям=@1###Рабочий журнал=@2###;***Report on placements=@1###Workbook=@2###
+Отчет стоимостей=@1###Отчет стоимостей 2=@2###Обобщенный отчет по клиентам=@3###Обобщенный отчет по заказам=@4###Отчет по клиентам и рекламодателям=@5###Отчет стоимостей 3=@6###;***Report on pricing=@1###Report on pricing 2=@2###general report on clients=@3###general report on orders=@4###Report on clients and advertisers=@5###Report on pricing 3=@6###
+Отчет...;***Report...
+Отчеты;***Reports
+Отчеты по сетке;***Reports on the grid
+Отчеты по сетке...;***Report on the grid...
+Отчеты по стоимости;***Report on pricing
+Отчеты...;***Reports...
+Отчёт;***Report
+Отчёты;***Reports
+Отчёты...;***Reports...
+Официальные данные;***Official data
+Оформление;***Оформление
+Оформление категорий;***Оформление категорий
+Оформление категорий...;***Оформление категорий...
+Оформление!;***Оформление!
+Оформления;***Оформления
+Оформления...;***Оформления...
+Очередь;***Queue
+очередь НПР;***Queue of LPO
+очистить;***Clear
+Очистить рейтинги вставок;***Clear spot ratings
+Очистить весь день;***Clear whole day
+Очистить все;***Clear all
+Очистить день;***Clear the day
+Очистить медиа файл;***Clear media file
+Очистить медианоситель;***Clear media carrier
+Очистить медианоситель...;***Clear media carrier...
+Очистить медиафайл;***Clear media file
+Очистить рейтинги программ;***Очистить рейтинги программ
+Ошибка;***Ошибка
+п.плав.;***п.плав.
+Папка;***Папка
+Параментры канала;***Параментры канала
+параметры;***параметры
+Параметры вставки;***Параметры вставки
+Параметры жанровой сетки;***Параметры жанровой сетки
+Параметры заказа по умолчанию;***Параметры заказа по умолчанию
+Параметры нового заказа###Название заказа: %e_name_p###Продукт: %e_adv_product_id_p###Канал: %e_channel_sid_p###Период действия:### с %e_date_start_p по %e_date_end_p###;***Параметры нового заказа###Название заказа: %e_name_p###Продукт: %e_adv_product_id_p###Канал: %e_channel_sid_p###Период действия:### с %e_date_start_p по %e_date_end_p###
+параметры отображения сетки;***параметры отображения сетки
+Параметры размещения;***Параметры размещения
+Параметры редактора сетки;***Параметры редактора сетки
+Пароль;***Пароль
+Первая неделя из 4-х дней;***Первая неделя из 4-х дней
+Первая полная неделя;***Первая полная неделя
+перебивка;***перебивка
+"Перевести заказ в режим ""размещение""";"***Перевести заказ в режим ""размещение"""
+Перевести заказ в режим рассчета (сверки);***Перевести заказ в режим рассчета (сверки)
+"перевести заказ в состояние ""планирование""";"***перевести заказ в состояние ""планирование"""
+"Перевести заказ в состояние ""подтвержден""";"***Перевести заказ в состояние ""подтвержден"""
+Перевести заказ в сотояние рассчета (сверки);***Перевести заказ в сотояние рассчета (сверки)
+Перевести сетку в режим формирования;***Перевести сетку в режим формирования
+перед;***перед
+Передано;***Передано
+передач;***передач
+Передача;***Передача
+Передача привязана ко времени выхода;***Передача привязана ко времени выхода
+Передачи;***Передачи
+Передачи и вставки;***Передачи и вставки
+Передачи###Вставки###Ролики###Вторичные события###;***Передачи###Вставки###Ролики###Вторичные события###
+Перезалить;***Перезалить
+Переменные в поле Текст######%NAME% - для добавления названия текущей передачи ######%NAME_NEXT% - для добавления названия следующей передачи #########Например,###Далее %NAME_NEXT%;***Переменные в поле Текст######%NAME% - для добавления названия текущей передачи ######%NAME_NEXT% - для добавления названия следующей передачи #########Например,###Далее %NAME_NEXT%
+Переместить;***Переместить
+Перенести;***Перенести
+Переполнение;***Переполнение
+Переполнение во вставке;***Переполнение во вставке
+Период;***Период
+Период действия;***Период действия
+Период за который будут отображаться квоты;***Период за который будут отображаться квоты
+Период за который будут отображаться сетки;***Период за который будут отображаться сетки
+период с;***период с
+Период:;***Период:
+плав.;***плав.
+плавающее размещение;***плавающее размещение
+План;***План
+План эфира;***План эфира
+"План, GRP30""";"***План, GRP30"""
+Планер;***Планер
+Планер по заказу;***Планер по заказу
+планирование;***планирование
+Планировщик;***Планировщик
+Планируемый показ;***Планируемый показ
+планируется демонстрация;***планируется демонстрация
+Плановый WGRP;***Плановый WGRP
+плану;***плану
+Пн;***Пн
+Пн 01.08.2005;***Пн 01.08.2005
+пнпр;***пнпр
+по;***по
+по программам;***по программам
+по суткам;***по суткам
+по суткам...;***по суткам...
+по умолч.;***по умолч.
+по умолчанию;***по умолчанию
+по часам;***по часам
+по часам...;***по часам...
+Подвиги;***Подвиги
+подгон.;***подгон.
+Подготовка к єкспорту DigiTV;***Подготовка к єкспорту DigiTV
+Подготовка для экспорта в ListBox;***Подготовка для экспорта в ListBox
+Подключение;***Подключение
+Подключение к серверу;***Подключение к серверу
+Подключиться;***Подключиться
+Подключиться как другой пользователь;***Подключиться как другой пользователь
+Подключиться...;***Подключиться...
+Подставить медиа носители;***Подставить медиа носители
+Подтвердить;***Подтвердить
+подтвердить НПР;***подтвердить НПР
+Подтвердить НПР (дни);***Подтвердить НПР (дни)
+Подтвердить НПР (дни)...;***Подтвердить НПР (дни)...
+Подтвердить НПР (заказ);***Подтвердить НПР (заказ)
+Подтвердить размещение заказа;***Подтвердить размещение заказа
+подтвержден;***подтвержден
+подтвержден НПР;***подтвержден НПР
+Подтверждение нового пароля;***Подтверждение нового пароля
+подтвержденное плавающее размещение;***подтвержденное плавающее размещение
+подтвержденное размещение нпр;***подтвержденное размещение нпр
+подтвержденные размещения;***подтвержденные размещения
+подчеркнутый;***подчеркнутый
+Пожалуйста, заполните название.;***Пожалуйста, заполните название.
+поз;***поз
+поз.;***поз.
+Поза межами;***Поза межами
+поза межами держ. мовлення;***поза межами держ. мовлення
+поза межами мовлення;***поза межами мовлення
+Поздравляю;***Поздравляю
+Позиция;***Позиция
+Позиция ролика в блоке;***Позиция ролика в блоке
+Поиск;***Поиск
+Поиск видеоматериалов;***Поиск видеоматериалов
+Поиск видеоматериалов...;***Поиск видеоматериалов...
+Поиск по;***Поиск по
+Показ;***Показ
+показ/повтор;***показ/повтор
+Показать;***Показать
+Показать все категории;***Показать все категории
+Показать датасет;***Показать датасет
+Показать отбивки;***Показать отбивки
+Показать продавцов;***Показать продавцов
+Показать...;***Показать...
+Показывать;***Показывать
+Показывать все;***Показывать все
+Полное имя;***Полное имя
+положение;***положение
+получена;***получена
+Получение;***Получение
+Получил;***Получил
+Получить;***Получить
+Получить из производства;***Получить из производства
+Получить из производства...;***Получить из производства...
+Получить отчёт;***Получить отчёт
+Получить...;***Получить...
+Пользователи;***Пользователи
+Пользователи клиента;***Пользователи клиента
+Пользователь;***Пользователь
+Пользователь &разрешен;***Пользователь &разрешен
+пользователь активен;***пользователь активен
+Пользователь(группа);***Пользователь(группа)
+Понедельник;***Понедельник
+Попытаться подключиться с указанными параметрами;***Попытаться подключиться с указанными параметрами
+Порт;***Порт
+порт сервера;***порт сервера
+после;***после
+после перемещения;***после перемещения
+после создания;***после создания
+ПР;***ПР
+пр.вид.;***пр.вид.
+пр.длит.;***пр.длит.
+пр.разм.;***пр.разм.
+Права доступа в системе;***Права доступа в системе
+правило фиксации;***правило фиксации
+Править;***Править
+Править вставку;***Править вставку
+Править вставку...;***Править вставку...
+Править диапазон;***Править диапазон
+Править передачу;***Править передачу
+Править передачу...;***Править передачу...
+Правка;***Правка
+Праздничный;***Праздничный
+Прайсовая длительность;***Прайсовая длительность
+прг;***прг
+предмонтажная подготовка;***предмонтажная подготовка
+предупреждение;***предупреждение
+Предупреждения;***Предупреждения
+Предыдущий год;***Предыдущий год
+Предыдущий месяц;***Предыдущий месяц
+прем;***прем
+Премиум позиции;***Премиум позиции
+Премиум позиция;***Премиум позиция
+При загрузке файла появились проблемы (см. лог файл);***При загрузке файла появились проблемы (см. лог файл)
+При проверке обнаружены ошибки, продолжить?;***При проверке обнаружены ошибки, продолжить?
+при расчете премиум надбавки не учитывается длительность ролика;***при расчете премиум надбавки не учитывается длительность ролика
+Привилегии;***Привилегии
+Привязать все передачи в выбранном дне к времени выхода;***Привязать все передачи в выбранном дне к времени выхода
+привязка;***привязка
+Привязка выбранной передачи либо вставки ко времени выхода;***Привязка выбранной передачи либо вставки ко времени выхода
+Прием;***Прием
+признак;***признак
+Приложение;***Приложение
+Применить;***Применить
+примечание;***примечание
+примечания;***примечания
+Принял;***Принял
+Принято;***Принято
+Проверить;***Проверить
+Проверьте правильность введенной информации и нажмите Далее для выполнения операции;***Проверьте правильность введенной информации и нажмите Далее для выполнения операции
+Проверьте правильность введенных расценок по времени;***Проверьте правильность введенных расценок по времени
+Проверьте правильность введенных скидок;***Проверьте правильность введенных скидок
+"прогноз GRP 30""";"***прогноз GRP 30"""
+прогноз.рейтинг;***прогноз.рейтинг
+прогнозная;***прогнозная
+Прогнозная длительность;***Прогнозная длительность
+прогнозная стоимость;***прогнозная стоимость
+прогнозные###фактические###прогноз/факт###;***прогнозные###фактические###прогноз/факт###
+Прогнозный рейтинг;***Прогнозный рейтинг
+Прогнозный рейтинг размещения;***Прогнозный рейтинг размещения
+программа;***программа
+"Программа ""%s"" c категорией %s";"***Программа ""%s"" c категорией %s"
+программа и;***программа и
+программа удалена;***программа удалена
+Продавец;***Продавец
+продавец видит;***продавец видит
+продавец размещает;***продавец размещает
+Продавцы;***Продавцы
+Продавцы, зарегистрированные в системе;***Продавцы, зарегистрированные в системе
+Продавцы...;***Продавцы...
+Продолжительность сессии;***Продолжительность сессии
+Продукт;***Продукт
+Продукт:;***Продукт:
+продуктID;***продуктID
+Продукты;***Продукты
+Продукты клиентов;***Продукты клиентов
+Производители;***Producers
+Производитель;***Producer
+Производитель продукта;***Производитель продукта
+Производитель рекламируемого продукта;***Производитель рекламируемого продукта
+Производство;***Производство
+Просмотр;***Просмотр
+просмотр финансов для клиента;***просмотр финансов для клиента
+Прочее;***Прочее
+прочие параметры;***прочие параметры
+Пт;***Пт
+Пт 05.08.2005;***Пт 05.08.2005
+пустые вставки отображать как события;***пустые вставки отображать как события
+пути;***пути
+Путь;***Путь
+Путь для обновлений в локальной сети;***Путь для обновлений в локальной сети
+Путь к ролику;***Путь к ролику
+Путь к файлам;***Путь к файлам
+путь к файлу;***путь к файлу
+Путь на диске к папке;***Путь на диске к папке
+Пятница;***Пятница
+Р.Стоимость;***Р.Стоимость
+Работа с Harris-системой;***Работа с Harris-системой
+Работники;***Работники
+рабочее;***рабочее
+рабочее название;***рабочее название
+Рабочее название %e_name_nat_p###Оригинальное название %e_name_original_p###Производитель %e_producer_name_p###Тип продукта : %e_product_type_p###Длительность: %e_Duration_p###Количество серий: %e_series_p###;***Рабочее название %e_name_nat_p###Оригинальное название %e_name_original_p###Производитель %e_producer_name_p###Тип продукта : %e_product_type_p###Длительность: %e_Duration_p###Количество серий: %e_series_p###
+Рабочий;***Рабочий
+Рабочий журнал;***Рабочий журнал
+Равномерно разделять передачи;***Равномерно разделять передачи
+Разблокировать программы в дне;***Разблокировать программы в дне
+Различная дополнительная информация;***Различная дополнительная информация
+Различные отчеты по сетке;***Различные отчеты по сетке
+разм.;***разм.
+Размер;***Размер
+Размер отображаемого лога;***Размер отображаемого лога
+Разместить;***Разместить
+Разместить группу заказов;***Разместить группу заказов
+Разместить группу заказов...;***Разместить группу заказов...
+Разместить запланированные выходы в реальную сетку;***Разместить запланированные выходы в реальную сетку
+Размещаемые продукты;***Размещаемые продукты
+Размещаемый продукт;***Размещаемый продукт
+Размещен ролик %s во вставку %s. Заказ %s;***Размещен ролик %s во вставку %s. Заказ %s
+размещение;***размещение
+Размещение (день)...;***Размещение (день)...
+Размещение (неделя)...;***Размещение (неделя)...
+Размещение автомат;***Размещение автомат
+Размещение автомат...;***Размещение автомат...
+Размещение заказа;***Размещение заказа
+Размещение заказа в формате монтажного листа;***Размещение заказа в формате монтажного листа
+Размещение на неделю;***Размещение на неделю
+Размещение роликов в формате недельной сетки;***Размещение роликов в формате недельной сетки
+Размещение...;***Размещение...
+Размещений;***Размещений
+Размещения;***Размещения
+Размещения канала;***Размещения канала
+Размещения по заказу;***Размещения по заказу
+Разное;***Разное
+Разрешен;***Разрешен
+Разрешить переполнение вставок;***Разрешить переполнение вставок
+Разрешить точку доступа;***Разрешить точку доступа
+Разрывы;***Разрывы
+Разрывы между передачами;***Разрывы между передачами
+Расположение блока;***Расположение блока
+Расположение блока относительно передачи;***Расположение блока относительно передачи
+Распределение целевых Float объемов;***Распределение целевых Float объемов
+Рассчет;***Рассчет
+Рассчетная стоимость;***Рассчетная стоимость
+Расценки;***Расценки
+Расценки...;***Расценки...
+расчет;***расчет
+Расширенная информация о сессии;***Расширенная информация о сессии
+Регион;***Регион
+Регион-предок;***Регион-предок
+регион. заполн.;***регион. заполн.
+регион. заполнение;***регион. заполнение
+регион.вставка;***регион.вставка
+региональная;***региональная
+Региональная (сек);***Региональная (сек)
+регионального маркера;***регионального маркера
+региональной (сек);***региональной (сек)
+Регионы;***Регионы
+Регионы..;***Регионы..
+Регистрации;***Регистрации
+Регистрация;***Регистрация
+Регистрация версий;***Регистрация версий
+Регистрация версий...;***Регистрация версий...
+Регистрация клиента ### Продавец: %e_saler_sid_p### Название клиента: %e_client_name_p###;***Регистрация клиента ### Продавец: %e_saler_sid_p### Название клиента: %e_client_name_p###
+Регистрация нового пользователя сервера;***Регистрация нового пользователя сервера
+Регистрация работника;***Регистрация работника
+Регистрируется новый;***Регистрируется новый
+Регистрируется новый канал ###%e_Channel_Name_p###;***Регистрируется новый канал ###%e_Channel_Name_p###
+Регистрируется новый продавец:###%e_Saler_Name_p###;***Регистрируется новый продавец:###%e_Saler_Name_p###
+Регистрируется продукт клиента ###Название: %e_adv_product_id_p###Условие размещение: %e_rulez_id_p###;***Регистрируется продукт клиента ###Название: %e_adv_product_id_p###Условие размещение: %e_rulez_id_p###
+Регистрируется продукт: ###Клиент: %e_client_sid_p###Продукт: %product_name###Производитель: %e_producer_name_p###Рекламодатель: %e_advertiser_name_p###Категория продукта: %e_category_name_p###;***Регистрируется продукт: ###Клиент: %e_client_sid_p###Продукт: %product_name###Производитель: %e_producer_name_p###Рекламодатель: %e_advertiser_name_p###Категория продукта: %e_category_name_p###
+Регистрируется ролик %e_name_p###Владелец ролика: %e_owner_sid_p###Продукт: %e_adv_product_id_p###Длительность ролика: %e_duration_p###Категория ролика %category###;***Регистрируется ролик %e_name_p###Владелец ролика: %e_owner_sid_p###Продукт: %e_adv_product_id_p###Длительность ролика: %e_duration_p###Категория ролика %category###
+Регистрируется ролик###Категория:%e_category_id_p###Название:%e_name_p###Длительность:%e_duration_p###;***Регистрируется ролик###Категория:%e_category_id_p###Название:%e_name_p###Длительность:%e_duration_p###
+Редактировать;***Редактировать
+Редактировать заказ;***Редактировать заказ
+Редактировать заказ...;***Редактировать заказ...
+Редактировать..(ТЕСТ!!!!);***Редактировать..(ТЕСТ!!!!)
+Редактировать...;***Редактировать...
+Редактировть пользователя;***Редактировть пользователя
+Режим сбора одобрений сетки;***Режим сбора одобрений сетки
+Режим сериализации;***Режим сериализации
+режим сериализации?;***режим сериализации?
+Режим формирования сетки;***Режим формирования сетки
+Результат;***Результат
+Результат отбивки;***Результат отбивки
+результат:;***результат:
+рейтинг;***рейтинг
+Рейтинги;***Рейтинги
+Рейтинги...;***Рейтинги...
+Рекламируемый продукт;***Рекламируемый продукт
+Рекламодатель;***Рекламодатель
+Рекламодатель:;***Рекламодатель:
+Родительский носитель;***Родительский носитель
+ролик;***ролик
+ролик ID;***ролик ID
+ролик UID;***ролик UID
+ролик несколько раз в одном блоке;***ролик несколько раз в одном блоке
+Ролик подгонки блока;***Ролик подгонки блока
+Ролик с названием %s;***Ролик с названием %s
+Ролик уже используется в размещении.;***Ролик уже используется в размещении.
+роликID;***роликID
+Ролики;***Ролики
+Ролики в блоке;***Ролики в блоке
+Ролики используемые в заказе;***Ролики используемые в заказе
+Ролики на кассете;***Ролики на кассете
+ролики по одному продукту несколько раз в одном блоке;***ролики по одному продукту несколько раз в одном блоке
+Ролики продукта;***Ролики продукта
+Ролики...;***Ролики...
+Роликов на кассете;***Роликов на кассете
+Роль;***Роль
+Роль: %e_role_sid_p###Пользователь: %e_user_sid_p###;***Роль: %e_role_sid_p###Пользователь: %e_user_sid_p###
+с;***с
+с основным каналом ?;***с основным каналом ?
+с пл.точкой;***с пл.точкой
+С помощью этого мастера Вы сможете;***С помощью этого мастера Вы сможете
+С помощью этого мастера Вы сможете зарегестрировать нового продавца в системе;***С помощью этого мастера Вы сможете зарегестрировать нового продавца в системе
+С помощью этого мастера Вы сможете зарегистрировать в системе нового клиента;***С помощью этого мастера Вы сможете зарегистрировать в системе нового клиента
+С помощью этого мастера Вы сможете зарегистрировать в системе нового пользователя;***С помощью этого мастера Вы сможете зарегистрировать в системе нового пользователя
+С помощью этого мастера Вы сможете зарегистрировать новый заказ;***С помощью этого мастера Вы сможете зарегистрировать новый заказ
+С помощью этого мастера Вы сможете зарегистрировать новый медиа-носитель;***С помощью этого мастера Вы сможете зарегистрировать новый медиа-носитель
+С помощью этого мастера Вы сможете зарегистрировать новый ролик;***С помощью этого мастера Вы сможете зарегистрировать новый ролик
+С помощью этого мастера Вы сможете зарегистрировать новый ролик в системе;***С помощью этого мастера Вы сможете зарегистрировать новый ролик в системе
+С помощью этого мастера Вы сможете зарегистрировать размещаемый клиентом продукт;***С помощью этого мастера Вы сможете зарегистрировать размещаемый клиентом продукт
+С помощью этого мастера Вы сможете зарегистроровать новый канал в системе;***С помощью этого мастера Вы сможете зарегистроровать новый канал в системе
+С помощью этого мастера Вы сможете создать заявку на регистрацию рекламируемого продукта;***С помощью этого мастера Вы сможете создать заявку на регистрацию рекламируемого продукта
+С помощью этого мастера Вы сможете создать контракт между Каналом и Продавцом;***С помощью этого мастера Вы сможете создать контракт между Каналом и Продавцом
+С помощью этого мастера Вы сможете создать несколько заказов;***С помощью этого мастера Вы сможете создать несколько заказов
+"С помощью этого мастера Вы сможете создать новую пустую жанровую сетку. Нажмите ""Далее"" чтобы начать создание.";"***С помощью этого мастера Вы сможете создать новую пустую жанровую сетку. Нажмите ""Далее"" чтобы начать создание."
+С помощью этого мастера Вы сможете создать новый видео-продукт;***С помощью этого мастера Вы сможете создать новый видео-продукт
+С помощью этого мастера Вы сможете создать регион, область или город;***С помощью этого мастера Вы сможете создать регион, область или город
+с фиксацией;***с фиксацией
+СА;***СА
+Сб;***Сб
+Сб 06.08.2005;***Сб 06.08.2005
+Сбор одобрений;***Сбор одобрений
+Сброс всех настроек;***Сброс всех настроек
+сброшено каналом;***сброшено каналом
+Сверка;***Сверка
+свободно;***свободно
+свободно с учетом неподтвержденных размещений;***свободно с учетом неподтвержденных размещений
+Связать;***Связать
+сек;***сек
+Секунды;***Секунды
+сен;***сен
+Сентябрь;***Сентябрь
+Сервер;***Сервер
+Сервера для обновлений;***Сервера для обновлений
+Сервис;***Сервис
+сериал;***сериал
+серии;***серии
+серия;***серия
+Сетка;***Сетка
+Сетка утверждена;***Сетка утверждена
+Сетки;***Сетки
+Сетки...;***Сетки...
+Сжатие;***Сжатие
+системная;***системная
+сквозная;***сквозная
+скидка;***скидка
+скидка/надбавка;***скидка/надбавка
+"скидки создаются как ""общие""";"***скидки создаются как ""общие"""
+скрыть;***скрыть
+следующие сутки;***следующие сутки
+Следующий год;***Следующий год
+Следующий месяц;***Следующий месяц
+служ.;***служ.
+Служебные размещения;***Служебные размещения
+служебный;***служебный
+Смена пароля;***Смена пароля
+Смена пароля пользователя;***Смена пароля пользователя
+сменить пароль...;***сменить пароль...
+смещение;***смещение
+снят;***снят
+Снятые размещения;***Снятые размещения
+Снятые размещения...;***Снятые размещения...
+Снять либо установить привязку передачи ко времени;***Снять либу установить привязку передачи ко времени
+Снять отметки;***Снять отметки
+Событие;***Событие
+Событие без видеоматериала;***Событие без видеоматериала
+событие внутри;***событие внутри
+Событие с видеоматериалом;***Событие с видеоматериалом
+Совместимость роликов и вставок;***Совместимость роликов и вставок
+Совместимость роликов и вставок...;***Совместимость роликов и вставок...
+совп. позиции;***совп. позиции
+Согласование;***Согласование
+Создается контракт ###с продавцом %esid###действующий с %e_date_start_p по %e_date_end_p###;***Создается контракт ###с продавцом %esid###действующий с %e_date_start_p по %e_date_end_p###
+Создается Телевизионная Жанровая Сетка###%e_name_p###действующая с %e_date_start_p по %e_date_end_p###;***Создается Телевизионная Жанровая Сетка###%e_name_p###действующая с %e_date_start_p по %e_date_end_p###
+Создан;***Создан
+создана;***создана
+Создание группы заказов;***Создание группы заказов
+Создание нового диапазона;***Создание нового диапазона
+Создание связи;***Создание связи
+Создание ТЖС;***Создание ТЖС
+Создано рекламных продуктов:;***Создано рекламных продуктов:
+Создать вставку;***Создать вставку
+"Создать вставку ""ВНУТРИ""";"***Создать вставку ""ВНУТРИ"""
+Создать вставку внутри выбранной передачи;***Создать вставку внутри выбранной передачи
+Создать вставку после выбранной передачи;***Создать вставку после выбранной передачи
+Создать вставку...;***Создать вставку...
+Создать вторичное событие;***Создать вторичное событие
+Создать группу;***Создать группу
+Создать группу заказов;***Создать группу заказов
+Создать группу заказов...;***Создать группу заказов...
+Создать детальную сетку на основе жанровой;***Создать детальную сетку на основе жанровой
+Создать диапазон;***Создать диапазон
+Создать заказ;***Создать заказ
+Создать заказ...;***Создать заказ...
+Создать копию с выбранной строки;***Создать копию с выбранной строки
+Создать новую вставку;***Создать новую вставку
+Создать новую вставку перед выбранной передачей;***Создать новую вставку перед выбранной передачей
+Создать новую передачу;***Создать новую передачу
+Создать передачу;***Создать передачу
+Создать передачу...;***Создать передачу...
+Создать пользователя;***Создать пользователя
+Создать регион;***Создать регион
+Создать ролик;***Создать ролик
+Создать сетку...;***Создать сетку...
+Создать точку доступа;***Создать точку доступа
+Создать...;***Создать...
+Соимость по заказу;***Соимость по заказу
+сокр. назв.;***сокр. назв.
+сокр.назв.;***сокр.назв.
+Сообщение;***Сообщение
+сообщение об ошибке;***сообщение об ошибке
+Сопоставить;***Сопоставить
+Сопоставить все;***Сопоставить все
+соседи;***соседи
+Состояние;***Состояние
+Состояние заказа;***Состояние заказа
+Состояние размещения;***Состояние размещения
+Состояние:;***Состояние:
+Сохранение эфирной сетки в файл;***Сохранение эфирной сетки в файл
+Сохранить;***Сохранить
+Сохранить внесенные изменения;***Сохранить внесенные изменения
+Сохранить последние внесенные изменения;***Сохранить последние внесенные изменения
+Сохранить последние внесенные изменения и закрыть окно;***Сохранить последние внесенные изменения и закрыть окно
+Списки;***Списки
+Список;***Список
+Список всех размещений по заказу с возможностью групповой обработки;***Список всех размещений по заказу с возможностью групповой обработки
+Список размещений;***Список размещений
+Список размещений...;***Список размещений...
+Список серверов;***Список серверов
+спонс.;***спонс.
+спонсорская;***спонсорская
+Справочники;***Справочники
+Ср;***Ср
+Ср 03.08.2005;***Ср 03.08.2005
+Среда;***Среда
+сс;***сс
+Ставки %;***Ставки %
+Старт (time code);***Старт (time code)
+статус;***статус
+Степень сжатия данных;***Степень сжатия данных
+стоимости;***стоимости
+Стоимость;***Стоимость
+Стоимость заказа;***Стоимость заказа
+Стоимость по заказу;***Стоимость по заказу
+стоимость прог.;***стоимость прог.
+стоимость прогн.;***стоимость прогн.
+стоимость факт.;***стоимость факт.
+Столбцы;***Столбцы
+строка поиска;***строка поиска
+Суббота;***Суббота
+Субъекты;***Субъекты
+Сутки;***Сутки
+Сюда;***Сюда
+Тайм код;***Тайм код
+тайм код начала;***тайм код начала
+Тайм код начала воспроизведения;***Тайм код начала воспроизведения
+тайм-код;***тайм-код
+Таймкод;***Таймкод
+текст;***текст
+Текстовый заказ;***Текстовый заказ
+Текущий пароль;***Текущий пароль
+Телевизионные сетки;***Телевизионные сетки
+Телевизионные сетки...;***Телевизионные сетки...
+телеканала;***телеканала
+Телефоны;***Телефоны
+Тема;***Тема
+тип;***тип
+Тип видео-продукта;***Тип видео-продукта
+Тип видео-события;***Тип видео-события
+Тип времени;***Тип времени
+тип вставки;***тип вставки
+Тип интеграции ролика;***Тип интеграции ролика
+Тип канала;***Тип канала
+тип медиа-носителя;***тип медиа-носителя
+тип продукта;***тип продукта
+Тип размещения;***Тип размещения
+Тип региона;***Тип региона
+тип региона: %etypeArea###название: %e_name_p###предок: %root_area###;***тип региона: %etypeArea###название: %e_name_p###предок: %root_area###
+Тип события;***Тип события
+Типы медиа-носителей;***Типы медиа-носителей
+Типы медианосителей;***Типы медианосителей
+Типы медианосителей...;***Типы медианосителей...
+титр до;***титр до
+титр после;***титр после
+Титры;***Титры
+титры ON;***титры ON
+только без интеграции;***только без интеграции
+Только выбраный заказ;***Только выбраный заказ
+Только для float заказов;***Только для float заказов
+Только для НПР заказов;***Только для НПР заказов
+только интеграция;***только интеграция
+Только необработанные;***Только необработанные
+Только обработанные;***Только обработанные
+только региональные;***только региональные
+Только региональные блоки;***Только региональные блоки
+Только региональные данные;***Только региональные данные
+Точки доступа;***Точки доступа
+Трасса;***Трасса
+Трафик;***Трафик
+требуемая длительность;***требуемая длительность
+трубует пересчета;***трубует пересчета
+Туда;***Туда
+у продавца;***у продавца
+Убрать предупреждения;***Убрать предупреждения
+Убрать привязки всех передач в выбранном дне ко времени выхода;***Убрать привязки всех передач в выбранном дне ко времени выхода
+Убрать привязку ВСЕХ передач ко времени выхода в выбранном дне;***Убрать привязку ВСЕХ передач ко времени выхода в выбранном дне
+Удаление канала - необратимая операция. Вся связанная с каналом информация будет утерянна. Продолжить удаление?;***Удаление канала - необратимая операция. Вся связанная с каналом информация будет утерянна. Продолжить удаление?
+Удаление клиента - необратимая операция. Вся связанная с клиента информация будет утерянна. Продолжить удаление?;***Удаление клиента - необратимая операция. Вся связанная с клиента информация будет утерянна. Продолжить удаление?
+Удаление клиента - необратимая операция. Продолжить удаление?;***Удаление клиента - необратимая операция. Продолжить удаление?
+Удаление продавца - необратимая операция. Вся связанная с продавцом информация будет удалена из системы. Продолжить удаление?;***Удаление продавца - необратимая операция. Вся связанная с продавцом информация будет удалена из системы. Продолжить удаление?
+Удалить;***Удалить
+Удалить видеоматериал;***Удалить видеоматериал
+Удалить вставку;***Удалить вставку
+Удалить выбранные объекты;***Удалить выбранные объекты
+Удалить выбраный ролик?;***Удалить выбраный ролик?
+Удалить группу;***Удалить группу
+Удалить диапазон;***Удалить диапазон
+Удалить дозаполнения;***Удалить дозаполнения
+Удалить заказ;***Удалить заказ
+Удалить заявку;***Удалить заявку
+Удалить из буфера;***Удалить из буфера
+Удалить категорию;***Удалить категорию
+Удалить клип;***Удалить клип
+Удалить коэффициент;***Delete coefficient
+Удалить маркер;***Удалить маркер
+Удалить менеджера;***Удалить менеджера
+Удалить передачу;***Удалить передачу
+Удалить период;***Удалить период
+Удалить пользователя;***Удалить пользователя
+Удалить пользователя/группу;***Удалить пользователя/группу
+Удалить пустые места между телепередачами;***Удалить пустые места между телепередачами
+Удалить работника;***Удалить работника
+Удалить разрывы;***Удалить разрывы
+Удалить ролик;***Удалить ролик
+Удалить ролики *дозаполнения*?;***Удалить ролики *дозаполнения*?
+Удалить с кассеты;***Удалить с кассеты
+Удалить точку доступа;***Удалить точку доступа
+Удалить члена группы;***Удалить члена группы
+Удалить...;***Удалить...
+Ужать вставки;***Ужать вставки
+Укажите владельца ролика;***Укажите владельца ролика
+Укажите длительность ролика в сек.;***Укажите длительность ролика в сек.
+Укажите длительность ролика в секундах;***Укажите длительность ролика в секундах
+Укажите источник, с которогу будет вестись подача материала;***Укажите источник, с которогу будет вестись подача материала
+Укажите канал на котором планируется размещение роликов заказа;***Укажите канал на котором планируется размещение роликов заказа
+Укажите категорию ролика;***Укажите категорию ролика
+Укажите клиента для которого создаётся заявка;***Укажите клиента для которого создаётся заявка
+Укажите клиента по которому создаётся заказ;***Укажите клиента по которому создаётся заказ
+укажите название заказа;***укажите название заказа
+Укажите название канала и его тип;***Укажите название канала и его тип
+Укажите название категории продукта или выберите существующую категорию;***Укажите название категории продукта или выберите существующую категорию
+Укажите название клиента;***Укажите название клиента
+укажите название передачи;***укажите название передачи
+Укажите название продавца;***Укажите название продавца
+Укажите название продукта или выберите существующий продукт;***Укажите название продукта или выберите существующий продукт
+Укажите название ролика;***Укажите название ролика
+Укажите название создаваемой сетки;***Укажите название создаваемой сетки
+Укажите необходимую длительность воспроизведения материала;***Укажите необходимую длительность воспроизведения материала
+Укажите новый пароль;***Укажите новый пароль
+Укажите номер показа материала;***Укажите номер показа материала
+Укажите отметку, по которую необходимо воспроизвести метериал;***Укажите отметку, по которую необходимо воспроизвести метериал
+Укажите отметку, с которой необходимо воспроизвести метериал;***Укажите отметку, с которой необходимо воспроизвести метериал
+Укажите период на протяжении которого планируется размещение роликов этого заказа;***Укажите период на протяжении которого планируется размещение роликов этого заказа
+Укажите пользователя получающего роль;***Укажите пользователя получающего роль
+Укажите продавца, для которого регистрируется клиент;***Укажите продавца, для которого регистрируется клиент
+Укажите продукт;***Укажите продукт
+Укажите продукт, по которому создаётся ролик;***Укажите продукт, по которому создаётся ролик
+Укажите продукт, ролики которого будут использоватся в заказе;***Укажите продукт, ролики которого будут использоватся в заказе
+Укажите производителя продукта или выберите его из списка;***Укажите производителя продукта или выберите его из списка
+Укажите рабочее название нового ролика;***Укажите рабочее название нового ролика
+Укажите рекламодателя или выберите его из списка;***Укажите рекламодателя или выберите его из списка
+Укажите роль;***Укажите роль
+Укажите срок действия создаваемого контракта;***Укажите срок действия создаваемого контракта
+Укажите срок действия создаваемой жанровой сетки;***Укажите срок действия создаваемой жанровой сетки
+Укажите тип материала;***Укажите тип материала
+Укажите тип региона;***Укажите тип региона
+Укажите, будет ли это заказ неприоритетных размещений;***Укажите, будет ли это заказ неприоритетных размещений
+указана фиксированная стоимость для заказа;***указана фиксированная стоимость для заказа
+Уникальный номер сессии;***Уникальный номер сессии
+Упорядочить;***Упорядочить
+Упорядочить окна;***Упорядочить окна
+Управление доступом;***Управление доступом
+Управление основными правами доступа;***Управление основными правами доступа
+Управление учетными записями подключений к серверам;***Управление учетными записями подключений к серверам
+Упрощённая регистрация продуктов;***Упрощённая регистрация продуктов
+Уровень сжатия;***Уровень сжатия
+условие название;***условие название
+условие номер;***условие номер
+Условие размещение;***Условие размещение
+условных фиксаций подтверждены;***условных фиксаций подтверждены
+Установите флажок, если показ не был изначально запланирован;***Установите флажок, если показ не был изначально запланирован
+Установите этот флажок, если время начала относится к следующим суткам;***Установите этот флажок, если время начала относится к следующим суткам
+Установить все настройки системы по умолчанию;***Установить все настройки системы по умолчанию
+Установить одинаковое время выхода для выбранных объектов;***Установить одинаковое время выхода для выбранных объектов
+Установить одинаковое начальное время для выбранных объектов;***Установить одинаковое начальное время для выбранных объектов
+установить по умолчанию;***установить по умолчанию
+Установить привязку ВСЕХ передач в выбранном дне ко времени выхода;***Установить привязку ВСЕХ передач в выбранном дне ко времени выхода
+Установленный флажок означает, что пользователь имеет возможность работать в системе.###Очистка флажка позволяет запретить пользователю подключаться к серверу.;***Установленный флажок означает, что пользователь имеет возможность работать в системе.###Очистка флажка позволяет запретить пользователю подключаться к серверу.
+Установленный флажок означает, что пользователю доступны функции администрирования системы.;***Установленный флажок означает, что пользователю доступны функции администрирования системы.
+устаревший;***устаревший
+Утверждение;***Утверждение
+Утверждение корректировок;***Утверждение корректировок
+Утверждение монтажного листа;***Утверждение монтажного листа
+Учитывать длительность НПР и флоат;***Учитывать длительность НПР и флоат
+файл;***файл
+Файл для загрузки;***Файл для загрузки
+Файл импорта:;***Файл импорта:
+Файл на сервере;***Файл на сервере
+Файл найден;***Файл найден
+Файл не найден;***Файл не найден
+Файл не найден на диске;***Файл не найден на диске
+Файлы телевизионной сетки|*.gtv;***Файлы телевизионной сетки|*.gtv
+Файлы эфирной сетки|*.gtv;***Файлы эфирной сетки|*.gtv
+Факт;***Факт
+Факт выход;***Факт выход
+"Факт, GRP30""";"***Факт, GRP30"""
+Фактическая длительность;***Фактическая длительность
+Фактическая длительность показа материала;***Фактическая длительность показа материала
+факту;***факту
+Фамилия;***Фамилия
+Фамилия пользователя;***Фамилия пользователя
+Фамилия, имя;***Фамилия, имя
+фев;***фев
+Февраль;***Февраль
+фикс;***фикс
+фикс.;***фикс.
+фиксированная;***фиксированная
+фиксированный;***фиксированный
+Фиксировать (разблокировать);***Фиксировать (разблокировать)
+фильм;***фильм
+фильтр по регионам;***фильтр по регионам
+Фильтрация;***Фильтрация
+флаги;***флаги
+Флаги блока;***Флаги блока
+флаги категории вставки;***флаги категории вставки
+Флаги размещения;***Флаги размещения
+Флаги события;***Флаги события
+фомирование одобрили;***фомирование одобрили
+фона;***фона
+Формат Вещания;***Формат Вещания
+Формат вывода;***Формат вывода
+Формирование;***Формирование
+Формировать сетку;***Формировать сетку
+Формировать сетку...;***Формировать сетку...
+фтп;***фтп
+Характеристики;***Характеристики
+хронометраж;***хронометраж
+Цвет;***Цвет
+Цвет рамки;***Цвет рамки
+Цвет фона;***Цвет фона
+Цвет части дня;***Цвет части дня
+Цвета передач и вставок;***Цвета передач и вставок
+Целевая аудитория;***Целевая аудитория
+Целевая аудитория...;***Целевая аудитория...
+целевую аудиторию;***целевую аудиторию
+целое;***целое
+цена;***цена
+цена по условию;***цена по условию
+Ценообразование;***Ценообразование
+Части дня (тест);***Части дня (тест)
+Часть программы;***Часть программы
+Четверг;***Четверг
+чистая;***чистая
+чистая стоимость;***чистая стоимость
+Чт;***Чт
+Чт 04.08.2005;***Чт 04.08.2005
+чч : мин : сек;***чч : мин : сек
+чч/мм/сс;***чч/мм/сс
+чч:мм:сс;***чч:мм:сс
+Шаг;***Шаг
+шифр;***шифр
+Шифрование;***Шифрование
+Шифрование данных;***Шифрование данных
+Шкала времени;***Шкала времени
+Шрифт;***Шрифт
+экон.;***экон.
+эконом заказ;***эконом заказ
+Экспорт;***Экспорт
+Экспорт в ListBox;***Экспорт в ListBox
+Экспорт в Excel;***Экспорт в Excel
+Экспорт в XLS;***Экспорт в XLS
+Экспорт выделеных в Excel;***Экспорт выделеных в Excel
+Экспорт на видео сервер;***Экспорт на видео сервер
+экспортировать записи с пустыми путями;***экспортировать записи с пустыми путями
+Экспортировать передачи без блоков;***Экспортировать передачи без блоков
+экспортировать цвет события;***экспортировать цвет события
+Экстра позиция;***Экстра позиция
+Эти параметры будут присваиваться каждому создаваемому по клиенту заказу;***Эти параметры будут присваиваться каждому создаваемому по клиенту заказу
+Эфир;***Эфир
+юридическое лицо;***юридическое лицо
+Язык;***Язык
+Языки;***Языки
+янв;***янв
+Январь;***Январь
+Єто не json файл;***Єто не json файл
+№ заказа;***№ заказа
+, длительность-;, duration-
+, загружена и готова к установке. Установить?;, exported and ready to install. Would you like to install it?
+, от:;, from:
+, с коррекцией значения длительности;, With the editing of the duration value
+, с коррекцией значения времени начала;, With the editing of the start time value
+#ИМЯ?;#ИМЯ?
+->;->
+. Щелкните по иконке, чтобы прервать скачивание...;. Click on the icon to stop the download...
+. Продолжить!?;. Do you want to continue!?
+. Загрузить ее?;. Do you want to download it?
+. Прервать процесс?;. Do you want to interrupt the process?
+..\shared\Templates\BlockDurationInfo.xls;..\shared\Templates\BlockDurationInfo.xls
+..\shared\Templates\breakcost.xls;..\shared\Templates\breakcost.xls
+..\Shared\Templates\channelsPlacements.xls;..\Shared\Templates\channelsPlacements.xls
+..\Shared\Templates\costbyClients.xls;..\Shared\Templates\costbyClients.xls
+..\Shared\Templates\costbyClientsOrders.xls;..\Shared\Templates\costbyClientsOrders.xls
+..\Shared\Templates\CostByProgramm.xls;..\Shared\Templates\CostByProgramm.xls
+..\shared\Templates\finalCalculation.xls;..\shared\Templates\finalCalculation.xls
+..\shared\Templates\flTVGenreGrid.xls;..\shared\Templates\flTVGenreGrid.xls
+..\shared\Templates\flTVGridProgBreaks.xls;..\shared\Templates\flTVGridProgBreaks.xls
+..\shared\Templates\flTVGridWeekPreview.xls;..\shared\Templates\flTVGridWeekPreview.xls
+..\shared\Templates\flTVGridWord;..\shared\Templates\flTVGridWord
+..\shared\Templates\gfkDataTo1C.xls;..\shared\Templates\gfkDataTo1C.xls
+..\shared\Templates\gfkDataToOnAir.xls;..\shared\Templates\gfkDataToOnAir.xls
+..\shared\Templates\gridbyday2.xls;..\shared\Templates\gridbyday2.xls
+..\shared\Templates\mountgrid.xls;..\shared\Templates\mountgrid.xls
+..\shared\Templates\mountGrid7.xls;..\shared\Templates\mountGrid7.xls
+..\Shared\Templates\mountgrid_3.xls;..\Shared\Templates\mountgrid_3.xls
+..\shared\Templates\mountgrid_4.xls;..\shared\Templates\mountgrid_4.xls
+..\shared\Templates\mountgrid_georgia.xls;..\shared\Templates\mountgrid_georgia.xls
+..\shared\Templates\mountgrid_MTV.xls;..\shared\Templates\mountgrid_MTV.xls
+..\Shared\Templates\mountgrid_ut.xls;..\Shared\Templates\mountgrid_ut.xls
+..\Shared\Templates\MountGridOld.xls;..\Shared\Templates\MountGridOld.xls
+..\Shared\Templates\orderPlacementCost.xls;..\Shared\Templates\orderPlacementCost.xls
+..\shared\Templates\plannerView.xls;..\shared\Templates\plannerView.xls
+..\shared\Templates\reportChPlacements.xls;..\shared\Templates\reportChPlacements.xls
+..\shared\Templates\reportCostOrder.xls;..\shared\Templates\reportCostOrder.xls
+..\shared\Templates\reportCostOrder_v2.xls;..\shared\Templates\reportCostOrder_v2.xls
+..\shared\Templates\reportListVideoEvents.xls;..\shared\Templates\reportListVideoEvents.xls
+..\shared\Templates\reportWorkJournal.xls;..\shared\Templates\reportWorkJournal.xls
+..\shared\Templates\SalePlanRealization.xls;..\shared\Templates\SalePlanRealization.xls
+..\shared\Templates\slotTime.xls;..\shared\Templates\slotTime.xls
+..\shared\Templates\slotTimeAnalyst.xls;..\shared\Templates\slotTimeAnalyst.xls
+..\Shared\Templates\SOT.xls;..\Shared\Templates\SOT.xls
+..\shared\Templates\spotSales.xls;..\shared\Templates\spotSales.xls
+;
+Будет добавлена новая скидка/надбавка;A new discount/extra charge will be added
+Новая сессия с адреса %s;A new session has started from the following address %s
+Доступные скидки;Accessible discounts
+Доступные надбавки;Accessible premiums
+Рассчет;Accounting
+Активировать;Activate
+включить режим форматирования;activate the formation mode
+AD Description;AD Description
+Добавить выход;Add a showing
+Добавить ролик для кассеты №;Add clip to the cassette №
+Добавить файл;Add file
+добавлен;added
+добавлен плейлист с номером;added playlist number
+Осуществить выравнивание вставками;adjust breaks
+Рекламодатель;Advertiser
+после;after
+после-скидка;after-discount
+после-надбавка;after-premium
+все;all
+Все внесенные со времени последнего сохранения изменения будут утеряны!;All changes since the last saving will be lost!
+Все программы в этом дне будут удалены. Продолжить!?;All programs of this day will be deleted. Do you want to continue!?
+Все выделенные вставки будут удалены! Согласны?;All selected breaks will be deleted! Are you sure you want to continue?
+Все выделенные телепрограммы/вставки будут удалены! Согласны?;All selected TV programs will be deleted! Are you sure you want to continue?
+Все выделенные телепрограммы будут удалены! Согласны?;All selected TV programs/breaks will be deleted! Are you sure you want to continue?
+Все выбранные кассеты уже отправлены;All the selected reels are already sent
+Все настройки системы будут установлены в значения по умолчанию. Продолжать?;All the system settings will be asigned by default. Do you want to continue?
+Все телепрограммы будут удалены в этом дне! Согласны?;All TV programs from this day will be deleted! Are you sure you want to continue?
+в блоке уже есть! Добавить еще раз?;already exists in the block! Would you like to add another one?
+а также положение передачи будет изменено;also the position of the program will be changed
+Всего:;Altogether:
+анонс;announcement
+Сейчас другой пользователь пытается править эти данные.;Another user is trying to edit the data right now
+одобрение;approval
+Одобрение формирования;Approval of creation
+Одобрение корректировок;Approval of editing
+Одобрение предмонтажной подготовки;Approval of preinstallation preparations
+утверждена;approved
+апр;Apr
+Апрель;April
+Вы действительно хотите удалить контракт?;Are you sure you want to delete the contract?
+"Вы уверены, что хотите перевести в день в состояние ""%s""?";"Are you sure you want to shift the day to mode ""%s""?"
+на канал;at the channel
+на канале;at the channel
+Внимание!;Attention!
+Audio Desc;Audio Desc
+авг;aug
+Август;August
+так как обнаружен зафиксированный объект либо конец эфирного времени;because a fixed object or an end of airtime was detected
+до;before
+за;beyond
+Пустое значение!;Blank value!
+БЛОК %d добавлен в эфирный плейлист %d;Block %d is added to the on-air playlist%d
+БЛОК %s длит=%s;Block %s duration=%s
+Block position;Block position
+блок №;block №
+Рейтинги блоков;Blocks’ ratings
+Brand;Brand
+Вставка;Break
+вставка -;break -
+Вставка добавлена.;Break added.
+вставки;breaks
+вставок;breaks
+вставки %s возможно;breaks %s possibly
+Вставки для обработки не найдены.;Breaks for the adaption were not found.
+Вставки будут ужаты. Продолжить?;Breaks will be compressed. Are you sure you want to continue?
+Время выхода;Broadcast time
+бюджет;budget
+Бюджет, NET $;Budget, NET $
+по клиенту;by client
+По данному %s есть размещения. Удалить?;By given %s there are placements. Do you want to delete?
+по заказу;by order
+периоду;by period
+по СА;by SA
+по продавцу;by seller
+таймслоту;by timeslot
+Нельзя изменить длительность;Cannot change the duration
+категория;category
+Category;Category
+Изменение;Change
+изменение GFK- названия;change of the GFK- name
+переведен в состояние планирования!;changed into planning mode!
+Изменения жанровой сетки не были сохранены на сервере.;Changes in the genre grid were not saved to the server
+Были произведены изменения в жанровой сетке. Сохранить изменения на сервере?;Changes were made in the genre grid. Do you want to save the changes on the server?
+канал;channal
+Канал;Channel
+Channel;Channel
+Проверка закончена.;Check completed.
+Проверьте правильность курсов валют;Check the accuracy of the currency rate
+Проверьте правильность введенных данных;Check the accuracy of the input data
+Проверьте данные;Check the data
+Пожалуйста, выберите канал.;Choose a channel, please
+Выберите даты!;Choose dates!
+очищена;Clear
+Очистить рейтинги %s;Clear ratings %s
+ClientMediaPlan.xls;ClientMediaPlan.xls
+У клиентов есть доступ к этому дню.;Clients have access to this day.
+ClientsRealization.xls;ClientsRealization.xls
+Менеджер клиента;Client’s manager
+Клип;Clip
+Ролик;Clip
+создан ролик с номером;clip created with #
+Ошибка размещения ролика:;Clip placement error:
+Клип не найден;Clip was not found
+Ролик с ID=;Clip with ID=
+Ролик:;Clip:
+ролики;clips
+Ролики заказа;Clips from the order
+Закрыть для размещения;Close for placement
+Закрыт;Closed
+Шифр;Code
+колонка;column
+столбцы;columns
+"Ролик ""%s"" будет размещен в аукционном блоке. Удаление из аукционного блока невозможно! Продолжить?";"Commercial ""%s"" will be placed to the auction block. It is impossible to delete from the auction block! Do you want to continue?"
+Общий итог:;Common total:
+Компания;Company
+Включено сжатие передаваемой информации;Compression of the transmitting information is activated
+Компрессия:;Compression:
+Подтвержден;Confirmed
+Конфликты:;Conflicts:
+Соединиться;Connect
+Подключен к серверу;Connected to the server
+Связь между клипом видео-сервера %d и клипом teleport %d;Connections between the video-server’s clip %d and the teleport’s clip %d
+Условные фиксации не подтверждены.;Conventional fixes are not confirmed.
+Копировать жанровую сетку;Copy the genre grid
+Корректировка;Correcting
+"Стоимость 30"", NET $";"Cost 30"", NET $"
+"Стоимость GRP30"", NET $";"Cost GRP30"", NET $"
+Создать директорию;Create a directory
+Установить путь;Create path
+создан;created
+создан заказ с номером;created order #
+Создана кассета с номером №;Created reel #
+Создание;Creation
+Создание передачи;Creation of a tv program
+Создание вставки;Creation of commercial breaks
+Date;Date
+дата;date
+Дата:;Date:
+на дату;dated
+День;Day
+День(%);Day(%)
+День(сек);Day(sec)
+Осталось %d дней.;Days %d left.
+dd.mmmm.yyyy в HH.mm.ss;dd.mmmm.yyyy in HH.mm.ss
+Деактивировать;Deactivate
+дек;Dec
+Декабрь;December
+Удалить;Delete
+Удалить кассету №;Delete cassette №
+Удалить регион;Delete region
+Удалить диапазон адресов;Delete the range of addresses’
+Удалить спонсорский анонс;Delete the sponsor’s announcement
+Удалить весь факт?;Delete the whole fact?
+Удален;Deleted
+Детальная сетка;Detail grid
+Директория %s не найдена;Directory %s is not found
+Отсоединиться;Disconnect
+скидка;discount
+"Скидка """;"Discount """
+Параметры отображения;Display settings
+отображать->;display->
+выводим данные;displaying data
+будет отмечена как полученная?;do you want it to be marked as received?
+Утвердить ТЖС?;Do you want to approve the TGG?
+Вы хотите отменить подтверждение НПР заказа?;Do you want to cancel the NPP order agreement?
+Вы желаете отменить подтверждение НПР-размещения в этом дне;Do you want to cancel the NPP-placement agreement in this day
+Отменить?;Do you want to cancel?
+Вы хотите закрыть приложение?;Do you want to close the application?
+Вы хотите подтвердить НПР заказ?;Do you want to confirm the NPP order?
+Продолжить?;Do you want to continue?
+Удалить выход!?;Do you want to delete the broadcast!?
+Вы желаете удалить категорию продукта?;Do you want to delete the product’s category?
+Удалить выделенные размещения!?;Do you want to delete the selected placements!?
+Вы хотите удалить выделенную запись?;Do you want to delete the selected record?
+Удалить?;Do you want to delete?
+Вы хотите удалить;Do you want to delete?
+Загрузить сетку?;Do you want to export the grid?
+Сохранить измененные данные!?;Do you want to save the changed data!?
+Сохранить изменения!?;Do you want to save the changes!?
+Сохранить изменения?;Do you want to save the changes?
+Отправить размещение в буфер?;Do you want to send the placement to the buffer?
+Хронометраж;Duration
+ДЛИТЕЛЬНОСТЬ эфирного плейлиста %d=%s;Duration of the on-air playlist %d=%s
+правка;edit
+Редактировать...;Edit...
+Работник;Employee
+пустая;empty
+Разрывы будут заполнены вставками;Empty spaces will be filled with breaks
+Шифрование передаваемой информации - отключено;Encrypting of the transmitted information is off
+Русский;English
+Введите категорию!;Enter the category!
+Введите привязку к передаче!;Enter the link to the program!
+Введите название передачи!;Enter the name of the program!
+ошибка в расчетах нельзя сдвинуть на %d (%d);Error in calculations cannot be moved %d (%d)
+"превышение в %d часе по категории ""%s""";"Exceeding per %d hour by category ""%s"""
+Файлы Excel (*.xls)|*.xls;Excel files (*.xls)|*.xls
+существует. Продолжить?;exists. Do you want to continue?
+фев;Feb
+Февраль;February
+Файл %s не найден;File %s was not found
+Заполнить рейтинги;Fill the ratings
+заполнено (%);filled (%)
+Заполнение (график);Filling (diagram)
+Фиксировать;Fixation
+Fixation;Fixation
+установлена папка;folder installed
+для;for
+для клиента;for the client
+для ролика;for the commercial
+Для периода с;For the period from
+формируем данные;forming data
+формируем заголовки;forming headings
+найдено клипов больше одного;found more than one clip
+найдено клипов больше одного ->;found more than one clip ->
+добавлен фрагмент в блок %d с позицией %d;fragment added to the block %d from %d
+Пт;Fri
+пятница;Friday
+Fringe;Fringe
+из списка продуктов клиента?;from the client’s list?
+из файла;from the file
+"Жанровая сетка находится в "" состоянии:";"Genre grid is in "" mode:"
+"Жанровая сетка: """;"Genre grid: """
+Жанровые сетки |;Genre grids|
+Рейтинги GFK;GFK ratings
+Данный тип расчета %s не поддерживается;Given calculation type %s is not supported
+Group;Group
+GRP;GRP
+ч:мм:сс;hh:mm:ss
+час;hour
+Час(%);Hour(%)
+Час(сек);Hour(sec)
+Файлы HTML (*.html)|*.html;HTML files (*.html)|*.html
+в;in
+В очереди;In queue
+В блоке;In the block
+В данном промежутке уже есть;In the given interval there already are
+при этом будет изменено положение других вставок либо телепрограмм;in this case the position of the other breaks or TV programs will be changed
+некорректная длительность;incorrect duration
+Неверный пароль;Incorrect password
+неправильные параметры;incorrect settings
+Укажите канал, с которым заключается контракт;Indicate the channel with which the contract is concluded
+Укажите продавца, с которым заключается контракт;Indicate the seller with which the contract is concluded
+Информация добавлена, но невидна из-за установок фильтра;Information has been added, but is unseen due to the filter settings
+внутри;inner
+внутри;inside
+интегр.;integrated.
+пересечение внутренних вставок;Intersection of inner breaks
+пересечение программ;Intersection of programs
+инвентарь;inventory
+уже используется;is already in use
+не является продавцом;Is not a seller
+не является сотрудником продавца;is not the employee of the seller
+невозможно добавить отбивочную вставку;it is impossible to add the separating break
+Невозможно ужать вставку.;It is impossible to compress the break.
+impossible create break;It is impossible to create a break
+Невозможно удалить файл %s в %s;It is impossible to delete file %s in %s
+Невозможно загрузить файл.;It is impossible to export the file.
+Невозможно переименовать файл %s в %s;It is impossible to rename file %s into %s
+Для подключения системы обязательно необходимо описать хотя-бы один сервер. Вы готовы это сделать сейчас?;It is necessary to describe at least one server to connect to the system. Do you want to do this now?
+длительность вставки необходимо увеличить;it is necessary to increase the duration of the break
+Возможно не открыт год.;It is possible the year is not opened.
+янв;Jan
+Январь;January
+июл;Jul
+Июль;July
+июн;Jun
+Июнь;June
+Length;Length
+меньше предыдущего;less than the previous
+строка;line
+линии;lines
+категория связана;linked category
+Сделать невидимым для клиентов;Make invisible to the clients
+Сделать видимым и доступным клиентам для размещения;Make visible and accessible to the clients for arrangements
+Сделать видимым для клиентов;Make visible to the clients
+Менеджер;Manager
+мар;mar
+Март;March
+Май;May
+мм:сс;mm:ss
+"состояние """;"mode """
+Пн;Mon
+понедельник;Monday
+Название;Name
+новая скидка;New discount
+новая надбавка;new premium
+Добавлен новый продукт;New product added
+не;no
+NO;NO
+нет одобрений;no approvals
+Нет разрывов в передачах за период;No breaks between programs in the period of
+изменений не было;no changes made
+нет подключения;No connection
+Нет данных для отчёта;No data for the account
+Нет данных;No data found
+Не найдены заказы;No orders found
+нет размещений в блоке;no placements in the block
+не зарегистрировано ни одного продукта;No products have been registered
+На этом листе нет нужных данных;No required data on this sheet
+нет условия на период;no requirement for the period
+Ответ сервера не найден. Обновите данные.;No response from the server was found. Refresh the data.
+Не указан ни один день недели!;None of the days of the week was indicated!
+Не идентифицировано ни одной целевой аудитории в xls-файле;None of the targeted audience is identified in the xls-file
+не;not
+Не все поля заполнены. Возможно, Вы пропустили код или тип.;Not all fields are filled. It is possible you missed the code or type.
+не закрыт.;not closed.
+Недостаточно места;Not enough space
+не найден;not found
+не отправлена;not sent
+Ничего не найдено!;Nothing found!
+При проверке обнаружены предупреждения. Продолжить?;Notifications were detected during the check. Do you want to continue?
+ноя;Nov
+Ноябрь;November
+НПР;NPP
+Объект потерян. Возможно уничтожен/изменен другим пользователем;Object lost. Possibly destroyed/changed by another user
+окт;Oct
+Октябрь;October
+апреля;of April
+августа;of August
+декабря;of December
+февраля;of February
+января;of January
+июля;of July
+июня;of June
+марта;of March
+мая;of May
+ноября;of November
+октября;of October
+сентября;of September
+производителя;of the producer
+Ok;Ok
+на;on
+Нельзя удалить вставку только для чтения;One cannot delete a read-only break
+нельзя удалить передачу предназначенную только для чтения;One cannot delete the program intended for reading only
+нельзя переместить вставку, так как некоторые окажутся за пределами передачи;One cannot transmit the break, because some will appear to be beyond the limits of the transmission
+отправлять в буфер может только работник продавца;Only the staff of the seller can send to the buffer
+Открыть для размещения;Open for placement
+Открытое рекламное время;Opened commercial time
+заказ;order
+заказа;order
+"Заказ находится в состоянии ""планирование"" и не размещен в реальную сетку телеканала.";"Order is in ""planning"" mode and hasn’t been placed to the actual grid of the TV channel."
+Заказ №;Order №
+устаревшие данные. нуждается в обновлении;outdated data. Needs update
+Размещение;Placement
+Размещение %s;Placement %s
+Размещение невозможно;Placement is impossible
+Размещение на канале;Placement on the channel
+Правило размещения;Placement rule
+размещений;placements
+размещения;Placements
+Размещения по заказу;Placements on demand
+плановый SOR;planned SOR
+Планирование;Planning
+возможно сетка занята другим пользователем;possibly the grid is occupied by another user
+Предмонтажная подготовка;Preinstallation preparations
+надбавка;premium
+Привелегии;Privileges
+Producer;Producer
+Производитель;Producer
+Product;Product
+Продукт;Product
+факт производства;production fact
+Рабочая программа на;Production program for
+program;program
+Передача;Program
+программ;program
+Программа;Program
+программа -;program -
+Program After;Program After
+Program Before;Program Before
+Программная сетка;Program grid
+Programs;Programs
+программы;programs
+Количество размещений %d.;Quantity of placements %d.
+Рейтинги;Ratings
+только для чтения;reading only
+Готов;Ready
+Real Length;Real Length
+Кассета №;Reel №
+Обновить gfk-название...;Refresh gfk-name...
+Только региональные блоки;Regional blocks only
+Зарегистрировать кассету;Register a reel
+удаление выделенных вставок;removal of the selected breaks
+удаление выделенных программ;Removal of the selected programs
+Удалить свободное место между телепередачами?;Remove the white space between the TV programs?
+Заменить;Replace
+reportCostByBudget.xls;reportCostByBudget.xls
+reportCostByChannels.xls;reportCostByChannels.xls
+reportCostByClientsAndAdvertisers.xls;reportCostByClientsAndAdvertisers.xls
+Добавлен запрос на регистрацию нового продукта;Request added for the registry of the new product
+Запрос на регистрацию продукта;Request for the product registration
+Просмотр данных по кассете...;Review of data by reel...
+Сб;Sat
+суббота;Saturday
+вторичные события;secondaries
+втор.соб.;secondary event
+Нет выделенного ролика;Selected clip not found
+продавец;seller
+Отправить кассету № %d на канал;Send reel № %d to the channel
+сен;Sep
+отбивочный;separating
+Отбивка;Separating clip
+Сентябрь;September
+Перевести день в состояние;Shift the day into mode
+"Объем, WGRPs 30""";"Size, WGRPs 30"""
+слот %d(%s) - предупреждения: %s;slot %d(%s) - warnings: %s
+Спонсорский клип уже присутствует в спонсорском анонсе. Добавить еще раз?;Sponsor’s clip is already present in the sponsor’s preview. Do you want to add it again?
+Spot Position;Spot Position
+Spot Type;Spot Type
+Начать синхронизацию канала %s на канал %s по выбранным дням?;Start the synchronization of channel %s to channel %s by selected days?
+Start Time;Start Time
+Статус дня;Status of the day
+Sub-Category;Sub-Category
+такой клип уже присутствует;Such clip already exists
+такой день в периоде уже есть;Such day in the period already exists
+Такая директория;Such directory
+Такой медиакод уже существует.;Such mediacode already exists.
+такой продукт уже присутствует;Such product already exists
+summary;summary
+Summary_On_The_AirTime.xls;Summary_On_The_AirTime.xls
+Вс;Sun
+воскресенье;Sunday
+Изменить состояние заказа на;Switch the order mode to
+Целевая аудитория: ?;Target audience: ?
+ТДС;TDG
+Teleport Channel;Teleport Channel
+ТЖС;TGG
+неправильное расположение вставок после;The arrangement of breaks is incorrect after
+неправильное расположение вставок до;The arrangement of breaks is incorrect before
+начало времен;the beginning of time
+Заполнено время блоков;The block time is filled
+вставка выходит за пределы передачи;The break exceeds the program limits
+категории не совпадают;the categories do not match
+категория не связана;the category is not linked
+Не указан канал;The channel is not indicated
+не определен канал;the channel is not specified
+клиент в ТДС;the client is in the TDG
+клиент в ТЖС;the client is in the TGG
+Клиент не определен;The client is not indicated
+Клип уже размещен;The clip is already placed
+клип сопоставлен;the clip is collated
+не найден клип;the clip was not found
+сбор одобрений;the collection of approvals
+Сжатие передаваемой информации отключено;The compression of the transmitting information is off
+создана связь;the connection has been established
+Соединение успешно установлено;The connection is established successfully
+Не установлено соединение с MS SQL;The connection with the MS SQL is not established
+Стоимость рекламного времени ТДС;The cost of commercial airtime TDG
+Стоимость рекламного времени ТЖС;The cost of commercial airtime TGG
+Данные выходят за диапазон. Продолжить?;The data goes out of the range. Do you want to continue?
+Данные были изменены пользователем;The data has been changed by the user
+Данные не загружены;The data hasn’t been exported
+Запись в Xls-файле скрыта.;The data in the Xls-file is hidden.
+День %s должен быть в состоянии готов!;The day %s must be ready!
+День не доступен для просмотра;The day is not available for viewing
+День еще не открыт для просмотра;The day is not opened for viewing yet
+не определен день;the day is not specified
+Не выбраны дни для импорта данных;The days for the data import were not chosen
+загружена детальная сетка;the detail grid has been exported
+Произошло разъединение с сервером по причине %s;The disconnection with the server has occurred because of the following reason%s
+Длительность ролика должна быть больше 5 секунд;The duration of the commercial should be more than 5 seconds
+Длительность видеоматериала;The duration of the video material
+Уже существует монтажный лист на дату;The edit decision list already exists for such date
+Включено шифрование передаваемой информации;The encrypting of the transmitting information is activated
+конечная граница вещания не может быть установлена в;the end bound of the broadcast cannot be placed into
+конец времен;the end of time
+FTP сервер не определен.;The FTP sever isn’t defined.
+загружена жанровая сетка;the genre grid has been exported
+Сетка заблокирована пользователем;The grid is blocked by the user
+Сетка в состоянии формирования;The grid is in formation mode
+Группы не соответствуют. Продолжить?;The groups are not corresponding. Do you want to continue?
+Канал для импорта не выбран.;The import channel is not chosen
+Введенная информация некорректна;The input date is incorrect
+не указан код медиа;the media code missing
+Неправильно введенный новый пароль;The new password is entered incorrectly
+НПР не подтверждены.;The NPP are not confirmed.
+Открытие детальной сетки;The opening of the detail grid
+"Заказ находится в состоянии ""размещение"". Данное состояние не гарантирует выхода размещенных роликов в эфир!";"The order is in ""placement"" mode. Such mode does not guarantee the broadcasting of the placed clips!"
+не указан заказ;the order is not defined
+Снятые размещения по заказу;The order placements have been removed
+Отсутствует информация для вывода!;The output information is absent!
+Неверно указаны периоды.;The periods are indicted incorrectly.
+В буфере содержатся размещения. Продолжить?;The placements are in the buffer. Do you want to continue?
+продукт в ТДС;the product is in the TDG
+продукт в ТЖС;the product is in the TGG
+Неверно задано значение рейтинга;The rating value was specified incorrectly
+Описание причины;The reason description
+Ролик с кассетой отправлен на канал;The reel and clip were sent to the channel
+Кассеты на канале;The reel is at the channel
+Кассеты у продавца;The reel is at the seller
+Ответ сервера не найден;The reply from the server was not found
+Результат размещения заказа;The result of the order placement
+Такой файл уже существует. Перезаписать!?;The same file already exists. Do you want to overwrite it!?
+Выделенная вставка будет удалена! Согласны?;The selected breaks will be deleted! Are you sure you want to continue?
+Нет выделенного клипа;The selected file was not found
+Выделенная телепрограмма будет удалена! Согласны?;The selected TV program will be deleted! Are you sure you want to continue?
+Неверный параметр выборки;The selection parameter is incorrect
+Настройки вступят в силу только после перезапуска приложения.;The settings will take effect only after the restart of the application.
+Большое смещение во времени. Найти более подходящую вставку?;The shift in time is too long. Would you like to find a more suitable spot?
+начальная граница вещания не может быть установлена в;the start bound of the broadcast cannot be installed into
+Дата начала скидки должна быть меньше даты окончания;The start date of the discount must be less than the end date
+Состояние дня не допускает размещения;The condition of the day does not allow any placement
+не определен шаблон;the template is not specified
+ТЖС занята пользователем;The TGG is occupied by another user
+Неверно задано значение времени;The time value was assigned incorrectly
+не определен тип сетки. процедура LoadFromServer;the type of the grid is not specified. Procedure LoadFromServer
+Новая версия программы;The update version of the program
+Новая версия программы готова к установке. Рекомендуется установить. Щелкните по иконке, чтобы начать установку.;The update version of the program is ready for installation. It is recommended to install it. Click on the icon to start the installation.
+Пользователь будет удален из списка. Согласны?;The user will be deleted from the list. Do you want to continue?
+не получается добавить программу;There are troubles adding the program
+Нет доступа к параметрам клиента;There is no access to the customer’s profile
+Нет доступа для просмотра канала;There is no access to view the channel
+Нет прав для просмотра размещений канала;There’s no access to view the channel’s placements
+Нет доступа для просмотра видео-продуктов;There’s no access to view the video-products
+Нет доступа для работы с заказами для клиента;There’s no access to work with the client’s orders
+Нет доступа для работы с роликами;There’s no access to work with the clips
+Нет соединения с сервером для импорта;There’s no connection with the server for import
+Нет смысла искать пустую строку!;There’s no point looking for a blank line!
+Нет возможности для размещения;There’s no possibility of placement
+недостаточно места в блоке;There’s not enough free space in the block
+Это размещение из другого заказа! Вы действительно хотите его удалить?;This placement is from another order! Are you sure you want to delete it?
+Эта запись уже сопоставлена;This record has already been matched
+Чт;Thu
+четверг;Thursday
+время;time
+время выходит за рамки вещания канала;time exceeds the broadcast limits of the channel
+Значение времени;Time value
+TO;TO
+для копирования вставок необходимо выделить программу;To copy breaks it is necessary to select the program
+Для восстановления изменений обратитесь к разработчикам. (код-;To restore the changes address to the developers. (code-
+к клипу;to the clip
+итого;total
+tpChannel;tpChannel
+Трасса;Trace
+Вт;Tue
+вторник;Tuesday
+Выключить;Turn off
+Включить;Turn on
+телепрограммы %s возможно;TV programs %s possibly
+Рейтинги передач;TV programs’ ratings
+Type Spot;Type Spot
+неизвестный тип сетки;type unknown
+Разблокировать;Unblock
+неизвестно;unknown
+Происходит скачивание новой версии программы с Web-сервера -;Update version of the program is being exported from the Web-server -
+Обнаружена новая версия программы -;Update version of the program was found -
+Обнаружена новая версия программы. Щелкните по иконке, чтобы получить больше информации...;Update version of the program was found. Click on the icon to get more information...
+пользователь;user
+Пользователь %s не зарегистрирован на видео сервере;User %s isn’t registered on the video-server
+версии;releases
+просмотр (перевести сетку в режим формирования);view (shift the grid to formation mode)
+вид->;view->
+Ср;Wed
+среда;Wednesday
+Wgrp;Wgrp
+будет очищена. Продолжить?;will be deleted Do you want to continue?
+будет удалён из списка роликов кассеты!;will be deleted from the list of clips from the reel!
+будет удалено!;will be deleted!
+будет удалён!;will be deleted!
+будет удалён! Продолжить?;will be deleted! Are you sure you want to continue?
+будет перемещен в другой блок. Продолжить?;will be moved to another block. Do you want to continue?
+будет принята из производства;will be received from production
+С;With
+С помощью этого мастера Вы сможете добавить нового менеджера клиента;With this wizard you can add a new client’s manager
+С помощью этого мастера Вы сможете добавить нового менеджера;With this wizard you can add a new manager
+С помощью этого мастера Вы сможете зарегистрировать работника из списка пользователей;With this wizard you can register the employees from the user list
+Изменить условия фильтра?;Would you like to change the filter settings?
+Вы желаете подтвердить НПР-размещения в этом дне;Would you like to confirm the NPP-placement in this day
+Сохранить неподтвержденные изменения?;Would you like to save the unconfirmed changes?
+Перенести все изменения на сервер?;Would you like to transfer all the changes to the server?
+Файлы XLS (*.xml)|*.xml;XLS files (*.xml)|*.xml
+Вы выбрали;You chose  - you selected
+вы дропнули файл;you dropped the file
+Вы лишили пользователя всех прав, и он будет удален из списка. Согласны?;You have divested the user of all his rights, he will be deleted from the list. Are you sure you want to continue?
+Нет доступа для правки каталога;You have no permission to edit the catalog
+Нет прав для размещения во вставке;You have no permission to place into the break
+Нет прав для создания заказа;You have no rights to create an order
+У вас установлена самая свежая версия продукта. Обновлений на данный момент - нет;You have the most fresh version of the program installed. There are no updates at the moment
+Вы должны выбрать ролик!;You have to select a clip!
+Ваше одобрение принято.;Your approval is accepted.
+М;М
