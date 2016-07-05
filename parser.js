@@ -42,7 +42,7 @@ fs.truncateSync(enfile);
 
 for (var j in globArr){
     if( (typeof(globArr[j]) == 'undefined') || (globArr[j]) == '')
-        fs.appendFileSync(enfile, "\n" + j + '\r\n','ascii' );
+        fs.appendFileSync(enfile, "\n" + j + '\r\n');
     else
         fs.appendFileSync(enfile, globArr[j] + '\r\n' );
 }
