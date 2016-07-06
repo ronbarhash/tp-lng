@@ -2,11 +2,12 @@ var fs = require('fs');
 var globArr = [];
 var text, lng = {};
 var count_ru = 0, count_all =0;
-var ifile = 'src/en.csv';
-var rufile = 'src/lng/tpChannel_ru.lng';
-var enfile = 'dist/tpChannel_en.lng';
+var ifile = 'src/en.csv'; // Словарь [RU|EN] терминов разделенных ";"
+var rufile = 'src/lng/tpChannel_ru.lng'; //  Начальный лингво-файл
+var enfile = 'dist/tpChannel_en.lng'; // Результирующий файл
 
 function file4Arr(fileName, separate){
+    // Функция преобрахования файла в объект
     var arr =  {};
     var f = fs.readFileSync(fileName, 'utf8');
     var f_arr = f.split("\r\n");
@@ -17,10 +18,10 @@ function file4Arr(fileName, separate){
     return arr;
 }
 
-text = file4Arr(ifile, ";");
-lng = file4Arr(rufile,"=");
+text = file4Arr(ifile, ";"); //Словарь
+lng = file4Arr(rufile,"="); // RU
 
-for(var i in lng){ //
+for(var i in lng){ // Перевод русского файла в соответствии с словарем
      if (lng[i] in text){
         count_all++;
         if (text[lng[i]].search(/[А-яЁё]/) > 0 ){
@@ -29,7 +30,7 @@ for(var i in lng){ //
             count_ru++;
         }
         else {
-            text[lng[i]] = text[lng[i]].replace("***","")
+            text[lng[i]] = text[lng[i]].replace("***","") // очистка латинских слов от звезд-"***"
             globArr[i] = i + "=" + text[lng[i]];
         }
     }else {
@@ -37,13 +38,14 @@ for(var i in lng){ //
     }
 }
 console.log(globArr);
-if ( fs.existsSync(enfile) ) fs.truncateSync(enfile);
+if ( fs.existsSync(enfile) ) fs.truncateSync(enfile); // Удаление файла с результатами
 
 for (var j in globArr){
+    // Формирование файла результатов
     if( (typeof(globArr[j]) == 'undefined') || (globArr[j]) == '')
         fs.appendFileSync(enfile, "\n" + j + '\r\n');
     else
         fs.appendFileSync(enfile, globArr[j] + '\r\n' );
 }
 
-console.log("RU =" + count_ru + " and ALL = " + count_all);
+console.log("RU =" + count_ru + " and ALL = " + count_all); //посчет количесва строк
