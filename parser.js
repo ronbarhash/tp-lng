@@ -1,6 +1,6 @@
 var fs = require('fs');
 var globArr = [];
-var lng = {};
+var text, lng = {};
 var count_ru = 0, count_all =0;
 var ifile = 'src/en.csv';
 var rufile = 'src/lng/tpChannel_ru.lng';
@@ -17,8 +17,8 @@ function file4Arr(fileName, separate){
     return arr;
 }
 
-var text = file4Arr(ifile, ";");
-var lng = file4Arr(rufile,"=");
+text = file4Arr(ifile, ";");
+lng = file4Arr(rufile,"=");
 
 for(var i in lng){ //
      if (lng[i] in text){
@@ -37,8 +37,7 @@ for(var i in lng){ //
     }
 }
 console.log(globArr);
-
-fs.truncateSync(enfile);
+if ( fs.existsSync(enfile) ) fs.truncateSync(enfile);
 
 for (var j in globArr){
     if( (typeof(globArr[j]) == 'undefined') || (globArr[j]) == '')
