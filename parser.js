@@ -26,7 +26,8 @@ for(var i in lng){ // Перевод русского файла в соотве
         count_all++;
         if (text[lng[i]].search(/[А-яЁё]/) > 0 ){
             // globArr[i] = i + "=" + i + "!!!"; // miCaptions
-            globArr[i] = i + "=" + text[lng[i]]; // RU ***
+            // globArr[i] = i + "=" + text[lng[i]] + " - "+i; // RU + caption
+            globArr[i] = i + "=" + text[lng[i]] + " - "+i; // RU ***
             count_ru++;
         }
         else {
